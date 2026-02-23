@@ -82,7 +82,6 @@ mapek-backend/
 ├── data/                    # Training data, trained models, question bank
 ├── explain/                 # Explanation generators and dialogue policies
 ├── llm_agents/              # LLM-based agents for intent recognition and response planning
-├── parsing/                 # LLM pipelines for natural-language understanding
 ├── experiment_analysis/     # Scripts and preprocessed results for the HAI25 study
 ├── flask_app.py             # Flask entrypoint and route definitions
 ├── Makefile                 # Docker build/run helpers
