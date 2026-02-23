@@ -1,0 +1,3 @@
+,total_users,condition_name,final_irt_score_mean_mean,final_irt_score_mean_std,final_irt_score_mean_median,final_irt_score_mean_count
+chat,108,chat,-0.033286967259698076,0.5551474033372253,0.09565983397886155,108
+interactive,108,interactive,-0.0055679653197121745,0.5077047368247845,0.10571757495868944,108

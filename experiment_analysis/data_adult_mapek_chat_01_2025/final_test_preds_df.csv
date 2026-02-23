@@ -1,0 +1,677 @@
+id,user_id,source,action,created_at,datapoint_count,prediction,true_label,confidence_level,feedback,accuracy
+54253,a7c4a036-a25c-4e61-b020-ff1a3099c99c,final-test,user_prediction,2025-02-23 00:45:06.134216,1,over 50k,over 50k,3,hours worked and investment gain is major,Correct
+54273,a7c4a036-a25c-4e61-b020-ff1a3099c99c,final-test,user_prediction,2025-02-23 00:46:01.332497,4,under 50k,under 50k,1,low occupation with low hours,Correct
+54277,a7c4a036-a25c-4e61-b020-ff1a3099c99c,final-test,user_prediction,2025-02-23 00:46:39.099463,5,under 50k,over 50k,2,poor work life balance with loss of investment,Wrong
+54287,a7c4a036-a25c-4e61-b020-ff1a3099c99c,final-test,user_prediction,2025-02-23 00:47:27.564697,7,under 50k,over 50k,1,major investment loss ,Wrong
+54258,a7c4a036-a25c-4e61-b020-ff1a3099c99c,final-test,user_prediction,2025-02-23 00:45:21.700230,2,under 50k,under 50k,3,age so not long in to the career with no investments ,Correct
+54266,a7c4a036-a25c-4e61-b020-ff1a3099c99c,final-test,user_prediction,2025-02-23 00:45:41.460721,3,over 50k,under 50k,2,post-graduate education and high age,Wrong
+54282,a7c4a036-a25c-4e61-b020-ff1a3099c99c,final-test,user_prediction,2025-02-23 00:46:52.163299,6,under 50k,over 50k,3,low age and low hours worked,Wrong
+54292,a7c4a036-a25c-4e61-b020-ff1a3099c99c,final-test,user_prediction,2025-02-23 00:47:42.108739,8,over 50k,under 50k,3,a lot of hours worked in a strong occupation,Wrong
+54296,a7c4a036-a25c-4e61-b020-ff1a3099c99c,final-test,user_prediction,2025-02-23 00:47:51.812576,9,under 50k,over 50k,2,sales has a lower income,Wrong
+54300,a7c4a036-a25c-4e61-b020-ff1a3099c99c,final-test,user_prediction,2025-02-23 00:48:05.545990,10,under 50k,under 50k,3,low age so new into career and only 40 hours,Correct
+54301,578bc8db-e6fa-42bb-8e67-f323730cc107,final-test,user_prediction,2025-02-23 00:48:47.921109,1,over 50k,over 50k,3,"a degree, lots of hours, and a major gain",Correct
+54305,578bc8db-e6fa-42bb-8e67-f323730cc107,final-test,user_prediction,2025-02-23 00:49:07.111289,2,under 50k,under 50k,4,"young, no investments, blue collar",Correct
+54307,578bc8db-e6fa-42bb-8e67-f323730cc107,final-test,user_prediction,2025-02-23 00:49:36.612936,3,over 50k,under 50k,1,not positive but older and many hours,Wrong
+54311,578bc8db-e6fa-42bb-8e67-f323730cc107,final-test,user_prediction,2025-02-23 00:50:08.249037,4,under 50k,under 50k,3,"no education, only 40 hours and an investment loss in service industry",Correct
+54313,578bc8db-e6fa-42bb-8e67-f323730cc107,final-test,user_prediction,2025-02-23 00:50:30.661783,5,over 50k,over 50k,3,"older, married, white collar work",Correct
+54315,578bc8db-e6fa-42bb-8e67-f323730cc107,final-test,user_prediction,2025-02-23 00:50:56.701338,6,over 50k,over 50k,1,not positive but married with some college,Correct
+54318,578bc8db-e6fa-42bb-8e67-f323730cc107,final-test,user_prediction,2025-02-23 00:51:20.250699,7,over 50k,over 50k,1,Mainly being married and working so many hours,Correct
+54320,578bc8db-e6fa-42bb-8e67-f323730cc107,final-test,user_prediction,2025-02-23 00:51:40.349032,8,over 50k,under 50k,4,"easy. degree, married and a lot of hours",Wrong
+54322,578bc8db-e6fa-42bb-8e67-f323730cc107,final-test,user_prediction,2025-02-23 00:52:00.359418,9,over 50k,over 50k,3,"age, degree and investments",Correct
+54324,578bc8db-e6fa-42bb-8e67-f323730cc107,final-test,user_prediction,2025-02-23 00:52:21.160066,10,under 50k,under 50k,4,"young, single, no investments",Correct
+54839,2901bbf2-b970-4686-b70d-8197a3b3d36a,final-test,user_prediction,2025-02-23 01:51:29.850218,1,over 50k,over 50k,3,"A college degree, 56 working outs, and major gain were the most important factors.",Correct
+54855,2901bbf2-b970-4686-b70d-8197a3b3d36a,final-test,user_prediction,2025-02-23 01:52:17.096799,2,under 50k,under 50k,3,20 years old seems like too young to be making money. Also no investments. ,Correct
+54867,2901bbf2-b970-4686-b70d-8197a3b3d36a,final-test,user_prediction,2025-02-23 01:52:50.903012,3,over 50k,under 50k,3,"49 years old, college degree, and 50 hours work week were the major factors.",Wrong
+54881,2901bbf2-b970-4686-b70d-8197a3b3d36a,final-test,user_prediction,2025-02-23 01:53:21.889547,4,over 50k,under 50k,1,Being married and 34 seem like good indicators of over 50k.,Wrong
+54895,2901bbf2-b970-4686-b70d-8197a3b3d36a,final-test,user_prediction,2025-02-23 01:54:00.697046,5,over 50k,over 50k,4,"The age, college degree,  and white collar are the biggest factors.",Correct
+54913,2901bbf2-b970-4686-b70d-8197a3b3d36a,final-test,user_prediction,2025-02-23 01:54:45.740010,6,under 50k,over 50k,1,I think being in the military is a big indicator for under 50k.,Wrong
+54926,2901bbf2-b970-4686-b70d-8197a3b3d36a,final-test,user_prediction,2025-02-23 01:55:13.475294,7,over 50k,over 50k,3,"The college degree, being married, and working 55 hours a good are very good factors in being over 50k.",Correct
+54933,2901bbf2-b970-4686-b70d-8197a3b3d36a,final-test,user_prediction,2025-02-23 01:55:40.425785,8,over 50k,under 50k,3,The most important factor here is 56 hours work week and being married.,Wrong
+54953,2901bbf2-b970-4686-b70d-8197a3b3d36a,final-test,user_prediction,2025-02-23 01:56:42.438029,9,over 50k,over 50k,3,The college degree and major gain are two big factors for being over 50k. The age plays a role as well.,Correct
+54960,2901bbf2-b970-4686-b70d-8197a3b3d36a,final-test,user_prediction,2025-02-23 01:57:17.551985,10,under 50k,under 50k,3,"The age, occupation, and being single are the biggest factors in being under 50k.",Correct
+55051,ca8f0939-547a-466c-8279-45e8d5b2cffc,final-test,user_prediction,2025-02-23 02:09:28.519053,1,over 50k,over 50k,3,"age, education, hours worked and investment",Correct
+55056,ca8f0939-547a-466c-8279-45e8d5b2cffc,final-test,user_prediction,2025-02-23 02:10:03.396286,2,over 50k,under 50k,1,education makes me feel that way,Wrong
+55058,ca8f0939-547a-466c-8279-45e8d5b2cffc,final-test,user_prediction,2025-02-23 02:10:35.714839,3,over 50k,under 50k,2,"education, age and hours worked",Wrong
+55066,ca8f0939-547a-466c-8279-45e8d5b2cffc,final-test,user_prediction,2025-02-23 02:12:24.665041,5,over 50k,over 50k,4,"age, education, marital status and occupation lead me to believe they are a higher earner",Correct
+55078,ca8f0939-547a-466c-8279-45e8d5b2cffc,final-test,user_prediction,2025-02-23 02:13:26.105545,6,over 50k,over 50k,0,occupation played a part ,Correct
+55061,ca8f0939-547a-466c-8279-45e8d5b2cffc,final-test,user_prediction,2025-02-23 02:11:11.044380,4,under 50k,under 50k,1,their education and occupation,Correct
+55081,ca8f0939-547a-466c-8279-45e8d5b2cffc,final-test,user_prediction,2025-02-23 02:14:06.056800,7,over 50k,over 50k,3,education marital status and hours worked,Correct
+55083,ca8f0939-547a-466c-8279-45e8d5b2cffc,final-test,user_prediction,2025-02-23 02:14:35.507628,8,over 50k,under 50k,4,all of the things here say they are a higher earner,Wrong
+55086,ca8f0939-547a-466c-8279-45e8d5b2cffc,final-test,user_prediction,2025-02-23 02:15:25.468159,9,over 50k,over 50k,2,education and age point to higher earnings but investments played a role in my decision,Correct
+55093,ca8f0939-547a-466c-8279-45e8d5b2cffc,final-test,user_prediction,2025-02-23 02:16:10.428111,10,under 50k,under 50k,1,occupation and no investments,Correct
+58906,ed83e6db-2afe-4fb9-b8d7-89eb9f65f4b2,final-test,user_prediction,2025-02-23 13:59:29.812007,1,over 50k,over 50k,4,Good investment outcome,Correct
+58911,ed83e6db-2afe-4fb9-b8d7-89eb9f65f4b2,final-test,user_prediction,2025-02-23 14:00:05.549371,2,under 50k,under 50k,3,"Marital status, No investment outcome",Correct
+58914,ed83e6db-2afe-4fb9-b8d7-89eb9f65f4b2,final-test,user_prediction,2025-02-23 14:01:15.745199,3,under 50k,under 50k,3,Loss of more than 1k$ in investment,Correct
+58922,ed83e6db-2afe-4fb9-b8d7-89eb9f65f4b2,final-test,user_prediction,2025-02-23 14:03:21.425494,4,under 50k,under 50k,4,Minor loss in investment outcome,Correct
+58926,ed83e6db-2afe-4fb9-b8d7-89eb9f65f4b2,final-test,user_prediction,2025-02-23 14:03:43.761249,5,under 50k,over 50k,4,Poor work life balance,Wrong
+58937,ed83e6db-2afe-4fb9-b8d7-89eb9f65f4b2,final-test,user_prediction,2025-02-23 14:04:31.673670,6,under 50k,over 50k,3,Occupation and Gain in investment outcome,Wrong
+58947,ed83e6db-2afe-4fb9-b8d7-89eb9f65f4b2,final-test,user_prediction,2025-02-23 14:05:05.014622,7,under 50k,over 50k,3,Major loss in investment outcome,Wrong
+58949,ed83e6db-2afe-4fb9-b8d7-89eb9f65f4b2,final-test,user_prediction,2025-02-23 14:05:21.432715,8,under 50k,under 50k,3,No investement,Correct
+58956,ed83e6db-2afe-4fb9-b8d7-89eb9f65f4b2,final-test,user_prediction,2025-02-23 14:05:52.679405,9,over 50k,over 50k,4,Major gain in investment outcome,Correct
+58962,ed83e6db-2afe-4fb9-b8d7-89eb9f65f4b2,final-test,user_prediction,2025-02-23 14:06:20.427972,10,under 50k,under 50k,3,"Age, and investment outcome",Correct
+55163,c6ca1d1c-b1b7-4585-a874-675e820d9d5f,final-test,user_prediction,2025-02-23 02:28:31.084577,1,over 50k,over 50k,3,A degree with a decent length career. Good weekly hours in sales which could go either way but the investment result sways it.,Correct
+55176,c6ca1d1c-b1b7-4585-a874-675e820d9d5f,final-test,user_prediction,2025-02-23 02:30:25.852325,5,over 50k,over 50k,1,Late in career in a white collar job.,Correct
+55180,c6ca1d1c-b1b7-4585-a874-675e820d9d5f,final-test,user_prediction,2025-02-23 02:31:01.572734,6,over 50k,over 50k,1,Not too confident. Just based on the fact that I think military salaries are normally good and the investment outcome shows promise.,Correct
+55188,c6ca1d1c-b1b7-4585-a874-675e820d9d5f,final-test,user_prediction,2025-02-23 02:32:24.198773,8,under 50k,under 50k,1,"This is a tough one, decent enough length of career with a degree and married whilst working plenty of hours a week. But in a blue collar job with no investment so I think under 50k.",Correct
+55192,c6ca1d1c-b1b7-4585-a874-675e820d9d5f,final-test,user_prediction,2025-02-23 02:33:00.173059,9,over 50k,over 50k,3,I would've gone for under however I realised in the testing how important investment outcome is for the AI model so that swayed it for me.,Correct
+55194,c6ca1d1c-b1b7-4585-a874-675e820d9d5f,final-test,user_prediction,2025-02-23 02:33:17.980497,10,under 50k,under 50k,4,"Young, single, no investments and working in service.",Correct
+55165,c6ca1d1c-b1b7-4585-a874-675e820d9d5f,final-test,user_prediction,2025-02-23 02:28:58.343192,2,under 50k,under 50k,3,Very young and working 40 hours a week at a blue collar job with no investment.,Correct
+55169,c6ca1d1c-b1b7-4585-a874-675e820d9d5f,final-test,user_prediction,2025-02-23 02:29:32.220939,3,under 50k,under 50k,2,Good age and length of career but only in blue collar with a major loss in the investment column.,Correct
+55173,c6ca1d1c-b1b7-4585-a874-675e820d9d5f,final-test,user_prediction,2025-02-23 02:30:03.796418,4,under 50k,under 50k,4,Low education level and working in the service industry with the investment data showing a lack of financial tact,Correct
+55185,c6ca1d1c-b1b7-4585-a874-675e820d9d5f,final-test,user_prediction,2025-02-23 02:31:37.069242,7,over 50k,over 50k,4,The investment outcome is bad but 55 hours a week with a professional occupation should be easily enough.,Correct
+55412,17a94144-1178-4f27-ac07-43a7998d82bd,final-test,user_prediction,2025-02-23 03:08:14.543743,1,over 50k,over 50k,3,They have a degree they work considerable hours and they have good work balance,Correct
+55416,17a94144-1178-4f27-ac07-43a7998d82bd,final-test,user_prediction,2025-02-23 03:08:51.741610,2,under 50k,under 50k,4,Due to their age they will probably be doing entry level work,Correct
+55418,17a94144-1178-4f27-ac07-43a7998d82bd,final-test,user_prediction,2025-02-23 03:09:18.281460,3,over 50k,under 50k,4,Putting in many hours a week and at such a seasoned age they must make a good deal of money,Wrong
+55424,17a94144-1178-4f27-ac07-43a7998d82bd,final-test,user_prediction,2025-02-23 03:09:59.067804,4,I don't know,under 50k,2,unsure if they make less or more than 50k they could very well make any range of money dependent on the occupation,Wrong
+55427,17a94144-1178-4f27-ac07-43a7998d82bd,final-test,user_prediction,2025-02-23 03:10:21.597259,5,over 50k,over 50k,4,High paying office job with seniority fits well here,Correct
+55431,17a94144-1178-4f27-ac07-43a7998d82bd,final-test,user_prediction,2025-02-23 03:10:37.088916,6,I don't know,over 50k,2,Unceratin how much military make,Wrong
+55434,17a94144-1178-4f27-ac07-43a7998d82bd,final-test,user_prediction,2025-02-23 03:10:59.391524,7,over 50k,over 50k,3,They put in a lot of hours and its porefessional skills they have,Correct
+55439,17a94144-1178-4f27-ac07-43a7998d82bd,final-test,user_prediction,2025-02-23 03:11:27.775222,8,over 50k,under 50k,3,With the amount f hours worked and a degree to go with it they must make over 50k,Wrong
+55441,17a94144-1178-4f27-ac07-43a7998d82bd,final-test,user_prediction,2025-02-23 03:11:45.335772,9,over 50k,over 50k,3,Due to investments they may make over 50k,Correct
+55444,17a94144-1178-4f27-ac07-43a7998d82bd,final-test,user_prediction,2025-02-23 03:12:05.249838,10,under 50k,under 50k,4,They are too young with only basic education at a service job,Correct
+55333,d531bb5a-25d9-4018-93f6-7022b9b99c55,final-test,user_prediction,2025-02-23 03:01:15.543104,1,over 50k,over 50k,4,"education ,weekly work hours and investment outcomes.",Correct
+55342,d531bb5a-25d9-4018-93f6-7022b9b99c55,final-test,user_prediction,2025-02-23 03:02:31.110517,2,under 50k,under 50k,4,"Age,occupation and no investments.",Correct
+55353,d531bb5a-25d9-4018-93f6-7022b9b99c55,final-test,user_prediction,2025-02-23 03:03:50.459082,3,over 50k,under 50k,1,"age, education and hours worked",Wrong
+55362,d531bb5a-25d9-4018-93f6-7022b9b99c55,final-test,user_prediction,2025-02-23 03:05:10.885826,4,under 50k,under 50k,2,Occupation and low hours worked plus loss in investments.,Correct
+55392,d531bb5a-25d9-4018-93f6-7022b9b99c55,final-test,user_prediction,2025-02-23 03:06:48.940558,5,over 50k,over 50k,2,age and occupation plus married with a good education .,Correct
+55410,d531bb5a-25d9-4018-93f6-7022b9b99c55,final-test,user_prediction,2025-02-23 03:07:46.592712,6,over 50k,over 50k,3,minor gains in investments ,Correct
+55414,d531bb5a-25d9-4018-93f6-7022b9b99c55,final-test,user_prediction,2025-02-23 03:08:49.974033,7,over 50k,over 50k,1,occupation and hours worked plus education ,Correct
+55422,d531bb5a-25d9-4018-93f6-7022b9b99c55,final-test,user_prediction,2025-02-23 03:09:51.250452,8,under 50k,under 50k,2,blue-Collar with no investments ,Correct
+55429,d531bb5a-25d9-4018-93f6-7022b9b99c55,final-test,user_prediction,2025-02-23 03:10:30.911708,9,over 50k,over 50k,2,good investments ,Correct
+55438,d531bb5a-25d9-4018-93f6-7022b9b99c55,final-test,user_prediction,2025-02-23 03:11:19.790484,10,under 50k,under 50k,4,younger age no investments occupation with low hours ,Correct
+55408,2134ec3e-edb8-421b-ad3f-08a6ec3fc224,final-test,user_prediction,2025-02-23 03:07:41.705204,1,over 50k,over 50k,2,"Higher education level, long working hours and investment outcome the value is Major gain",Correct
+55420,2134ec3e-edb8-421b-ad3f-08a6ec3fc224,final-test,user_prediction,2025-02-23 03:09:23.708771,2,under 50k,under 50k,2,"Age is very young (20), hours are not high (standard 40 hours), no investment outcome and being single. Quite a few attributes to be a under $50k candidate",Correct
+55436,2134ec3e-edb8-421b-ad3f-08a6ec3fc224,final-test,user_prediction,2025-02-23 03:11:06.454031,3,under 50k,under 50k,1,"This one was a bit of hard to guess but I had to go with under $50k in my opinion, cause of candidates age, marital status, and investment outcome had a major loss.",Correct
+55445,2134ec3e-edb8-421b-ad3f-08a6ec3fc224,final-test,user_prediction,2025-02-23 03:12:41.023585,4,under 50k,under 50k,2,"Occupation service, weekly working hours are pretty standard (40 hours), investment outcome help the case of this person to be under $50k in my opinion.",Correct
+55448,2134ec3e-edb8-421b-ad3f-08a6ec3fc224,final-test,user_prediction,2025-02-23 03:14:22.869932,5,over 50k,over 50k,2,"Education level is satisfactory, his marital status helps as well. Despite investment outcome that is major loss I still do believe he should be over $50k",Correct
+55450,2134ec3e-edb8-421b-ad3f-08a6ec3fc224,final-test,user_prediction,2025-02-23 03:15:52.773928,6,over 50k,over 50k,2,"Age is 36, which I would say its a fair age. He went to college, married and his investment outcome should help as well since the value is Minor gain.",Correct
+55461,2134ec3e-edb8-421b-ad3f-08a6ec3fc224,final-test,user_prediction,2025-02-23 03:18:13.833456,7,over 50k,over 50k,2,"Despite his investment outcome that is Major Loss, I still do believe he has quite a few attributes to make him a over $50k candidate. Age is good, on his prime, he is married, his occupation is professional which should help him quite a lot and on top of it weekly working hours is pretty high (way about average)",Correct
+55468,2134ec3e-edb8-421b-ad3f-08a6ec3fc224,final-test,user_prediction,2025-02-23 03:20:27.579372,8,over 50k,under 50k,1,"Age is still in a good age, have a good education which should help, and 56 hours of work should be addition to his cause to be over $50k. Butttt, his case for over $50k should be hurt by no investment, and his occupation is only Blue collar",Wrong
+55470,2134ec3e-edb8-421b-ad3f-08a6ec3fc224,final-test,user_prediction,2025-02-23 03:21:50.868508,9,over 50k,over 50k,2,"Prime working age, good education, and investment outcome is Major Gain. All these attributes should at least put him over $50k",Correct
+55478,2134ec3e-edb8-421b-ad3f-08a6ec3fc224,final-test,user_prediction,2025-02-23 03:24:22.098094,10,under 50k,under 50k,2,"Age is quite young, marital status single, occupation service which pays low, and standard hours (only 40). All these values are not that helpful to put him over $50k. On top of it No investment outcome. Definitely under $50k",Correct
+55570,00a37cd9-4289-400b-b885-b7989f5bff00,final-test,user_prediction,2025-02-23 03:41:32.089797,1,over 50k,over 50k,2,"The age, education, working hours and investment contributed to my answer",Correct
+55646,00a37cd9-4289-400b-b885-b7989f5bff00,final-test,user_prediction,2025-02-23 03:45:10.811744,2,under 50k,under 50k,3,"Even though the education level is high, the age, marital status and no investment is contributing to my answer.",Correct
+55679,00a37cd9-4289-400b-b885-b7989f5bff00,final-test,user_prediction,2025-02-23 03:47:33.341264,3,over 50k,under 50k,1,"I base on the age, education and working hours.",Wrong
+55701,00a37cd9-4289-400b-b885-b7989f5bff00,final-test,user_prediction,2025-02-23 03:49:51.948295,4,over 50k,under 50k,3,"The person education, marital status, and age qualify him to gain more than 50k even though there is minor loss on investment.",Wrong
+55718,00a37cd9-4289-400b-b885-b7989f5bff00,final-test,user_prediction,2025-02-23 03:54:16.279767,6,over 50k,over 50k,4,"Having major gain up to 5k strongly support my answer with addition to the age, education occupation and marital status.",Correct
+55722,00a37cd9-4289-400b-b885-b7989f5bff00,final-test,user_prediction,2025-02-23 03:55:30.343607,7,under 50k,over 50k,2,Major loss in investment can lead to under 50k,Wrong
+55724,00a37cd9-4289-400b-b885-b7989f5bff00,final-test,user_prediction,2025-02-23 03:57:22.706006,8,over 50k,under 50k,3,"The fact that the person does not invest does not mean he cannot gain over 50k. The age, education, marital status and working hours are contributing factor.",Wrong
+55712,00a37cd9-4289-400b-b885-b7989f5bff00,final-test,user_prediction,2025-02-23 03:51:41.323203,5,over 50k,over 50k,2,The age is a major contributing factor.,Correct
+55728,00a37cd9-4289-400b-b885-b7989f5bff00,final-test,user_prediction,2025-02-23 03:58:23.135006,9,over 50k,over 50k,2,"I base on the age, education, and investment.",Correct
+55730,00a37cd9-4289-400b-b885-b7989f5bff00,final-test,user_prediction,2025-02-23 03:59:25.480886,10,under 50k,under 50k,4,The age and no investment are major factor contributing to my answer.,Correct
+55943,914ea0a1-c6f3-4d78-9adf-7a58672470bf,final-test,user_prediction,2025-02-23 04:38:29.422192,1,over 50k,over 50k,3,Investment and working hours are positive.,Correct
+55949,914ea0a1-c6f3-4d78-9adf-7a58672470bf,final-test,user_prediction,2025-02-23 04:39:20.029316,2,under 50k,under 50k,4,Age is too low. Single and no investment.,Correct
+55957,914ea0a1-c6f3-4d78-9adf-7a58672470bf,final-test,user_prediction,2025-02-23 04:41:03.292569,3,over 50k,under 50k,1,"Good education level and age, but other factors are not good.",Wrong
+55975,914ea0a1-c6f3-4d78-9adf-7a58672470bf,final-test,user_prediction,2025-02-23 04:42:12.574655,4,under 50k,under 50k,1,"Investment income negative, but married is a positive.",Correct
+55977,914ea0a1-c6f3-4d78-9adf-7a58672470bf,final-test,user_prediction,2025-02-23 04:42:48.718741,5,over 50k,over 50k,3,Good education and job. Age is good too.,Correct
+55998,914ea0a1-c6f3-4d78-9adf-7a58672470bf,final-test,user_prediction,2025-02-23 04:46:58.901317,9,over 50k,over 50k,2,Investment gain is positive. Age is okay. But occupation and marital status can be negative.,Correct
+55980,914ea0a1-c6f3-4d78-9adf-7a58672470bf,final-test,user_prediction,2025-02-23 04:43:39.847048,6,over 50k,over 50k,2,"Married, stable job, minor investment gain.",Correct
+55985,914ea0a1-c6f3-4d78-9adf-7a58672470bf,final-test,user_prediction,2025-02-23 04:44:26.512258,7,over 50k,over 50k,3,Good education and job. Long working hour and married. All positives.,Correct
+55989,914ea0a1-c6f3-4d78-9adf-7a58672470bf,final-test,user_prediction,2025-02-23 04:45:14.227137,8,over 50k,under 50k,2,Married and long working hours. Fair education.,Wrong
+56004,914ea0a1-c6f3-4d78-9adf-7a58672470bf,final-test,user_prediction,2025-02-23 04:48:12.340918,10,under 50k,under 50k,3,"Age is too low, no investment. Education is good though.",Correct
+55999,13637671-9726-46ac-9dab-e8d11a2a4ee1,final-test,user_prediction,2025-02-23 04:47:10.813102,4,over 50k,under 50k,2,I think age and marital status are the factors to be considered in this case.,Wrong
+56020,13637671-9726-46ac-9dab-e8d11a2a4ee1,final-test,user_prediction,2025-02-23 04:51:06.688035,8,over 50k,under 50k,2,Weekly working hours and age suggests income above $50K.,Wrong
+55982,13637671-9726-46ac-9dab-e8d11a2a4ee1,final-test,user_prediction,2025-02-23 04:43:57.506450,1,over 50k,over 50k,4,In this case Investment Outcome and Weekly working hours has played an important part to predict income above $50K.,Correct
+55987,13637671-9726-46ac-9dab-e8d11a2a4ee1,final-test,user_prediction,2025-02-23 04:44:56.548524,2,under 50k,under 50k,3,Marital status and work life balance has effect on income under $50K.,Correct
+55993,13637671-9726-46ac-9dab-e8d11a2a4ee1,final-test,user_prediction,2025-02-23 04:46:11.953207,3,over 50k,under 50k,3,"Age, education and weekly hours suggests income above $50K.",Wrong
+56005,13637671-9726-46ac-9dab-e8d11a2a4ee1,final-test,user_prediction,2025-02-23 04:48:19.769177,5,over 50k,over 50k,3,"Marital status, weekly hours and occupation suggests income above $50K.",Correct
+56009,13637671-9726-46ac-9dab-e8d11a2a4ee1,final-test,user_prediction,2025-02-23 04:49:27.672071,6,over 50k,over 50k,4,Investment gain and marital status suggests income above $50K.,Correct
+56013,13637671-9726-46ac-9dab-e8d11a2a4ee1,final-test,user_prediction,2025-02-23 04:50:17.532009,7,over 50k,over 50k,3,"In this case education, marital status and weekly working hours suggests income above $50K.",Correct
+56029,13637671-9726-46ac-9dab-e8d11a2a4ee1,final-test,user_prediction,2025-02-23 04:51:50.611201,9,over 50k,over 50k,4,Investment outcome and weekly hours suggests income above $50K.,Correct
+56037,13637671-9726-46ac-9dab-e8d11a2a4ee1,final-test,user_prediction,2025-02-23 04:52:20.978634,10,under 50k,under 50k,4,Age and marital status suggests income under $50K.,Correct
+56055,035cd55c-563e-42d9-bce5-2b55392dde1a,final-test,user_prediction,2025-02-23 04:56:12.271847,1,over 50k,over 50k,4,56 hours and a major gain contributed to my decision; this person is also college educated.,Correct
+56057,035cd55c-563e-42d9-bce5-2b55392dde1a,final-test,user_prediction,2025-02-23 04:56:44.758784,2,under 50k,under 50k,4,"This person is single, is only 20, has no investments and only works 40 hours, so that implies they make under 50K",Correct
+56059,035cd55c-563e-42d9-bce5-2b55392dde1a,final-test,user_prediction,2025-02-23 04:57:33.452606,3,under 50k,under 50k,1,"This person had a major loss in investments, is single, and works blue collar which makes me think their income is less than 50K",Correct
+56061,035cd55c-563e-42d9-bce5-2b55392dde1a,final-test,user_prediction,2025-02-23 04:58:09.816236,4,under 50k,under 50k,2,"This person is under 40, has had losses in investment, works in service and only has a middle school education while working only 40 hours.",Correct
+56063,035cd55c-563e-42d9-bce5-2b55392dde1a,final-test,user_prediction,2025-02-23 04:58:47.897535,5,over 50k,over 50k,2,"Despite the loss, this person is over 50, has post graduate education, is married and works white collar work which positively-contributes to income levels.",Correct
+56065,035cd55c-563e-42d9-bce5-2b55392dde1a,final-test,user_prediction,2025-02-23 04:59:20.217345,6,over 50k,over 50k,2,"This person has investment gains, is married and is college educated, those are pretty important for income levels.",Correct
+56067,035cd55c-563e-42d9-bce5-2b55392dde1a,final-test,user_prediction,2025-02-23 04:59:56.355328,7,over 50k,over 50k,3,"This person has high education, is married, is a professional, and works a lot of hours. The major losses are important, but I think that is offset by the other positive attributes.",Correct
+56069,035cd55c-563e-42d9-bce5-2b55392dde1a,final-test,user_prediction,2025-02-23 05:00:23.825333,8,over 50k,under 50k,3,"This person is married with college education, and works a lot of hours. Those hours contribute a lot to income levels.",Wrong
+56071,035cd55c-563e-42d9-bce5-2b55392dde1a,final-test,user_prediction,2025-02-23 05:00:57.811750,9,over 50k,over 50k,2,"This person has had major gains in investments which are really important; they also have college education, which is also important.",Correct
+56073,035cd55c-563e-42d9-bce5-2b55392dde1a,final-test,user_prediction,2025-02-23 05:01:19.827738,10,under 50k,under 50k,4,"This person is very young, single, works in service, only 40 hours and has no investments.",Correct
+64240,9da5faf0-8e62-411f-b27c-67831cfcd120,final-test,user_prediction,2025-02-24 22:48:49.569946,1,over 50k,over 50k,3,"Good Investment, Occupation is sales and the individual has an associate degree. ",Correct
+64242,9da5faf0-8e62-411f-b27c-67831cfcd120,final-test,user_prediction,2025-02-24 22:49:38.700219,2,under 50k,under 50k,3,"No investment, the age is quite young, blue collar job and the education level is low.  ",Correct
+64244,9da5faf0-8e62-411f-b27c-67831cfcd120,final-test,user_prediction,2025-02-24 22:50:21.001349,3,under 50k,under 50k,3,Investment loss and post-graduate education. ,Correct
+64246,9da5faf0-8e62-411f-b27c-67831cfcd120,final-test,user_prediction,2025-02-24 22:51:14.566805,4,under 50k,under 50k,2,Education level is middle school and the individual has investment loss of 1K. ,Correct
+64248,9da5faf0-8e62-411f-b27c-67831cfcd120,final-test,user_prediction,2025-02-24 22:51:48.964909,5,over 50k,over 50k,3,"Advanced in age, good education and a white collar job. ",Correct
+64250,9da5faf0-8e62-411f-b27c-67831cfcd120,final-test,user_prediction,2025-02-24 22:52:13.385952,6,over 50k,over 50k,2,Good investment. ,Correct
+64252,9da5faf0-8e62-411f-b27c-67831cfcd120,final-test,user_prediction,2025-02-24 22:52:43.693633,7,over 50k,over 50k,3,"Good education, works as a professional and is married. ",Correct
+64254,9da5faf0-8e62-411f-b27c-67831cfcd120,final-test,user_prediction,2025-02-24 22:53:23.323431,8,over 50k,under 50k,2,Good education and married. ,Wrong
+64256,9da5faf0-8e62-411f-b27c-67831cfcd120,final-test,user_prediction,2025-02-24 22:54:00.454280,9,over 50k,over 50k,3,"Good investment gains, in sales profession and has a good degree. ",Correct
+64258,9da5faf0-8e62-411f-b27c-67831cfcd120,final-test,user_prediction,2025-02-24 22:54:54.805066,10,over 50k,under 50k,2,"Good education level, works in service and works for 40hours. ",Wrong
+56222,ec41f8db-1834-496d-9948-10c0e1fd2304,final-test,user_prediction,2025-02-23 05:24:51.847066,1,over 50k,over 50k,3,"Degree level education, long working hours and major gain in investment.",Correct
+56227,ec41f8db-1834-496d-9948-10c0e1fd2304,final-test,user_prediction,2025-02-23 05:25:44.920261,2,under 50k,under 50k,3,"Young in age, blue collar occupation and no investment.",Correct
+56233,ec41f8db-1834-496d-9948-10c0e1fd2304,final-test,user_prediction,2025-02-23 05:26:31.395749,3,under 50k,under 50k,2,Unmarried and major loss in investment.,Correct
+56240,ec41f8db-1834-496d-9948-10c0e1fd2304,final-test,user_prediction,2025-02-23 05:27:34.772768,4,over 50k,under 50k,1,Married and has investments.,Wrong
+56247,ec41f8db-1834-496d-9948-10c0e1fd2304,final-test,user_prediction,2025-02-23 05:28:24.960120,5,over 50k,over 50k,3,"Due to age, post graduate education, being married and holding investments.",Correct
+56250,ec41f8db-1834-496d-9948-10c0e1fd2304,final-test,user_prediction,2025-02-23 05:28:58.082544,6,over 50k,over 50k,3,Being married and having investments.,Correct
+56270,ec41f8db-1834-496d-9948-10c0e1fd2304,final-test,user_prediction,2025-02-23 05:31:01.127138,7,over 50k,over 50k,4,"Education level. being married, professional occupation and having investments.",Correct
+56281,ec41f8db-1834-496d-9948-10c0e1fd2304,final-test,user_prediction,2025-02-23 05:32:05.872600,8,over 50k,under 50k,2,"Education level, being married and long working hours.",Wrong
+56289,ec41f8db-1834-496d-9948-10c0e1fd2304,final-test,user_prediction,2025-02-23 05:32:46.945236,9,over 50k,over 50k,2,Education level and holding investments.,Correct
+56291,ec41f8db-1834-496d-9948-10c0e1fd2304,final-test,user_prediction,2025-02-23 05:33:32.286137,10,under 50k,under 50k,3,"Relatively young in age, unmarried and having no investments.",Correct
+56799,69a979ba-4f47-4ca9-8fa1-048ba9d870be,final-test,user_prediction,2025-02-23 06:42:09.975282,5,over 50k,over 50k,3,Every indicator except investment outcome points to over 50k.,Correct
+56775,69a979ba-4f47-4ca9-8fa1-048ba9d870be,final-test,user_prediction,2025-02-23 06:39:16.992900,1,over 50k,over 50k,4,"A combination of age, education level, working hours, and most importantly investment outcome",Correct
+56783,69a979ba-4f47-4ca9-8fa1-048ba9d870be,final-test,user_prediction,2025-02-23 06:39:52.251296,2,under 50k,under 50k,3,"The young age, marital status, occupation, and lack of investment outcome",Correct
+56787,69a979ba-4f47-4ca9-8fa1-048ba9d870be,final-test,user_prediction,2025-02-23 06:40:55.309574,3,under 50k,under 50k,2,"The age, education, and working hours point to over 50k, but I think the marital status, occupation, and poor investment outcome make this likely under 50k.",Correct
+56797,69a979ba-4f47-4ca9-8fa1-048ba9d870be,final-test,user_prediction,2025-02-23 06:41:34.693392,4,under 50k,under 50k,2,"I think the investment outcome, education level, and occupation suggest probably under 50k.",Correct
+56802,69a979ba-4f47-4ca9-8fa1-048ba9d870be,final-test,user_prediction,2025-02-23 06:42:41.794544,6,over 50k,over 50k,3,"Age, education, marital status, and investment outcome suggest over 50k.",Correct
+56806,69a979ba-4f47-4ca9-8fa1-048ba9d870be,final-test,user_prediction,2025-02-23 06:44:14.057886,7,over 50k,over 50k,1,"This one is a little difficult, because they're still somewhat young and have a poor investment outcome. But the high education level, good profession with high hours, and marital status suggest a high income.",Correct
+56814,69a979ba-4f47-4ca9-8fa1-048ba9d870be,final-test,user_prediction,2025-02-23 06:45:20.987625,9,over 50k,over 50k,3,"High age, education level, and great investment outcome suggest over 50k",Correct
+56811,69a979ba-4f47-4ca9-8fa1-048ba9d870be,final-test,user_prediction,2025-02-23 06:44:52.288310,8,over 50k,under 50k,3,"I think the education, marital status, and number of hours worked suggest a decently high salary.",Wrong
+56819,69a979ba-4f47-4ca9-8fa1-048ba9d870be,final-test,user_prediction,2025-02-23 06:45:56.075680,10,under 50k,under 50k,4,"This individual is definitely under 50k as they are very young, single, and working in the service industry with no investments.",Correct
+57188,66aec37a-5bfb-4039-8858-2b191b99ba32,final-test,user_prediction,2025-02-23 07:41:41.015452,4,under 50k,under 50k,2,"They don't have much education, work in a service industry and have negative investments",Correct
+57168,66aec37a-5bfb-4039-8858-2b191b99ba32,final-test,user_prediction,2025-02-23 07:38:10.490423,1,over 50k,over 50k,3,They work over 50 hours a week in a sales profession with significant investment gains,Correct
+57175,66aec37a-5bfb-4039-8858-2b191b99ba32,final-test,user_prediction,2025-02-23 07:39:36.820735,2,under 50k,under 50k,3,"They are young in a blue collar job, single, and have no investments",Correct
+57182,66aec37a-5bfb-4039-8858-2b191b99ba32,final-test,user_prediction,2025-02-23 07:40:41.043193,3,over 50k,under 50k,2,"They are older with a higher education, work over 40 hours in a blue collar position",Wrong
+57190,66aec37a-5bfb-4039-8858-2b191b99ba32,final-test,user_prediction,2025-02-23 07:42:29.565339,5,over 50k,over 50k,3,"They are older with a higher education, married, in a white collar carreer",Correct
+57197,66aec37a-5bfb-4039-8858-2b191b99ba32,final-test,user_prediction,2025-02-23 07:43:41.775481,6,over 50k,over 50k,2,"They are married, have most likely been in the military for several years, and have positive investments",Correct
+57199,66aec37a-5bfb-4039-8858-2b191b99ba32,final-test,user_prediction,2025-02-23 07:44:50.270554,7,over 50k,over 50k,2,"They have a higher education in a professional career, are married and work more than 50 hours",Correct
+57201,66aec37a-5bfb-4039-8858-2b191b99ba32,final-test,user_prediction,2025-02-23 07:45:47.616295,8,over 50k,under 50k,3,"They have a degree, are married, and in a blue collar career working more than 50 hours a week",Wrong
+57203,66aec37a-5bfb-4039-8858-2b191b99ba32,final-test,user_prediction,2025-02-23 07:46:28.385766,9,over 50k,over 50k,3,They work in sales with positive investments ,Correct
+57209,66aec37a-5bfb-4039-8858-2b191b99ba32,final-test,user_prediction,2025-02-23 07:47:16.495458,10,under 50k,under 50k,2,"They are young so new to the work force, in the service industry, single and have no investments",Correct
+57159,bd86dc3b-7425-4be9-be4e-293f11ed2377,final-test,user_prediction,2025-02-23 07:36:48.075573,4,under 50k,under 50k,2,"education, occupation, investments.",Correct
+57154,bd86dc3b-7425-4be9-be4e-293f11ed2377,final-test,user_prediction,2025-02-23 07:36:23.243660,3,under 50k,under 50k,2,"investments, marital status, occupation.",Correct
+57134,bd86dc3b-7425-4be9-be4e-293f11ed2377,final-test,user_prediction,2025-02-23 07:35:32.308060,1,over 50k,over 50k,3,"working hours, investments and to a lesser extent education.",Correct
+57142,bd86dc3b-7425-4be9-be4e-293f11ed2377,final-test,user_prediction,2025-02-23 07:35:53.329973,2,under 50k,under 50k,4,everything except education indicates lower income.,Correct
+57162,bd86dc3b-7425-4be9-be4e-293f11ed2377,final-test,user_prediction,2025-02-23 07:37:21.000210,5,over 50k,over 50k,3,"occupation, marital status, education, age.",Correct
+57164,bd86dc3b-7425-4be9-be4e-293f11ed2377,final-test,user_prediction,2025-02-23 07:37:41.793703,6,over 50k,over 50k,3,"investments, marital status.",Correct
+57166,bd86dc3b-7425-4be9-be4e-293f11ed2377,final-test,user_prediction,2025-02-23 07:38:07.762420,7,over 50k,over 50k,3,"married, educated, working hours, occupation.",Correct
+57170,bd86dc3b-7425-4be9-be4e-293f11ed2377,final-test,user_prediction,2025-02-23 07:38:24.664581,8,under 50k,under 50k,2,"occupation, investment.",Correct
+57172,bd86dc3b-7425-4be9-be4e-293f11ed2377,final-test,user_prediction,2025-02-23 07:38:39.387141,9,over 50k,over 50k,2,investments is the main thing.,Correct
+57174,bd86dc3b-7425-4be9-be4e-293f11ed2377,final-test,user_prediction,2025-02-23 07:39:00.682623,10,under 50k,under 50k,4,"young, service work, single, lack of investments.",Correct
+57412,b39c3dd4-ce18-47a5-92de-ef4b899bf0ab,final-test,user_prediction,2025-02-23 08:38:00.722073,1,under 50k,over 50k,2,"All of these factors combined lead me to predict that this person likely earns more than $50,000 a year. The high working hours, successful sales job (with potential for commissions), and financial gains suggest they are doing well financially.",Wrong
+57423,b39c3dd4-ce18-47a5-92de-ef4b899bf0ab,final-test,user_prediction,2025-02-23 08:40:45.946343,2,under 50k,under 50k,2,"Considering all of these factors — especially the person’s age, occupation, working hours, and lack of investments — I would predict that this person likely earns less than $50,000 per year",Correct
+57429,b39c3dd4-ce18-47a5-92de-ef4b899bf0ab,final-test,user_prediction,2025-02-23 08:43:04.802791,3,under 50k,under 50k,2,"Taking all these factors into account, I believe the person is in a blue-collar job where they are unlikely to earn more than $50,000 per year, despite their post-graduate education and significant work experience. Their financial situation, indicated by the major loss in investments and their occupation, suggests that they likely fall into the category of earning less than $50,000 annually.",Correct
+57434,b39c3dd4-ce18-47a5-92de-ef4b899bf0ab,final-test,user_prediction,2025-02-23 08:44:04.841618,4,under 50k,under 50k,2,"Taking all of this into account, I would predict that this person likely earns less than $50,000 annually",Correct
+57440,b39c3dd4-ce18-47a5-92de-ef4b899bf0ab,final-test,user_prediction,2025-02-23 08:45:42.702440,5,over 50k,over 50k,2,"Given the post-graduate education and white-collar occupation, combined with the experience that likely comes with age, this person is most likely earning over $50,000 annually. Despite the poor work-life balance and investment losses, these factors alone do not typically lower the earning potential of someone in this demographic",Correct
+57446,b39c3dd4-ce18-47a5-92de-ef4b899bf0ab,final-test,user_prediction,2025-02-23 08:47:04.758075,6,under 50k,over 50k,2,"Considering the combination of education, occupation, and other factors, this person is likely earning less than $50,000. While military roles can offer benefits and stability, they are often associated with lower earnings compared to high-skill or white-collar professions. Therefore, the model is more likely to predict this individual earns under $50,000 annually",Wrong
+57454,b39c3dd4-ce18-47a5-92de-ef4b899bf0ab,final-test,user_prediction,2025-02-23 08:48:35.416130,7,over 50k,over 50k,2,"Given the combination of post-graduate education, a professional occupation, and a 55-hour workweek, this person is in a role likely to earn over $50,000 annually. These factors align with the traits of individuals in high-paying professions, making it reasonable to predict that their salary is above the $50,000 threshold",Correct
+57476,b39c3dd4-ce18-47a5-92de-ef4b899bf0ab,final-test,user_prediction,2025-02-23 08:51:11.930001,8,under 50k,under 50k,2,"Overall, blue-collar occupation and bachelor's degree suggest that this person is likely earning under $50K.",Correct
+57489,b39c3dd4-ce18-47a5-92de-ef4b899bf0ab,final-test,user_prediction,2025-02-23 08:52:22.147345,9,under 50k,over 50k,2,"Considering these factors, especially the sales occupation combined with major investment gains, the model likely predicts over $50K.",Wrong
+57496,b39c3dd4-ce18-47a5-92de-ef4b899bf0ab,final-test,user_prediction,2025-02-23 08:53:33.978579,10,under 50k,under 50k,2,Combining these factors leads me to predict that the model would likely predict this individual earns under $50k.,Correct
+57553,0ee9ad77-257b-4576-aecc-2a0e4d7a7f73,final-test,user_prediction,2025-02-23 09:21:20.788468,4,under 50k,under 50k,4,"I predicted under $50K because, despite being married, the person has only a middle school education, works in a service job which typically pays lower wages, has standard full-time hours of 40 per week, and has experienced a minor financial loss, all of which strongly indicate a lower income.",Correct
+57555,0ee9ad77-257b-4576-aecc-2a0e4d7a7f73,final-test,user_prediction,2025-02-23 09:21:57.614935,5,over 50k,over 50k,4,"I predicted over $50K because the person has post-graduate education, is married, works in a white-collar job, and has stable full-time hours of 40 per week, all of which strongly support a higher income despite experiencing a major financial loss.",Correct
+57557,0ee9ad77-257b-4576-aecc-2a0e4d7a7f73,final-test,user_prediction,2025-02-23 09:22:39.106254,6,over 50k,over 50k,3,"I predicted over $50K because the person is married, works in the military which can provide stable and competitive earnings, has a minor investment gain, and works full-time hours, all of which contribute to a higher income despite not having a completed college degree.",Correct
+57559,0ee9ad77-257b-4576-aecc-2a0e4d7a7f73,final-test,user_prediction,2025-02-23 09:23:16.802200,7,over 50k,over 50k,4,"I predicted over $50K because the person has post-graduate education, is married, works in a professional occupation, and has long working hours of 55 per week, all of which strongly indicate a higher income despite experiencing a major financial loss.",Correct
+57561,0ee9ad77-257b-4576-aecc-2a0e4d7a7f73,final-test,user_prediction,2025-02-23 09:23:53.518627,8,over 50k,under 50k,3,"I predicted over $50K because the person has a bachelor's degree, is married, works 56 hours per week which suggests higher earning potential, and while in a blue-collar job, the combination of education, marital status, and long working hours supports a higher income despite having no investment gains.",Wrong
+57563,0ee9ad77-257b-4576-aecc-2a0e4d7a7f73,final-test,user_prediction,2025-02-23 09:24:28.856551,9,over 50k,over 50k,4,"I predicted over $50K because the person has an associate's degree, works in sales where income potential can be high, has a major investment gain above $5K which has been a strong predictor of higher income, and works full-time hours, all of which indicate a higher salary despite being single.",Correct
+57547,0ee9ad77-257b-4576-aecc-2a0e4d7a7f73,final-test,user_prediction,2025-02-23 09:18:12.850326,1,over 50k,over 50k,4,"I predicted over $50K because the major investment gain (above $5K) is the strongest factor, supported by an Associate’s Degree, a sales job with earning potential, and long working hours (56/week), all of which indicate a higher income despite being single.",Correct
+57549,0ee9ad77-257b-4576-aecc-2a0e4d7a7f73,final-test,user_prediction,2025-02-23 09:19:37.392135,2,under 50k,under 50k,4,"I predicted under $50K because despite having a bachelor's degree, the person is only 20 years old with limited work experience, works in a blue-collar job which typically pays less unless highly specialized, has no investment gains, and works standard full-time hours of 40 per week, all of which indicate a lower income.",Correct
+57551,0ee9ad77-257b-4576-aecc-2a0e4d7a7f73,final-test,user_prediction,2025-02-23 09:20:41.141374,3,under 50k,under 50k,4,"I predicted under $50K because, despite having post-graduate education and working 50 hours per week, the person works in a blue-collar job which typically pays less unless highly specialized, is single and misses the marital status boost, and has experienced a major financial loss of over $1K, which likely outweighs the positive impact of education and work hours.",Correct
+57565,0ee9ad77-257b-4576-aecc-2a0e4d7a7f73,final-test,user_prediction,2025-02-23 09:24:58.692236,10,under 50k,under 50k,4,"I predicted under $50K because, despite having post-graduate education, the person is only 23 years old with likely limited work experience, works in a service job which typically pays lower wages, has no investment gains, and works standard full-time hours of 40 per week, all of which strongly indicate a lower income.",Correct
+57218,e5f131a0-cb0a-4c70-b413-d9df24fa16af,final-test,user_prediction,2025-02-23 07:50:35.956578,1,over 50k,over 50k,4,"AGE
+MAJOR GAIN (ABOVE $5K)
+WORK LIFE BALANCE IS FAIR",Correct
+57220,e5f131a0-cb0a-4c70-b413-d9df24fa16af,final-test,user_prediction,2025-02-23 07:52:09.950124,2,under 50k,under 50k,4,"No investment
+Age 20 
+weekly working hours 40
+
+these factors contributes to my decision",Correct
+57222,e5f131a0-cb0a-4c70-b413-d9df24fa16af,final-test,user_prediction,2025-02-23 07:53:08.952502,3,over 50k,under 50k,2,"Age
+weekly working hours 50hours
+At least there is an investment",Wrong
+57224,e5f131a0-cb0a-4c70-b413-d9df24fa16af,final-test,user_prediction,2025-02-23 07:54:58.424207,4,I don't know,under 50k,0,"weekly working hours 40
+Education level Middle school
+Occupation service
+
+Under 50k$",Wrong
+57226,e5f131a0-cb0a-4c70-b413-d9df24fa16af,final-test,user_prediction,2025-02-23 07:58:06.291211,5,over 50k,over 50k,3,"Age 58 
+Education level
+Marital status 
+white collar",Correct
+57228,e5f131a0-cb0a-4c70-b413-d9df24fa16af,final-test,user_prediction,2025-02-23 07:59:30.790985,6,over 50k,over 50k,3,"Age 
+Married
+Investment
+Occupation
+
+",Correct
+57230,e5f131a0-cb0a-4c70-b413-d9df24fa16af,final-test,user_prediction,2025-02-23 08:00:27.364002,7,over 50k,over 50k,4,"Being a professional
+Having an investment
+AGE
+married and also educational level",Correct
+57234,e5f131a0-cb0a-4c70-b413-d9df24fa16af,final-test,user_prediction,2025-02-23 08:02:31.955661,8,over 50k,under 50k,4,"weekly working hours 
+Age 39 
+Educational level and  marital status contributes to my decision",Wrong
+57255,e5f131a0-cb0a-4c70-b413-d9df24fa16af,final-test,user_prediction,2025-02-23 08:05:34.014979,9,over 50k,over 50k,4,"Age contributes to my answer
+Investment Outcome above 5k$
+educational level ",Correct
+57262,e5f131a0-cb0a-4c70-b413-d9df24fa16af,final-test,user_prediction,2025-02-23 08:06:42.035923,10,under 50k,under 50k,4,"No investment
+Occupation Service
+Marital status
+Age",Correct
+57784,ffd5071d-f4bb-4f74-addd-69bd8c27799b,final-test,user_prediction,2025-02-23 11:03:33.425275,1,over 50k,over 50k,4,Because of education level and investment outcome more than anything,Correct
+57798,ffd5071d-f4bb-4f74-addd-69bd8c27799b,final-test,user_prediction,2025-02-23 11:04:39.633036,2,under 50k,under 50k,3,Age and marital status make me more inclined to guess under 50k. Along with the lack of investment.,Correct
+57800,ffd5071d-f4bb-4f74-addd-69bd8c27799b,final-test,user_prediction,2025-02-23 11:05:53.713338,3,over 50k,under 50k,2,.Age and education level were a factor for me here. As well as education level;,Wrong
+57804,ffd5071d-f4bb-4f74-addd-69bd8c27799b,final-test,user_prediction,2025-02-23 11:07:00.151520,4,under 50k,under 50k,1,Investment outcome steered me to my guess more than anything else this time.,Correct
+57810,ffd5071d-f4bb-4f74-addd-69bd8c27799b,final-test,user_prediction,2025-02-23 11:08:20.188130,5,over 50k,over 50k,3,"Even though there was investment loss, the occupation, age, education level and marital status made me inclined to guess over 50k.",Correct
+57812,ffd5071d-f4bb-4f74-addd-69bd8c27799b,final-test,user_prediction,2025-02-23 11:09:00.231303,6,under 50k,over 50k,2,Occuaption and education level slightly steered me to under 50k here,Wrong
+57816,ffd5071d-f4bb-4f74-addd-69bd8c27799b,final-test,user_prediction,2025-02-23 11:09:55.203585,7,over 50k,over 50k,2,Occuaption and education level steered me to guess over 50k here even though there was a major loss in investment outcome,Correct
+57823,ffd5071d-f4bb-4f74-addd-69bd8c27799b,final-test,user_prediction,2025-02-23 11:10:39.862933,8,under 50k,under 50k,3,Its the occuaption and no investment that made me choose under 50k.,Correct
+57834,ffd5071d-f4bb-4f74-addd-69bd8c27799b,final-test,user_prediction,2025-02-23 11:11:21.748369,9,over 50k,over 50k,3,Good education level and major gain pointed to a over 50k guess here,Correct
+57846,ffd5071d-f4bb-4f74-addd-69bd8c27799b,final-test,user_prediction,2025-02-23 11:12:29.253317,10,under 50k,under 50k,4,Low age and marital status as well as occupation and no investment made me completely confident here in my guess of under 50k,Correct
+57802,db8b34e1-7c18-476d-b2d7-7d0dddb91cb7,final-test,user_prediction,2025-02-23 11:06:07.345924,1,over 50k,over 50k,1,"Major gain, education level and number of hours worked indicate a higher income.",Correct
+57806,db8b34e1-7c18-476d-b2d7-7d0dddb91cb7,final-test,user_prediction,2025-02-23 11:07:00.774329,2,under 50k,under 50k,4,"Age, no investment, number of hours worked all indicate a lower income.",Correct
+57808,db8b34e1-7c18-476d-b2d7-7d0dddb91cb7,final-test,user_prediction,2025-02-23 11:07:54.215082,3,under 50k,under 50k,2,Marital status and investment outcome indicates a lower income.,Correct
+57814,db8b34e1-7c18-476d-b2d7-7d0dddb91cb7,final-test,user_prediction,2025-02-23 11:09:23.231013,4,I don't know,under 50k,0,"Marital status indicates a higher income, but hours worked and investment outcome indicates a lower income.",Wrong
+57818,db8b34e1-7c18-476d-b2d7-7d0dddb91cb7,final-test,user_prediction,2025-02-23 11:10:05.106658,5,under 50k,over 50k,1,Working hours and investment outcome indicates a lower income. ,Wrong
+57828,db8b34e1-7c18-476d-b2d7-7d0dddb91cb7,final-test,user_prediction,2025-02-23 11:10:52.202878,6,over 50k,over 50k,2,Marital status and investment outcome indicate a higher salary.,Correct
+57843,db8b34e1-7c18-476d-b2d7-7d0dddb91cb7,final-test,user_prediction,2025-02-23 11:12:23.443018,7,over 50k,over 50k,1,"Education level, marital status, occupation and number of hours worked indicates a higher salary.",Correct
+57850,db8b34e1-7c18-476d-b2d7-7d0dddb91cb7,final-test,user_prediction,2025-02-23 11:13:33.211484,8,over 50k,under 50k,1,"Education level, marital status and number of hours worked indicates a higher income. ",Wrong
+57853,db8b34e1-7c18-476d-b2d7-7d0dddb91cb7,final-test,user_prediction,2025-02-23 11:14:15.529131,9,over 50k,over 50k,2,Education level and investment outcome indicates a higher income. ,Correct
+57857,db8b34e1-7c18-476d-b2d7-7d0dddb91cb7,final-test,user_prediction,2025-02-23 11:15:24.641886,10,under 50k,under 50k,1,"Age, marital status, number of hours worked and investment outcome all predict a lower income.",Correct
+58074,dca910b0-6c61-4b71-b0a9-bf2ffb4e70a1,final-test,user_prediction,2025-02-23 11:44:38.163485,1,over 50k,over 50k,3,"Age, education, investment income and working hours were the things that I took into consideration when making my prediction.",Correct
+58078,dca910b0-6c61-4b71-b0a9-bf2ffb4e70a1,final-test,user_prediction,2025-02-23 11:45:19.597101,2,under 50k,under 50k,2,"Age, work life balance and investment outcome were the deciding factors.",Correct
+58086,dca910b0-6c61-4b71-b0a9-bf2ffb4e70a1,final-test,user_prediction,2025-02-23 11:46:52.077594,3,under 50k,under 50k,0,"Age, education and work hours were my deciding factors but I think I might be wrong on this one.",Correct
+58090,dca910b0-6c61-4b71-b0a9-bf2ffb4e70a1,final-test,user_prediction,2025-02-23 11:47:46.090674,4,I don't know,under 50k,0,I really can't decide on this one. For every factor that could bring it over 50k there's another that could lower it also.,Wrong
+58093,dca910b0-6c61-4b71-b0a9-bf2ffb4e70a1,final-test,user_prediction,2025-02-23 11:48:19.729601,5,over 50k,over 50k,3,"Age, education and martial status were the factors that made me pick over 50k.",Correct
+58095,dca910b0-6c61-4b71-b0a9-bf2ffb4e70a1,final-test,user_prediction,2025-02-23 11:49:03.509990,6,over 50k,over 50k,3,"Investment outcome, martial status and occupation are the deciding factors for my answer.",Correct
+58097,dca910b0-6c61-4b71-b0a9-bf2ffb4e70a1,final-test,user_prediction,2025-02-23 11:49:39.630365,7,over 50k,over 50k,4,"Occupation, age and martial status were the deciding factors.",Correct
+58099,dca910b0-6c61-4b71-b0a9-bf2ffb4e70a1,final-test,user_prediction,2025-02-23 11:50:48.081664,8,over 50k,under 50k,3,Everything in this one apart from maybe investment outcome and occupation would point to over 50k for me.,Wrong
+58101,dca910b0-6c61-4b71-b0a9-bf2ffb4e70a1,final-test,user_prediction,2025-02-23 11:51:31.501337,9,over 50k,over 50k,3,Investment outcome was a big factor and also age and education.,Correct
+58103,dca910b0-6c61-4b71-b0a9-bf2ffb4e70a1,final-test,user_prediction,2025-02-23 11:52:00.902493,10,under 50k,under 50k,2,Age and martial status were the main reasons I went under 50k.,Correct
+58345,d53ca397-b3a8-4149-ab04-02f66e20a39d,final-test,user_prediction,2025-02-23 12:33:14.351221,1,over 50k,over 50k,2,The occupation in sales generally means over 50k especially when looking at working hours.,Correct
+58355,d53ca397-b3a8-4149-ab04-02f66e20a39d,final-test,user_prediction,2025-02-23 12:34:11.346911,2,under 50k,under 50k,3,Blue-collar jobs are generally less well paid. Also considering the subjects age and marital status.,Correct
+58364,d53ca397-b3a8-4149-ab04-02f66e20a39d,final-test,user_prediction,2025-02-23 12:34:53.194910,3,under 50k,under 50k,2,Blue-collar job and single are seemingly big factors for this.,Correct
+58368,d53ca397-b3a8-4149-ab04-02f66e20a39d,final-test,user_prediction,2025-02-23 12:35:58.100404,4,over 50k,under 50k,1,Ordinarily I would think service as an occupation would be less well paid in seems in these scenarios it is higher paid.,Wrong
+58373,d53ca397-b3a8-4149-ab04-02f66e20a39d,final-test,user_prediction,2025-02-23 12:36:58.323521,5,over 50k,over 50k,3,Being married and working in a white-collar industry I expect a higher likely hood of a over 50k prediction. ,Correct
+58375,d53ca397-b3a8-4149-ab04-02f66e20a39d,final-test,user_prediction,2025-02-23 12:37:48.212215,6,over 50k,over 50k,2,"At his age I would presume this person to have a higher military ranking, this would offer a higher pay rate.",Correct
+58377,d53ca397-b3a8-4149-ab04-02f66e20a39d,final-test,user_prediction,2025-02-23 12:38:42.963605,7,over 50k,over 50k,3,"Professional seems to mean a higher pay rate, plus being married adheres to the usual prediction at above 50k.",Correct
+58379,d53ca397-b3a8-4149-ab04-02f66e20a39d,final-test,user_prediction,2025-02-23 12:39:11.587493,8,under 50k,under 50k,2,Blue-collar positions generally have a smaller pay rate.,Correct
+58381,d53ca397-b3a8-4149-ab04-02f66e20a39d,final-test,user_prediction,2025-02-23 12:40:02.897529,9,over 50k,over 50k,2,"Despite being single this individual has a degree and is working in sales, both factors point to a higher pay.",Correct
+58383,d53ca397-b3a8-4149-ab04-02f66e20a39d,final-test,user_prediction,2025-02-23 12:41:26.569058,10,under 50k,under 50k,0,I'm unsure in which position they would hold in the service industry. I figured their age and marital status shows a lower pay in general.,Correct
+58331,0f1ce75e-36db-4872-bd04-933754a0d95c,final-test,user_prediction,2025-02-23 12:30:59.539020,6,over 50k,over 50k,3,"The investment gain and college education make me confident this is over 50K. However given how small the data set's ""Military"" sample is makes the occupation a slightly rogue datapoint.",Correct
+58289,0f1ce75e-36db-4872-bd04-933754a0d95c,final-test,user_prediction,2025-02-23 12:25:04.234914,1,over 50k,over 50k,4,"The degree, the sales career, the hours worked alongside the major financial gain make this an easy guess for over 50k",Correct
+58293,0f1ce75e-36db-4872-bd04-933754a0d95c,final-test,user_prediction,2025-02-23 12:25:41.233574,2,under 50k,under 50k,3,"The young age and blue collar job, combined with the no investments make this a pretty easy under 50k",Correct
+58307,0f1ce75e-36db-4872-bd04-933754a0d95c,final-test,user_prediction,2025-02-23 12:26:57.113638,3,under 50k,under 50k,2,The major loss plus blue-collar work make me think its under 50k. However the post graduate education and age make me wonder if that is correct.,Correct
+58310,0f1ce75e-36db-4872-bd04-933754a0d95c,final-test,user_prediction,2025-02-23 12:27:22.872401,4,under 50k,under 50k,3,"The education level, minor loss and service career make me confident this is under 50k",Correct
+58318,0f1ce75e-36db-4872-bd04-933754a0d95c,final-test,user_prediction,2025-02-23 12:29:00.087706,5,over 50k,over 50k,2,"The full time hours, age, post grad education and white collar career make me confident it's over 50k However given the weighting in investment outcome I am not 100% confident.",Correct
+58343,0f1ce75e-36db-4872-bd04-933754a0d95c,final-test,user_prediction,2025-02-23 12:32:24.335308,7,over 50k,over 50k,2,"The professional career and working hours make me confident it is over 50k, plus the post-grad education. My only concern is the major loss in investment outcome, given how important this feature is to the AI. This makes me realise I should have asked the AI about what impact a Loss in this column would have on the prediction.",Correct
+58347,0f1ce75e-36db-4872-bd04-933754a0d95c,final-test,user_prediction,2025-02-23 12:33:19.662908,8,over 50k,under 50k,2,The hours worked alongside the bachelors degree and age make me think this is over 50k but the lack of invesment and blue-collar work make me a little unsure.,Wrong
+58353,0f1ce75e-36db-4872-bd04-933754a0d95c,final-test,user_prediction,2025-02-23 12:34:06.308617,9,over 50k,over 50k,4,The major gain in investment outcome gives me absolute confidence while the other attributes give me further confidence still.,Correct
+58361,0f1ce75e-36db-4872-bd04-933754a0d95c,final-test,user_prediction,2025-02-23 12:34:46.717068,10,under 50k,under 50k,3,"The post-grad education is the only feature here that would influence this, but given the weighting on Age, Occupation and investment I am confident this is under.",Correct
+58339,0628caa8-29e7-4ebb-b2b7-303ab1681777,final-test,user_prediction,2025-02-23 12:31:38.418842,1,over 50k,over 50k,3,The investment outcome plays a vital role in my decision,Correct
+58341,0628caa8-29e7-4ebb-b2b7-303ab1681777,final-test,user_prediction,2025-02-23 12:32:09.353828,2,under 50k,under 50k,3,The poor work life balance,Correct
+58349,0628caa8-29e7-4ebb-b2b7-303ab1681777,final-test,user_prediction,2025-02-23 12:33:28.526896,3,under 50k,under 50k,4,The marital status influences my decision,Correct
+58351,0628caa8-29e7-4ebb-b2b7-303ab1681777,final-test,user_prediction,2025-02-23 12:33:57.426489,4,over 50k,under 50k,3,The work life balance is good,Wrong
+58357,0628caa8-29e7-4ebb-b2b7-303ab1681777,final-test,user_prediction,2025-02-23 12:34:16.065460,5,over 50k,over 50k,3,The marital status,Correct
+58359,0628caa8-29e7-4ebb-b2b7-303ab1681777,final-test,user_prediction,2025-02-23 12:34:31.876431,6,over 50k,over 50k,4,Marital status,Correct
+58362,0628caa8-29e7-4ebb-b2b7-303ab1681777,final-test,user_prediction,2025-02-23 12:34:48.930745,7,over 50k,over 50k,3,N,Correct
+58366,0628caa8-29e7-4ebb-b2b7-303ab1681777,final-test,user_prediction,2025-02-23 12:35:16.213851,8,over 50k,under 50k,2,The marital status plays a major role,Wrong
+58370,0628caa8-29e7-4ebb-b2b7-303ab1681777,final-test,user_prediction,2025-02-23 12:36:05.886673,9,under 50k,over 50k,3,The marital status and work life balance influence my decision,Wrong
+58372,0628caa8-29e7-4ebb-b2b7-303ab1681777,final-test,user_prediction,2025-02-23 12:36:28.073002,10,under 50k,under 50k,2,The young age and marital status,Correct
+53733,703b674e-3466-4553-9ef5-e4ac4c1bfe2a,final-test,user_prediction,2025-02-22 23:30:27.305364,4,under 50k,under 50k,2,"Service, middle school education",Correct
+53739,703b674e-3466-4553-9ef5-e4ac4c1bfe2a,final-test,user_prediction,2025-02-22 23:30:42.339751,6,over 50k,over 50k,4,Military,Correct
+53745,703b674e-3466-4553-9ef5-e4ac4c1bfe2a,final-test,user_prediction,2025-02-22 23:31:05.837103,8,over 50k,under 50k,2,"56 hour work week, married",Wrong
+53751,703b674e-3466-4553-9ef5-e4ac4c1bfe2a,final-test,user_prediction,2025-02-22 23:31:38.579385,10,under 50k,under 50k,3,"Young, service industry",Correct
+53725,703b674e-3466-4553-9ef5-e4ac4c1bfe2a,final-test,user_prediction,2025-02-22 23:29:46.527810,2,under 50k,under 50k,4,"Poor life-work balance, single, young",Correct
+53731,703b674e-3466-4553-9ef5-e4ac4c1bfe2a,final-test,user_prediction,2025-02-22 23:30:14.123643,3,over 50k,under 50k,3,"Post-grad education, blue-collar, 50 hours, has money he can afford to lose in investments",Wrong
+53737,703b674e-3466-4553-9ef5-e4ac4c1bfe2a,final-test,user_prediction,2025-02-22 23:30:34.477616,5,over 50k,over 50k,4,White-collar,Correct
+53743,703b674e-3466-4553-9ef5-e4ac4c1bfe2a,final-test,user_prediction,2025-02-22 23:30:54.132860,7,over 50k,over 50k,3,"55 hours a week, post-graduate, married",Correct
+53723,703b674e-3466-4553-9ef5-e4ac4c1bfe2a,final-test,user_prediction,2025-02-22 23:29:31.178773,1,over 50k,over 50k,1,56 hours a week and investments,Correct
+53747,703b674e-3466-4553-9ef5-e4ac4c1bfe2a,final-test,user_prediction,2025-02-22 23:31:23.409996,9,under 50k,over 50k,1,"Standard working hours, sales ",Wrong
+53628,7aeec119-17e8-4082-9808-e8f6e87207d1,final-test,user_prediction,2025-02-22 23:24:20.885537,1,over 50k,over 50k,2,"Education Level is High, Investments exist and works in Sales",Correct
+53639,7aeec119-17e8-4082-9808-e8f6e87207d1,final-test,user_prediction,2025-02-22 23:25:11.960418,2,under 50k,under 50k,4,"Young, unmarried, just graduated and works in blue collar occupation and has no investments.",Correct
+53649,7aeec119-17e8-4082-9808-e8f6e87207d1,final-test,user_prediction,2025-02-22 23:26:12.285628,3,under 50k,under 50k,2,"Single, but is older and works in a blue collar role with minor investment.",Correct
+53721,7aeec119-17e8-4082-9808-e8f6e87207d1,final-test,user_prediction,2025-02-22 23:29:17.020542,6,over 50k,over 50k,1,Married and has investments and has attended college.,Correct
+53681,7aeec119-17e8-4082-9808-e8f6e87207d1,final-test,user_prediction,2025-02-22 23:27:16.461378,4,under 50k,under 50k,2,"Works in a service occupation, and only has a middle school education and is quite young.",Correct
+53702,7aeec119-17e8-4082-9808-e8f6e87207d1,final-test,user_prediction,2025-02-22 23:28:13.624326,5,over 50k,over 50k,4,"Is experienced in a white collar role, married and has a poor work life balance with an extended education.",Correct
+53758,7aeec119-17e8-4082-9808-e8f6e87207d1,final-test,user_prediction,2025-02-22 23:33:34.997113,10,under 50k,under 50k,3,"Although post graduate education exists, this person is young and works in service with no investments. They are also single.",Correct
+53729,7aeec119-17e8-4082-9808-e8f6e87207d1,final-test,user_prediction,2025-02-22 23:29:55.296898,7,over 50k,over 50k,2,"Has an extended education, is a married professional and has minor investments.",Correct
+53741,7aeec119-17e8-4082-9808-e8f6e87207d1,final-test,user_prediction,2025-02-22 23:30:49.104008,8,under 50k,under 50k,2,"Although there is a Batchelor Degree, the worker is in a blue collar role with no investments at almost 40 years old.",Correct
+53752,7aeec119-17e8-4082-9808-e8f6e87207d1,final-test,user_prediction,2025-02-22 23:32:27.535285,9,over 50k,over 50k,4,Has investments and an extended education. At 39 working in Sales with a fair work life balance with money spare to invest.,Correct
+58520,2fb9aa30-e35e-4d3c-a3b5-f671a0681351,final-test,user_prediction,2025-02-23 12:59:38.703897,1,over 50k,over 50k,1,"Age, AA degree, 56 hours weekly work hours, major investment gain all factor in a salary over 50k.",Correct
+58524,2fb9aa30-e35e-4d3c-a3b5-f671a0681351,final-test,user_prediction,2025-02-23 13:00:26.084405,2,under 50k,under 50k,1,"Age, marital status and occupation lead me to believe that the model would predict under 50k.",Correct
+58530,2fb9aa30-e35e-4d3c-a3b5-f671a0681351,final-test,user_prediction,2025-02-23 13:01:43.553601,3,under 50k,under 50k,0,"Occupation, martial status and major loss in investment would lead me to believe the model would predict under 50k.",Correct
+58532,2fb9aa30-e35e-4d3c-a3b5-f671a0681351,final-test,user_prediction,2025-02-23 13:02:40.415458,4,over 50k,under 50k,1,"Age, marital status, weekly working hours and work life balance are factors in the model's decision for over 50k.",Wrong
+58538,2fb9aa30-e35e-4d3c-a3b5-f671a0681351,final-test,user_prediction,2025-02-23 13:03:20.767493,5,over 50k,over 50k,1,"Age, education level, marital status and occupation leads to a model prediction of over 50k.",Correct
+58544,2fb9aa30-e35e-4d3c-a3b5-f671a0681351,final-test,user_prediction,2025-02-23 13:04:18.778561,6,over 50k,over 50k,1,"Age, marital status and investment outcome leads to an over 50k prediction by the AI model.",Correct
+58552,2fb9aa30-e35e-4d3c-a3b5-f671a0681351,final-test,user_prediction,2025-02-23 13:05:05.822723,7,over 50k,over 50k,1,"In spite of the investment outcome, I will believe the model would predict a salary of over 50k for this person.",Correct
+58557,2fb9aa30-e35e-4d3c-a3b5-f671a0681351,final-test,user_prediction,2025-02-23 13:05:58.234764,8,over 50k,under 50k,1,"Age, education status, marital status and weekly working hours lead to decision of over 50k by the AI model.",Wrong
+58562,2fb9aa30-e35e-4d3c-a3b5-f671a0681351,final-test,user_prediction,2025-02-23 13:06:45.946086,9,over 50k,over 50k,2,"Investment outcome, age and education level are indicators that the model would predict over 50k for this individual.",Correct
+58568,2fb9aa30-e35e-4d3c-a3b5-f671a0681351,final-test,user_prediction,2025-02-23 13:07:22.867114,10,under 50k,under 50k,2,Age and marital status -- and lack of investment -- would lead to a prediction of under 50k.,Correct
+53875,f5f77764-3c9e-4201-9ab9-51cd5522ae4c,final-test,user_prediction,2025-02-22 23:47:48.875737,2,under 50k,under 50k,1,"he is only young, and has no investments",Correct
+53879,f5f77764-3c9e-4201-9ab9-51cd5522ae4c,final-test,user_prediction,2025-02-22 23:48:29.020662,3,over 50k,under 50k,1,he works long hours and can afford to make losses.,Wrong
+53895,f5f77764-3c9e-4201-9ab9-51cd5522ae4c,final-test,user_prediction,2025-02-22 23:50:12.119708,4,over 50k,under 50k,1,he has a good work life balance so must not need to work more hours and can afford to make losses,Wrong
+53859,f5f77764-3c9e-4201-9ab9-51cd5522ae4c,final-test,user_prediction,2025-02-22 23:46:49.762359,1,over 50k,over 50k,1,he had made gains so had money to invest.,Correct
+53899,f5f77764-3c9e-4201-9ab9-51cd5522ae4c,final-test,user_prediction,2025-02-22 23:51:03.450837,5,under 50k,over 50k,0,poor work life balance ,Wrong
+53907,f5f77764-3c9e-4201-9ab9-51cd5522ae4c,final-test,user_prediction,2025-02-22 23:52:33.507393,7,over 50k,over 50k,1,good education and professional job indicates good pay,Correct
+53927,f5f77764-3c9e-4201-9ab9-51cd5522ae4c,final-test,user_prediction,2025-02-22 23:54:20.520333,10,under 50k,under 50k,0,only young with no investmaents,Correct
+53902,f5f77764-3c9e-4201-9ab9-51cd5522ae4c,final-test,user_prediction,2025-02-22 23:51:45.773391,6,over 50k,over 50k,1,making investments so must earn a decent salary,Correct
+53913,f5f77764-3c9e-4201-9ab9-51cd5522ae4c,final-test,user_prediction,2025-02-22 23:53:09.966914,8,under 50k,under 50k,0,working a lot of hours but not investing,Correct
+53922,f5f77764-3c9e-4201-9ab9-51cd5522ae4c,final-test,user_prediction,2025-02-22 23:53:51.604773,9,over 50k,over 50k,1,has a fair amount to invest to make good returns,Correct
+60140,3302abfa-9dd8-4d47-a2ec-f010a097f3dd,final-test,user_prediction,2025-02-23 18:06:00.835858,1,over 50k,over 50k,3,Investment outcome is major gain,Correct
+60142,3302abfa-9dd8-4d47-a2ec-f010a097f3dd,final-test,user_prediction,2025-02-23 18:06:25.083035,2,under 50k,under 50k,3,"Single, young and no investment",Correct
+60146,3302abfa-9dd8-4d47-a2ec-f010a097f3dd,final-test,user_prediction,2025-02-23 18:07:01.473110,3,under 50k,under 50k,2,"Single, blue collar, and major loss",Correct
+60149,3302abfa-9dd8-4d47-a2ec-f010a097f3dd,final-test,user_prediction,2025-02-23 18:07:30.723439,4,under 50k,under 50k,1,"34 years old, minor loss",Correct
+60154,3302abfa-9dd8-4d47-a2ec-f010a097f3dd,final-test,user_prediction,2025-02-23 18:08:04.701483,5,over 50k,over 50k,1,"58 years old, married, post graduate, white collar",Correct
+60156,3302abfa-9dd8-4d47-a2ec-f010a097f3dd,final-test,user_prediction,2025-02-23 18:08:27.376929,6,over 50k,over 50k,2,"married, college, minor gain",Correct
+60161,3302abfa-9dd8-4d47-a2ec-f010a097f3dd,final-test,user_prediction,2025-02-23 18:09:30.155097,7,under 50k,over 50k,2,Major loss investment outcome,Wrong
+60167,3302abfa-9dd8-4d47-a2ec-f010a097f3dd,final-test,user_prediction,2025-02-23 18:10:05.754303,8,over 50k,under 50k,2,"Education level, married and 56 hours working week",Wrong
+60172,3302abfa-9dd8-4d47-a2ec-f010a097f3dd,final-test,user_prediction,2025-02-23 18:10:28.141115,9,over 50k,over 50k,3,Investment outcome major gain,Correct
+60180,3302abfa-9dd8-4d47-a2ec-f010a097f3dd,final-test,user_prediction,2025-02-23 18:11:04.502237,10,under 50k,under 50k,3,"23 years old, single, 40 hour work week",Correct
+61657,55893c02-1fd5-4067-a6c5-74cbe3f638f7,final-test,user_prediction,2025-02-23 23:49:48.985153,10,under 50k,under 50k,3,Only the education here seems to suggest over 50k and I don't think it is enough.,Correct
+61639,55893c02-1fd5-4067-a6c5-74cbe3f638f7,final-test,user_prediction,2025-02-23 23:27:55.576678,1,over 50k,over 50k,2,"Major gain seemed able to overcome several other attributes suggesting below 50k, like single and sales here, and this person also worked a lot of hours and has a degree.",Correct
+61641,55893c02-1fd5-4067-a6c5-74cbe3f638f7,final-test,user_prediction,2025-02-23 23:29:48.702246,2,under 50k,under 50k,4,No investment and blue collar together anchor it the under 50k category and single and age only help to solidify this.,Correct
+61643,55893c02-1fd5-4067-a6c5-74cbe3f638f7,final-test,user_prediction,2025-02-23 23:33:20.315728,3,over 50k,under 50k,1,"I hope that the age, education, and hours are enough to override the occupation and single.  The loss rather than no investment keeps it from being anchored in under 50k I hope.",Wrong
+61645,55893c02-1fd5-4067-a6c5-74cbe3f638f7,final-test,user_prediction,2025-02-23 23:35:10.864057,4,under 50k,under 50k,3,"I don' t think being married is enough to counteract the occupation, education, and hours.",Correct
+61647,55893c02-1fd5-4067-a6c5-74cbe3f638f7,final-test,user_prediction,2025-02-23 23:36:18.344932,5,over 50k,over 50k,4,Most attributes here indicate over 50k. Even the loss is better than no investment,Correct
+61649,55893c02-1fd5-4067-a6c5-74cbe3f638f7,final-test,user_prediction,2025-02-23 23:41:02.480936,6,over 50k,over 50k,2,"I was thinking it said major gain, but even a minor one should contribute to above 50k. My experience is military make a lot but I did not ever test that with the model like I should have. The age, being married, and college help suggest above 50k.",Correct
+61651,55893c02-1fd5-4067-a6c5-74cbe3f638f7,final-test,user_prediction,2025-02-23 23:43:11.797623,7,over 50k,over 50k,4,Almost everything here suggests over 50k except not sure about the work life balance; it probably does almost nothing at all.,Correct
+61653,55893c02-1fd5-4067-a6c5-74cbe3f638f7,final-test,user_prediction,2025-02-23 23:44:48.501570,8,under 50k,under 50k,3,"unfortunately, if I understood correctly  the occupation and lack of investment anchor it in the under 50k, even though everything else suggests the opposite.",Correct
+61655,55893c02-1fd5-4067-a6c5-74cbe3f638f7,final-test,user_prediction,2025-02-23 23:48:02.134050,9,over 50k,over 50k,3,"I am going off the ridiculous weight placed on a major gain towards over 50k by the model.  That along with the age and degree I think can counteract the  pull of single, the hours, and the job.",Correct
+59776,d1bc3dfb-73ec-4f56-bda1-72ade8489a05,final-test,user_prediction,2025-02-23 16:44:06.762860,1,over 50k,over 50k,3,Major investment gain and degree,Correct
+59780,d1bc3dfb-73ec-4f56-bda1-72ade8489a05,final-test,user_prediction,2025-02-23 16:45:39.167698,2,under 50k,under 50k,4,No investments and also single,Correct
+59782,d1bc3dfb-73ec-4f56-bda1-72ade8489a05,final-test,user_prediction,2025-02-23 16:46:13.055677,3,under 50k,under 50k,2,Marital status is single and made a major loss ,Correct
+59788,d1bc3dfb-73ec-4f56-bda1-72ade8489a05,final-test,user_prediction,2025-02-23 16:46:56.881541,4,under 50k,under 50k,3,The education level is very low and the occupation is service,Correct
+59794,d1bc3dfb-73ec-4f56-bda1-72ade8489a05,final-test,user_prediction,2025-02-23 16:47:43.967873,5,over 50k,over 50k,4,Married and white colour occupation always add up to over 50k,Correct
+59802,d1bc3dfb-73ec-4f56-bda1-72ade8489a05,final-test,user_prediction,2025-02-23 16:48:55.998519,6,over 50k,over 50k,2,Married and went to college and is in the military,Correct
+59806,d1bc3dfb-73ec-4f56-bda1-72ade8489a05,final-test,user_prediction,2025-02-23 16:49:28.716872,7,over 50k,over 50k,3,Married and a professional occupation,Correct
+59810,d1bc3dfb-73ec-4f56-bda1-72ade8489a05,final-test,user_prediction,2025-02-23 16:50:13.611748,8,over 50k,under 50k,4,The age 39 along with the Married and occupation are in favor,Wrong
+59812,d1bc3dfb-73ec-4f56-bda1-72ade8489a05,final-test,user_prediction,2025-02-23 16:50:47.066774,9,over 50k,over 50k,2,The major investment gain pushes it slightly,Correct
+59815,d1bc3dfb-73ec-4f56-bda1-72ade8489a05,final-test,user_prediction,2025-02-23 16:51:10.644604,10,under 50k,under 50k,3,Single and in Service,Correct
+60039,9520459e-c382-41a3-855f-61fc8eb8ec46,final-test,user_prediction,2025-02-23 17:44:27.099811,1,over 50k,over 50k,3,"education level, weekly working hours, and investment outcome lead me to believe in my prediction.",Correct
+60046,9520459e-c382-41a3-855f-61fc8eb8ec46,final-test,user_prediction,2025-02-23 17:46:26.042346,2,under 50k,under 50k,3,"age, occupation, weekly working hours, and investment outcome makes me believe that they would be below 50000",Correct
+60058,9520459e-c382-41a3-855f-61fc8eb8ec46,final-test,user_prediction,2025-02-23 17:49:13.511928,3,over 50k,under 50k,1,"age, weekly working hours support my prediction",Wrong
+60069,9520459e-c382-41a3-855f-61fc8eb8ec46,final-test,user_prediction,2025-02-23 17:52:15.855478,5,over 50k,over 50k,3,"age, marital status, occupation seems to support over 50k",Correct
+60072,9520459e-c382-41a3-855f-61fc8eb8ec46,final-test,user_prediction,2025-02-23 17:53:32.367022,6,under 50k,over 50k,1,"occupation, education are the factors I considered",Wrong
+60075,9520459e-c382-41a3-855f-61fc8eb8ec46,final-test,user_prediction,2025-02-23 17:54:22.416375,7,over 50k,over 50k,1,occupation and weekly working hours would support an over 50k salary,Correct
+60078,9520459e-c382-41a3-855f-61fc8eb8ec46,final-test,user_prediction,2025-02-23 17:55:54.655327,8,under 50k,under 50k,1,occupation and Investment outcome lead me to predict an under 50k salary,Correct
+60081,9520459e-c382-41a3-855f-61fc8eb8ec46,final-test,user_prediction,2025-02-23 17:57:30.608301,9,under 50k,over 50k,2,"here I considered occupation, weekly working hours",Wrong
+60083,9520459e-c382-41a3-855f-61fc8eb8ec46,final-test,user_prediction,2025-02-23 17:58:28.884309,10,under 50k,under 50k,4,"age fits under 50k, so does weekly working hours, also has no investments.",Correct
+60062,9520459e-c382-41a3-855f-61fc8eb8ec46,final-test,user_prediction,2025-02-23 17:50:54.173524,4,under 50k,under 50k,1,"Education level, weekly working hours support my prediction",Correct
+60315,575bea0d-d57d-413d-a444-fdc88ae71ee7,final-test,user_prediction,2025-02-23 18:30:23.731152,1,over 50k,over 50k,4,Major gain and very high hours are the two biggest factors so I think this outweighs everything else.,Correct
+60317,575bea0d-d57d-413d-a444-fdc88ae71ee7,final-test,user_prediction,2025-02-23 18:30:45.896701,2,under 50k,under 50k,4,"No investment, low hours, single and very young makes me very confident here.",Correct
+60319,575bea0d-d57d-413d-a444-fdc88ae71ee7,final-test,user_prediction,2025-02-23 18:31:19.461289,3,over 50k,under 50k,3,"A tricky one, but age, high hours and post-grad makes me side slightly with the over here.",Wrong
+60321,575bea0d-d57d-413d-a444-fdc88ae71ee7,final-test,user_prediction,2025-02-23 18:31:58.030202,4,under 50k,under 50k,1,"Middle school, fairly young, low hours and a minor loss make me confident here....But they are married which reduces my confidence.",Correct
+60323,575bea0d-d57d-413d-a444-fdc88ae71ee7,final-test,user_prediction,2025-02-23 18:32:35.743870,5,over 50k,over 50k,4,"Post grad, age, and married are the biggest factor here for me and I believe balance out the fact they've made a major loss.",Correct
+60325,575bea0d-d57d-413d-a444-fdc88ae71ee7,final-test,user_prediction,2025-02-23 18:33:11.794756,6,over 50k,over 50k,1,"A tricky one, but theyre married and made a gain which are the two biggest factors, however no degree and low hours reduces my confidence here",Correct
+60327,575bea0d-d57d-413d-a444-fdc88ae71ee7,final-test,user_prediction,2025-02-23 18:33:48.566758,7,over 50k,over 50k,3,"Major loss, but outbalanced by education, hours and marriage status makes me fairly confident here.",Correct
+60329,575bea0d-d57d-413d-a444-fdc88ae71ee7,final-test,user_prediction,2025-02-23 18:34:08.859433,8,over 50k,under 50k,4,"Degree, married and very high hours make me confident here.",Wrong
+60333,575bea0d-d57d-413d-a444-fdc88ae71ee7,final-test,user_prediction,2025-02-23 18:34:56.500206,9,under 50k,over 50k,2,"Low hours, signle and fairly young make me slightly confident here.",Wrong
+60335,575bea0d-d57d-413d-a444-fdc88ae71ee7,final-test,user_prediction,2025-02-23 18:35:12.624828,10,under 50k,under 50k,4,Very young and low hours makes me confident here.,Correct
+60469,4f52d3e8-f1d1-41e0-83c6-6451ca7df19e,final-test,user_prediction,2025-02-23 19:08:18.882020,1,over 50k,over 50k,4,"Good education, major gain in investment, many working hours, at the middle stage of career",Correct
+60495,4f52d3e8-f1d1-41e0-83c6-6451ca7df19e,final-test,user_prediction,2025-02-23 19:15:05.581785,6,over 50k,over 50k,2,"Middle career stage, higher education, military professional wages can be high, minor investment gain",Correct
+60474,4f52d3e8-f1d1-41e0-83c6-6451ca7df19e,final-test,user_prediction,2025-02-23 19:10:42.677371,2,under 50k,under 50k,4,"Too young to reach high salary level, no investment, blue collar, not many working hours",Correct
+60481,4f52d3e8-f1d1-41e0-83c6-6451ca7df19e,final-test,user_prediction,2025-02-23 19:11:40.930500,3,over 50k,under 50k,3,"Late stage of career, many working hours, very high education level, can afford investment loss at this stage",Wrong
+60484,4f52d3e8-f1d1-41e0-83c6-6451ca7df19e,final-test,user_prediction,2025-02-23 19:12:30.290876,4,under 50k,under 50k,3,"low level of education, not many working hours, investment loss",Correct
+60488,4f52d3e8-f1d1-41e0-83c6-6451ca7df19e,final-test,user_prediction,2025-02-23 19:13:27.653365,5,over 50k,over 50k,3,"late career stage, highest education level, white-collar with higher wages, can afford major investment loss",Correct
+60502,4f52d3e8-f1d1-41e0-83c6-6451ca7df19e,final-test,user_prediction,2025-02-23 19:15:48.926725,7,over 50k,over 50k,4,"Professional with adavance education and high work load, can afford investment loss ",Correct
+60507,4f52d3e8-f1d1-41e0-83c6-6451ca7df19e,final-test,user_prediction,2025-02-23 19:16:27.920654,8,over 50k,under 50k,3,"Higher education, advanced career stage, high workload ",Wrong
+60513,4f52d3e8-f1d1-41e0-83c6-6451ca7df19e,final-test,user_prediction,2025-02-23 19:17:34.059704,9,over 50k,over 50k,4,"Higher education, single, good investments ",Correct
+60521,4f52d3e8-f1d1-41e0-83c6-6451ca7df19e,final-test,user_prediction,2025-02-23 19:18:12.319130,10,under 50k,under 50k,4,a too early career stage for a high salary,Correct
+60546,5445bde9-fb53-43f9-bf75-a673cd12a042,final-test,user_prediction,2025-02-23 19:26:10.795513,1,over 50k,over 50k,4,The investment outcome and working hours are the basis to my decision.,Correct
+60549,5445bde9-fb53-43f9-bf75-a673cd12a042,final-test,user_prediction,2025-02-23 19:27:14.940494,2,under 50k,under 50k,4,The person is single with no investment,Correct
+60551,5445bde9-fb53-43f9-bf75-a673cd12a042,final-test,user_prediction,2025-02-23 19:27:36.134185,3,under 50k,under 50k,1,Single with major loss,Correct
+60554,5445bde9-fb53-43f9-bf75-a673cd12a042,final-test,user_prediction,2025-02-23 19:28:30.925459,4,over 50k,under 50k,2,Married and occupation being service,Wrong
+60557,5445bde9-fb53-43f9-bf75-a673cd12a042,final-test,user_prediction,2025-02-23 19:29:25.934682,5,over 50k,over 50k,1,Married and white collar,Correct
+60560,5445bde9-fb53-43f9-bf75-a673cd12a042,final-test,user_prediction,2025-02-23 19:30:11.225990,6,over 50k,over 50k,4,Married and investment outcome,Correct
+60563,5445bde9-fb53-43f9-bf75-a673cd12a042,final-test,user_prediction,2025-02-23 19:31:10.944935,7,over 50k,over 50k,1,Married and 55 hours working hours,Correct
+60566,5445bde9-fb53-43f9-bf75-a673cd12a042,final-test,user_prediction,2025-02-23 19:31:35.250658,8,over 50k,under 50k,4,Married and good working hours,Wrong
+60568,5445bde9-fb53-43f9-bf75-a673cd12a042,final-test,user_prediction,2025-02-23 19:32:06.409724,9,over 50k,over 50k,0,investment outcome and work balance,Correct
+60573,5445bde9-fb53-43f9-bf75-a673cd12a042,final-test,user_prediction,2025-02-23 19:32:40.420689,10,under 50k,under 50k,4,Single and no investment,Correct
+61040,77fe9740-7e12-48a9-a5cb-22963abc633a,final-test,user_prediction,2025-02-23 20:33:41.825025,1,over 50k,over 50k,3,Has major gain for above 5k which contributed more to over 50k. Education level is also high,Correct
+61052,77fe9740-7e12-48a9-a5cb-22963abc633a,final-test,user_prediction,2025-02-23 20:35:41.497287,2,under 50k,under 50k,3,"Major attributes that influenced the prediction to below  50k is the age, no investments, blue collar job and single",Correct
+61066,77fe9740-7e12-48a9-a5cb-22963abc633a,final-test,user_prediction,2025-02-23 20:37:19.746254,3,over 50k,under 50k,0,49 years old with high level of education,Wrong
+61070,77fe9740-7e12-48a9-a5cb-22963abc633a,final-test,user_prediction,2025-02-23 20:37:54.019565,4,over 50k,under 50k,1,Works at services and is married,Wrong
+61075,77fe9740-7e12-48a9-a5cb-22963abc633a,final-test,user_prediction,2025-02-23 20:38:36.697294,5,over 50k,over 50k,3,"Is 58 years, works at a white color job and is married",Correct
+61077,77fe9740-7e12-48a9-a5cb-22963abc633a,final-test,user_prediction,2025-02-23 20:39:21.356140,6,over 50k,over 50k,3,"Is married, high level of education and gains up to 5k",Correct
+61081,77fe9740-7e12-48a9-a5cb-22963abc633a,final-test,user_prediction,2025-02-23 20:40:13.627419,7,over 50k,over 50k,3,Is married and worked at a professional job,Correct
+61085,77fe9740-7e12-48a9-a5cb-22963abc633a,final-test,user_prediction,2025-02-23 20:40:52.950652,8,under 50k,under 50k,1,Works at a blue color job with no investments,Correct
+61090,77fe9740-7e12-48a9-a5cb-22963abc633a,final-test,user_prediction,2025-02-23 20:41:39.062589,9,over 50k,over 50k,3,"High level of education, and has major gains above 5k",Correct
+61092,77fe9740-7e12-48a9-a5cb-22963abc633a,final-test,user_prediction,2025-02-23 20:42:09.597030,10,under 50k,under 50k,3,"Young age, single, no investments",Correct
+60999,f0dc01ec-fcdf-4658-ac59-ec4dd51a1782,final-test,user_prediction,2025-02-23 20:29:58.525019,1,over 50k,over 50k,3,"the investment outcome, the working hours and the educational level.",Correct
+61016,f0dc01ec-fcdf-4658-ac59-ec4dd51a1782,final-test,user_prediction,2025-02-23 20:31:11.886994,2,under 50k,under 50k,3,The age and marital status tends to favour under 50.,Correct
+61034,f0dc01ec-fcdf-4658-ac59-ec4dd51a1782,final-test,user_prediction,2025-02-23 20:33:00.113522,3,over 50k,under 50k,2,"The age, working and educational level.",Wrong
+61042,f0dc01ec-fcdf-4658-ac59-ec4dd51a1782,final-test,user_prediction,2025-02-23 20:34:10.123256,4,over 50k,under 50k,1,The marital status tend to favour over 50.,Wrong
+61060,f0dc01ec-fcdf-4658-ac59-ec4dd51a1782,final-test,user_prediction,2025-02-23 20:36:31.095361,5,under 50k,over 50k,2,The age and the marital status tends to favour over 50.,Wrong
+61073,f0dc01ec-fcdf-4658-ac59-ec4dd51a1782,final-test,user_prediction,2025-02-23 20:38:23.858057,6,over 50k,over 50k,3,The investment outcome and marital status favour over 50,Correct
+61079,f0dc01ec-fcdf-4658-ac59-ec4dd51a1782,final-test,user_prediction,2025-02-23 20:39:26.773782,7,over 50k,over 50k,2,"The educational level, working hours and marital status favour over 50",Correct
+61083,f0dc01ec-fcdf-4658-ac59-ec4dd51a1782,final-test,user_prediction,2025-02-23 20:40:23.420066,8,over 50k,under 50k,3,"The marital status, working hours and age ",Wrong
+61087,f0dc01ec-fcdf-4658-ac59-ec4dd51a1782,final-test,user_prediction,2025-02-23 20:40:58.222500,9,over 50k,over 50k,3,"The investment outcome, age and educational level",Correct
+61089,f0dc01ec-fcdf-4658-ac59-ec4dd51a1782,final-test,user_prediction,2025-02-23 20:41:21.994495,10,under 50k,under 50k,2,the age and marital status,Correct
+61244,989393c8-ff8a-42c5-bfe4-2517725ba0b2,final-test,user_prediction,2025-02-23 21:15:14.515077,1,over 50k,over 50k,2,"They have good qualifications, investments and long working hours",Correct
+61246,989393c8-ff8a-42c5-bfe4-2517725ba0b2,final-test,user_prediction,2025-02-23 21:15:53.846628,2,under 50k,under 50k,3,"They are young so have less experience, work in blue collar and have no investments",Correct
+61248,989393c8-ff8a-42c5-bfe4-2517725ba0b2,final-test,user_prediction,2025-02-23 21:16:47.667770,3,over 50k,under 50k,3,They have a lot of experience due to their age. They are well qualified and earn enough to invest some of their income,Wrong
+61250,989393c8-ff8a-42c5-bfe4-2517725ba0b2,final-test,user_prediction,2025-02-23 21:17:28.548993,4,under 50k,under 50k,1,They are not well qualified and work in the service industry.,Correct
+61252,989393c8-ff8a-42c5-bfe4-2517725ba0b2,final-test,user_prediction,2025-02-23 21:18:03.548994,5,over 50k,over 50k,3,"They have experience and very good qualifications and earn enough to have money invested,",Correct
+61254,989393c8-ff8a-42c5-bfe4-2517725ba0b2,final-test,user_prediction,2025-02-23 21:18:50.152067,6,over 50k,over 50k,1,They are married with a few tears of experience and earn enough to be able to invest their surplus income.,Correct
+61256,989393c8-ff8a-42c5-bfe4-2517725ba0b2,final-test,user_prediction,2025-02-23 21:19:26.722334,7,over 50k,over 50k,1,They are well qualified in a professional job and also have investments.,Correct
+61260,989393c8-ff8a-42c5-bfe4-2517725ba0b2,final-test,user_prediction,2025-02-23 21:20:21.805035,8,over 50k,under 50k,1,They are well qualified with many years of experience and work long hours.,Wrong
+61262,989393c8-ff8a-42c5-bfe4-2517725ba0b2,final-test,user_prediction,2025-02-23 21:20:58.598519,9,over 50k,over 50k,3,They are well qualified with many years of experience and money to invest.,Correct
+61264,989393c8-ff8a-42c5-bfe4-2517725ba0b2,final-test,user_prediction,2025-02-23 21:22:27.213407,10,under 50k,under 50k,2,Despite being well educated they have very little work experience they work in the service industry and have no investments.,Correct
+61580,11bced58-f2f4-4574-83af-c1d05bdef83b,final-test,user_prediction,2025-02-23 22:45:06.859992,1,over 50k,over 50k,1,Working over 56 hours and a major investment gain led me to this choice,Correct
+61582,11bced58-f2f4-4574-83af-c1d05bdef83b,final-test,user_prediction,2025-02-23 22:45:41.763336,2,under 50k,under 50k,4,Blue collar workers make less and they are young and single,Correct
+61587,11bced58-f2f4-4574-83af-c1d05bdef83b,final-test,user_prediction,2025-02-23 22:46:55.065801,3,under 50k,under 50k,3,Their major loss is what led me to the decision as well as being single and a blue collar worker,Correct
+61590,11bced58-f2f4-4574-83af-c1d05bdef83b,final-test,user_prediction,2025-02-23 22:47:18.131250,4,under 50k,under 50k,3,Service workers generally make less,Correct
+61593,11bced58-f2f4-4574-83af-c1d05bdef83b,final-test,user_prediction,2025-02-23 22:47:49.946929,5,over 50k,over 50k,1,Married white collar workers make more together,Correct
+61595,11bced58-f2f4-4574-83af-c1d05bdef83b,final-test,user_prediction,2025-02-23 22:48:17.398067,6,over 50k,over 50k,3,Married led me to my decision,Correct
+61597,11bced58-f2f4-4574-83af-c1d05bdef83b,final-test,user_prediction,2025-02-23 22:49:01.932455,7,under 50k,over 50k,1,They had a major loss in investment,Wrong
+61600,11bced58-f2f4-4574-83af-c1d05bdef83b,final-test,user_prediction,2025-02-23 22:50:03.240725,8,over 50k,under 50k,2,"Though blue collar, they are married with a high amount of work hours",Wrong
+61602,11bced58-f2f4-4574-83af-c1d05bdef83b,final-test,user_prediction,2025-02-23 22:50:28.721435,9,under 50k,over 50k,2,Sales generally does not make alot,Wrong
+61605,11bced58-f2f4-4574-83af-c1d05bdef83b,final-test,user_prediction,2025-02-23 22:51:06.741821,10,under 50k,under 50k,3,They are young and working in service,Correct
+61767,bce44e6d-01bd-4f00-89b9-48bd238297e5,final-test,user_prediction,2025-02-24 11:58:35.556889,1,under 50k,over 50k,1, high working hours,Wrong
+61769,bce44e6d-01bd-4f00-89b9-48bd238297e5,final-test,user_prediction,2025-02-24 11:59:07.439145,2,under 50k,under 50k,3,"working a standard schedule in a blue-collar job, and without clear indicators of high earnings, the model is likely to predict under 50k.",Correct
+61775,bce44e6d-01bd-4f00-89b9-48bd238297e5,final-test,user_prediction,2025-02-24 12:00:27.289825,3,over 50k,under 50k,2," post-graduate education, extensive work experience, and extra hours suggests a possibility of earning over 50k",Wrong
+61787,bce44e6d-01bd-4f00-89b9-48bd238297e5,final-test,user_prediction,2025-02-24 12:02:10.296505,4,under 50k,under 50k,3,"lower education level and a service job, the model is likely to predict under 50k.",Correct
+61789,bce44e6d-01bd-4f00-89b9-48bd238297e5,final-test,user_prediction,2025-02-24 12:02:37.216874,5,over 50k,over 50k,3,high education and work experience,Correct
+61797,bce44e6d-01bd-4f00-89b9-48bd238297e5,final-test,user_prediction,2025-02-24 12:03:21.932030,6,under 50k,over 50k,3,"Military pay structures are often below 50k for many roles, especially without a full college degree. The model will likely predict under 50k.",Wrong
+61799,bce44e6d-01bd-4f00-89b9-48bd238297e5,final-test,user_prediction,2025-02-24 12:04:02.300995,7,over 50k,over 50k,3,high education level,Correct
+61802,bce44e6d-01bd-4f00-89b9-48bd238297e5,final-test,user_prediction,2025-02-24 12:05:15.485816,8,over 50k,under 50k,3,"With a Bachelor’s degree, long working hours (overtime), and mid-career experience, the model is likely to predict over 50k.
+
+
+
+
+
+
+
+",Wrong
+61806,bce44e6d-01bd-4f00-89b9-48bd238297e5,final-test,user_prediction,2025-02-24 12:06:15.452067,9,under 50k,over 50k,2,"Associate’s degree, a sales job, and standard working hours",Wrong
+61814,bce44e6d-01bd-4f00-89b9-48bd238297e5,final-test,user_prediction,2025-02-24 12:07:05.182892,10,under 50k,under 50k,2,"Despite the postgraduate education, the young age, entry-level service job, and standard working hours strongly suggest the model will predict under 50k.",Correct
+61815,9ce0bc00-a41d-4423-bb23-ee2678662b15,final-test,user_prediction,2025-02-24 12:07:58.227201,1,over 50k,over 50k,3,"Sales, number of hours and major gain elements",Correct
+61817,9ce0bc00-a41d-4423-bb23-ee2678662b15,final-test,user_prediction,2025-02-24 12:08:18.973669,2,under 50k,under 50k,2,"Age, single, blue collar and no investment ",Correct
+61819,9ce0bc00-a41d-4423-bb23-ee2678662b15,final-test,user_prediction,2025-02-24 12:08:54.962206,3,under 50k,under 50k,1,"Blue collar, single, major loss",Correct
+61821,9ce0bc00-a41d-4423-bb23-ee2678662b15,final-test,user_prediction,2025-02-24 12:09:23.476630,4,under 50k,under 50k,1,service and minor loss,Correct
+61823,9ce0bc00-a41d-4423-bb23-ee2678662b15,final-test,user_prediction,2025-02-24 12:09:56.928310,5,over 50k,over 50k,2,"Age, married station, post grad education ",Correct
+61825,9ce0bc00-a41d-4423-bb23-ee2678662b15,final-test,user_prediction,2025-02-24 12:10:20.527153,6,over 50k,over 50k,2,"Married, military, minor gain ",Correct
+61827,9ce0bc00-a41d-4423-bb23-ee2678662b15,final-test,user_prediction,2025-02-24 12:11:03.792601,7,over 50k,over 50k,1,"Education, married, hours, professional ",Correct
+61829,9ce0bc00-a41d-4423-bb23-ee2678662b15,final-test,user_prediction,2025-02-24 12:11:21.938483,8,over 50k,under 50k,2,"Degree, hours, married, age",Wrong
+61831,9ce0bc00-a41d-4423-bb23-ee2678662b15,final-test,user_prediction,2025-02-24 12:11:37.889649,9,over 50k,over 50k,3,Sales and major gains element ,Correct
+61833,9ce0bc00-a41d-4423-bb23-ee2678662b15,final-test,user_prediction,2025-02-24 12:11:54.111915,10,under 50k,under 50k,2,Age and service ,Correct
+62230,edb2deca-eb99-4fb1-87f8-a1a44fa9e503,final-test,user_prediction,2025-02-24 13:06:46.117313,1,over 50k,over 50k,3,good investment. 56 hours of work. No dependents,Correct
+62238,edb2deca-eb99-4fb1-87f8-a1a44fa9e503,final-test,user_prediction,2025-02-24 13:08:19.508864,2,under 50k,under 50k,3,a 20 year old blue collar worker in the early stages of their work would be unlikely to earn as much and is doing a 40 hour week,Correct
+62254,edb2deca-eb99-4fb1-87f8-a1a44fa9e503,final-test,user_prediction,2025-02-24 13:10:53.386327,3,over 50k,under 50k,2,"the major loss could be due to other factors. His age, no dependents, 50 hour week and his education still suggest he would be earning over $50000",Wrong
+62256,edb2deca-eb99-4fb1-87f8-a1a44fa9e503,final-test,user_prediction,2025-02-24 13:12:17.977771,4,under 50k,under 50k,3,the work life balance and minor investment loss suggests under $50000,Correct
+62259,edb2deca-eb99-4fb1-87f8-a1a44fa9e503,final-test,user_prediction,2025-02-24 13:13:45.105474,5,over 50k,over 50k,3,Age and education and being a white collar worker are more important than the loss of investment,Correct
+62262,edb2deca-eb99-4fb1-87f8-a1a44fa9e503,final-test,user_prediction,2025-02-24 13:14:27.471034,6,over 50k,over 50k,3,due to the minor investment gain,Correct
+62265,edb2deca-eb99-4fb1-87f8-a1a44fa9e503,final-test,user_prediction,2025-02-24 13:15:17.423423,7,over 50k,over 50k,3,a professional worker with a 55 hour week must surely earn more,Correct
+62269,edb2deca-eb99-4fb1-87f8-a1a44fa9e503,final-test,user_prediction,2025-02-24 13:16:15.754045,8,over 50k,under 50k,2,56 hours ,Wrong
+62274,edb2deca-eb99-4fb1-87f8-a1a44fa9e503,final-test,user_prediction,2025-02-24 13:16:51.567849,9,over 50k,over 50k,3,"Age, education and investment",Correct
+62278,edb2deca-eb99-4fb1-87f8-a1a44fa9e503,final-test,user_prediction,2025-02-24 13:19:06.942961,10,I don't know,under 50k,3,The person is educated but has no investment. This could be because often young people have not yet considered saving and investments,Wrong
+62346,b45f290e-8c6d-40bc-a446-a0c512c8be8a,final-test,user_prediction,2025-02-24 13:34:05.900216,1,over 50k,over 50k,4,investment outcome,Correct
+62352,b45f290e-8c6d-40bc-a446-a0c512c8be8a,final-test,user_prediction,2025-02-24 13:35:17.352730,2,over 50k,under 50k,2,not sure,Wrong
+62355,b45f290e-8c6d-40bc-a446-a0c512c8be8a,final-test,user_prediction,2025-02-24 13:35:39.565281,3,over 50k,under 50k,3,age,Wrong
+62357,b45f290e-8c6d-40bc-a446-a0c512c8be8a,final-test,user_prediction,2025-02-24 13:36:23.065784,4,under 50k,under 50k,3,education,Correct
+62360,b45f290e-8c6d-40bc-a446-a0c512c8be8a,final-test,user_prediction,2025-02-24 13:36:46.775484,5,over 50k,over 50k,4,age,Correct
+62363,b45f290e-8c6d-40bc-a446-a0c512c8be8a,final-test,user_prediction,2025-02-24 13:37:22.788592,6,over 50k,over 50k,4,investment,Correct
+62366,b45f290e-8c6d-40bc-a446-a0c512c8be8a,final-test,user_prediction,2025-02-24 13:37:47.021833,7,over 50k,over 50k,4,occupation,Correct
+62368,b45f290e-8c6d-40bc-a446-a0c512c8be8a,final-test,user_prediction,2025-02-24 13:38:17.167854,8,over 50k,under 50k,3,occupation,Wrong
+62375,b45f290e-8c6d-40bc-a446-a0c512c8be8a,final-test,user_prediction,2025-02-24 13:38:59.341471,9,over 50k,over 50k,4,education,Correct
+62378,b45f290e-8c6d-40bc-a446-a0c512c8be8a,final-test,user_prediction,2025-02-24 13:39:35.258796,10,over 50k,under 50k,2,education,Wrong
+62709,e6b4c703-d69a-4f21-9b23-2f2c093685de,final-test,user_prediction,2025-02-24 15:10:15.698082,5,over 50k,over 50k,3,"The person has a post-graduate education, a white-collar job, and is married, all of which are strong indicators of higher income. Although their work-life balance is poor and they experienced a major financial loss, these factors are less influential than their occupation and education level.",Correct
+62701,e6b4c703-d69a-4f21-9b23-2f2c093685de,final-test,user_prediction,2025-02-24 15:07:07.107931,1,over 50k,over 50k,3,"The model has previously given importance to Investment Outcome (Major Gain above 5k$), Weekly Working Hours (56 hours), and Education Level (Associate's Degree) as strong indicators for predicting over 50k income.",Correct
+62703,e6b4c703-d69a-4f21-9b23-2f2c093685de,final-test,user_prediction,2025-02-24 15:08:04.858921,2,under 50k,under 50k,3,"The model tends to predict under 50k for individuals with a blue-collar occupation, young age (20 years), and no investment outcome. Despite having a Bachelor’s degree, the combination of these factors likely outweighs the positive impact of education.",Correct
+62705,e6b4c703-d69a-4f21-9b23-2f2c093685de,final-test,user_prediction,2025-02-24 15:09:03.934548,3,under 50k,under 50k,2,"The prediction is likely under 50k because the occupation as Blue-Collar and a major investment loss negatively impact income potential. While post-graduate education and 50 weekly working hours are positive factors, they may not be enough to offset the drawbacks. Additionally, being single does not provide the marital status boost seen in higher-income predictions.",Correct
+62707,e6b4c703-d69a-4f21-9b23-2f2c093685de,final-test,user_prediction,2025-02-24 15:09:39.188485,4,under 50k,under 50k,3,"The prediction is under 50k because the individual has a middle school education, which is a strong indicator of lower income. Although they are married, which generally supports higher income, their occupation in the service sector and working 40 hours per week do not strongly favor an income over 50k. The minor loss in investment also does not significantly impact income prediction.",Correct
+62711,e6b4c703-d69a-4f21-9b23-2f2c093685de,final-test,user_prediction,2025-02-24 15:10:47.784984,6,over 50k,over 50k,3," The model likely predicts over 50k due to the person's marital status (married), occupation (military), and investment outcome (minor gain), which are strong positive indicators. Although the education level is not high, military jobs often provide stable income, and the combination of these factors supports a higher income prediction.",Correct
+62713,e6b4c703-d69a-4f21-9b23-2f2c093685de,final-test,user_prediction,2025-02-24 15:11:12.210371,7,over 50k,over 50k,3,"The model is likely to predict over 50k due to the person’s post-graduate education, professional occupation, and high weekly working hours (55). While the major loss in investment is a negative factor, the strong positive indicators such as education level and job type likely outweigh it, leading to a higher income prediction.",Correct
+62715,e6b4c703-d69a-4f21-9b23-2f2c093685de,final-test,user_prediction,2025-02-24 15:11:40.662026,8,under 50k,under 50k,3," Despite having a bachelor's degree and working 56 hours per week, the person's blue-collar occupation and lack of investment gains are strong indicators of an income under 50k. While the high working hours could contribute positively, blue-collar jobs generally have lower salary ranges compared to white-collar or professional roles, making it likely that the model will predict an income below 50k.",Correct
+62717,e6b4c703-d69a-4f21-9b23-2f2c093685de,final-test,user_prediction,2025-02-24 15:12:03.439081,9,over 50k,over 50k,2,"The most influential factor here is the major investment gain (above 5k$), which strongly supports an income over 50k. While the person has an associate's degree and works in sales with 40 weekly hours, the significant investment outcome likely pushes the prediction towards over 50k, as the model heavily weighs financial gains in its decision-making process.",Correct
+62719,e6b4c703-d69a-4f21-9b23-2f2c093685de,final-test,user_prediction,2025-02-24 15:12:29.853254,10,under 50k,under 50k,2,"Despite having a post-graduate education, the person is only 23 years old, which suggests they are early in their career. Their occupation in the service industry, combined with 40 weekly working hours and no investment outcome, makes it less likely that their income exceeds 50k. The model likely weighs experience and job type heavily, leading to a prediction of under 50k.",Correct
+62541,40079868-32ce-46f1-860c-c9cab52022ec,final-test,user_prediction,2025-02-24 14:22:41.705210,9,over 50k,over 50k,1,"investment income, age, education, occupation",Correct
+62543,40079868-32ce-46f1-860c-c9cab52022ec,final-test,user_prediction,2025-02-24 14:23:14.767658,10,under 50k,under 50k,3,"single, age, occupation, lack of invesment",Correct
+62517,40079868-32ce-46f1-860c-c9cab52022ec,final-test,user_prediction,2025-02-24 14:17:03.775128,1,over 50k,over 50k,3,"high working hours, investment gains, education level",Correct
+62521,40079868-32ce-46f1-860c-c9cab52022ec,final-test,user_prediction,2025-02-24 14:17:31.927070,2,under 50k,under 50k,2,"age, occupation and working hours ",Correct
+62527,40079868-32ce-46f1-860c-c9cab52022ec,final-test,user_prediction,2025-02-24 14:18:08.966152,3,under 50k,under 50k,1,"age, occupation and martial status",Correct
+62531,40079868-32ce-46f1-860c-c9cab52022ec,final-test,user_prediction,2025-02-24 14:18:58.292962,4,over 50k,under 50k,3,"martial status, work hours, investment and occupation suggest over",Wrong
+62533,40079868-32ce-46f1-860c-c9cab52022ec,final-test,user_prediction,2025-02-24 14:19:39.585223,5,over 50k,over 50k,3,"white collar job, some investments, marital status ",Correct
+62535,40079868-32ce-46f1-860c-c9cab52022ec,final-test,user_prediction,2025-02-24 14:20:42.683051,6,over 50k,over 50k,3,"military and married, also has investment income and age",Correct
+62537,40079868-32ce-46f1-860c-c9cab52022ec,final-test,user_prediction,2025-02-24 14:21:23.961123,7,over 50k,over 50k,4,"work hours, occupation, marital staus",Correct
+62539,40079868-32ce-46f1-860c-c9cab52022ec,final-test,user_prediction,2025-02-24 14:21:59.472979,8,over 50k,under 50k,2,"marital status, work hours, degree",Wrong
+62865,74433750-1f94-45ff-a50c-7a41bfbb702b,final-test,user_prediction,2025-02-24 15:35:32.022284,6,over 50k,over 50k,2,Military tend to earn good salaries. Had minor investment gain,Correct
+62867,74433750-1f94-45ff-a50c-7a41bfbb702b,final-test,user_prediction,2025-02-24 15:35:57.465368,7,over 50k,over 50k,1,"Post-grad, professional and works a lot of hours",Correct
+62869,74433750-1f94-45ff-a50c-7a41bfbb702b,final-test,user_prediction,2025-02-24 15:36:46.432032,8,over 50k,under 50k,2,"Has a degree and although is blue collar, they work a lot of hours, which could offset the fact they are blue collar",Wrong
+62875,74433750-1f94-45ff-a50c-7a41bfbb702b,final-test,user_prediction,2025-02-24 15:37:26.318367,9,under 50k,over 50k,1,"Works in sales, so not as high paid as some and only works ""normal"" amount of hours",Wrong
+62877,74433750-1f94-45ff-a50c-7a41bfbb702b,final-test,user_prediction,2025-02-24 15:37:56.661575,10,under 50k,under 50k,3,"Young, works in service and ""normal"" amount of hours and has no investments",Correct
+62843,74433750-1f94-45ff-a50c-7a41bfbb702b,final-test,user_prediction,2025-02-24 15:32:06.024115,1,over 50k,over 50k,3,"Has a degree, works a lot of hours and had a major investment gain",Correct
+62845,74433750-1f94-45ff-a50c-7a41bfbb702b,final-test,user_prediction,2025-02-24 15:32:36.696587,2,under 50k,under 50k,3,"Young, blue collar worker so is lower paid, works a ""normal"" amount of hours and has no investments",Correct
+62853,74433750-1f94-45ff-a50c-7a41bfbb702b,final-test,user_prediction,2025-02-24 15:33:39.990777,3,under 50k,under 50k,1,"Blue collar although works a lot of hours, has had a major investment loss",Correct
+62859,74433750-1f94-45ff-a50c-7a41bfbb702b,final-test,user_prediction,2025-02-24 15:34:16.652945,4,under 50k,under 50k,2,"Works a ""normal"" amount of hours, is fairly young and has had minor loss",Correct
+62863,74433750-1f94-45ff-a50c-7a41bfbb702b,final-test,user_prediction,2025-02-24 15:35:02.270930,5,over 50k,over 50k,1,"Older, so more likely to have been rewarded for expertise.  White collar, so earns more and is post-grad, although did experience major loss",Correct
+62871,e677ffa0-f31e-42b6-9941-18f4fda70789,final-test,user_prediction,2025-02-24 15:36:51.596964,1,over 50k,over 50k,2,Major gains in investments and his weekly hours,Correct
+62873,e677ffa0-f31e-42b6-9941-18f4fda70789,final-test,user_prediction,2025-02-24 15:37:25.130230,2,under 50k,under 50k,2,"Less skilled work, no investments",Correct
+62878,e677ffa0-f31e-42b6-9941-18f4fda70789,final-test,user_prediction,2025-02-24 15:38:13.063734,3,under 50k,under 50k,1,"Marital status, and major loss in investment outcome",Correct
+62880,e677ffa0-f31e-42b6-9941-18f4fda70789,final-test,user_prediction,2025-02-24 15:39:00.021098,4,under 50k,under 50k,1,"Age, and minor loss",Correct
+62882,e677ffa0-f31e-42b6-9941-18f4fda70789,final-test,user_prediction,2025-02-24 15:39:58.815128,5,over 50k,over 50k,2,"Age, his job description and working hours",Correct
+62884,e677ffa0-f31e-42b6-9941-18f4fda70789,final-test,user_prediction,2025-02-24 15:40:55.611077,6,over 50k,over 50k,1,"education, investments and marital status",Correct
+62886,e677ffa0-f31e-42b6-9941-18f4fda70789,final-test,user_prediction,2025-02-24 15:41:39.974389,7,under 50k,over 50k,1,"marital status, occupation, educational levels",Wrong
+62888,e677ffa0-f31e-42b6-9941-18f4fda70789,final-test,user_prediction,2025-02-24 15:42:19.574334,8,under 50k,under 50k,1,"Less skilled work, no investments, younger age",Correct
+62890,e677ffa0-f31e-42b6-9941-18f4fda70789,final-test,user_prediction,2025-02-24 15:43:04.761950,9,over 50k,over 50k,1,"investment outcomes, good job, enough working hours",Correct
+62892,e677ffa0-f31e-42b6-9941-18f4fda70789,final-test,user_prediction,2025-02-24 15:43:56.794236,10,under 50k,under 50k,1,"Younger age, no investments.",Correct
+63008,09fc0fcc-d98e-49be-8314-376a6d024ad5,final-test,user_prediction,2025-02-24 16:17:48.617047,1,over 50k,over 50k,4,"the hours of work, and they gain above $5k",Correct
+63013,09fc0fcc-d98e-49be-8314-376a6d024ad5,final-test,user_prediction,2025-02-24 16:18:42.732331,2,under 50k,under 50k,4,blue collar and they're just 20,Correct
+63020,09fc0fcc-d98e-49be-8314-376a6d024ad5,final-test,user_prediction,2025-02-24 16:20:29.791673,3,over 50k,under 50k,3,"not to sure, but im certain",Wrong
+63023,09fc0fcc-d98e-49be-8314-376a6d024ad5,final-test,user_prediction,2025-02-24 16:21:22.910334,4,over 50k,under 50k,2,his investment loss is just minor,Wrong
+63029,09fc0fcc-d98e-49be-8314-376a6d024ad5,final-test,user_prediction,2025-02-24 16:21:56.848783,5,under 50k,over 50k,0,not too sure,Wrong
+63032,09fc0fcc-d98e-49be-8314-376a6d024ad5,final-test,user_prediction,2025-02-24 16:22:44.738168,6,over 50k,over 50k,3,military personnel earns fairly above $50k,Correct
+63034,09fc0fcc-d98e-49be-8314-376a6d024ad5,final-test,user_prediction,2025-02-24 16:23:31.773756,7,over 50k,over 50k,3,weekly working hours is fair,Correct
+63041,09fc0fcc-d98e-49be-8314-376a6d024ad5,final-test,user_prediction,2025-02-24 16:25:15.496749,8,over 50k,under 50k,4,definitely certain they earn that,Wrong
+63048,09fc0fcc-d98e-49be-8314-376a6d024ad5,final-test,user_prediction,2025-02-24 16:26:10.657813,9,over 50k,over 50k,4,their investment gain is above $5k,Correct
+63050,09fc0fcc-d98e-49be-8314-376a6d024ad5,final-test,user_prediction,2025-02-24 16:26:38.706800,10,under 50k,under 50k,2,theyre still young,Correct
+63054,8d03a668-9509-4e2f-85ba-e4eaf2f41f26,final-test,user_prediction,2025-02-24 16:31:02.771840,1,over 50k,over 50k,4,"First influential is investment outcome, education, marital status, occupation and weekly working hours all factor into > 50k",Correct
+63056,8d03a668-9509-4e2f-85ba-e4eaf2f41f26,final-test,user_prediction,2025-02-24 16:32:03.529990,2,under 50k,under 50k,3,"Age, occupation, working hours, no investment ",Correct
+63058,8d03a668-9509-4e2f-85ba-e4eaf2f41f26,final-test,user_prediction,2025-02-24 16:33:17.877167,3,over 50k,under 50k,2,"investment outcome (can afford to lose the investment), also education level and weekly working hours",Wrong
+63060,8d03a668-9509-4e2f-85ba-e4eaf2f41f26,final-test,user_prediction,2025-02-24 16:34:25.576606,4,under 50k,under 50k,2,"I think age, education level, working hours",Correct
+63062,8d03a668-9509-4e2f-85ba-e4eaf2f41f26,final-test,user_prediction,2025-02-24 16:35:28.948993,5,over 50k,over 50k,2,"investment outcome (can afford to lose), occupation, education level and age ",Correct
+63064,8d03a668-9509-4e2f-85ba-e4eaf2f41f26,final-test,user_prediction,2025-02-24 16:36:21.916838,6,under 50k,over 50k,2,"age, education, marital status, occupation, weekly working hours",Wrong
+63066,8d03a668-9509-4e2f-85ba-e4eaf2f41f26,final-test,user_prediction,2025-02-24 16:37:26.210853,7,over 50k,over 50k,1,"education level, occupation, weekly working hours, investment",Correct
+63068,8d03a668-9509-4e2f-85ba-e4eaf2f41f26,final-test,user_prediction,2025-02-24 16:37:54.100889,8,under 50k,under 50k,2,"investment, marital status, occupation",Correct
+63070,8d03a668-9509-4e2f-85ba-e4eaf2f41f26,final-test,user_prediction,2025-02-24 16:38:25.447566,9,over 50k,over 50k,4,"investment, education, marital status, occupation",Correct
+63072,8d03a668-9509-4e2f-85ba-e4eaf2f41f26,final-test,user_prediction,2025-02-24 16:39:07.527898,10,under 50k,under 50k,3,"investment, age, occupation, working hours",Correct
+63243,b6524d63-3648-488a-bfc3-8ff941d8a6e7,final-test,user_prediction,2025-02-24 17:17:11.286366,1,over 50k,over 50k,2,High level of education and investment outcomes,Correct
+63255,b6524d63-3648-488a-bfc3-8ff941d8a6e7,final-test,user_prediction,2025-02-24 17:19:01.359449,2,under 50k,under 50k,2,Blue-color occupation and single in marital status,Correct
+63257,b6524d63-3648-488a-bfc3-8ff941d8a6e7,final-test,user_prediction,2025-02-24 17:20:12.412534,3,under 50k,under 50k,2,"Is single, works at a blue color job and poor investment outcomes",Correct
+63261,b6524d63-3648-488a-bfc3-8ff941d8a6e7,final-test,user_prediction,2025-02-24 17:21:31.774405,4,over 50k,under 50k,2,"is married, works at services and is 34 years old",Wrong
+63265,b6524d63-3648-488a-bfc3-8ff941d8a6e7,final-test,user_prediction,2025-02-24 17:22:46.530652,5,over 50k,over 50k,1,"Is married, and works a white collar job",Correct
+63267,b6524d63-3648-488a-bfc3-8ff941d8a6e7,final-test,user_prediction,2025-02-24 17:24:13.871620,6,over 50k,over 50k,2,"36 years old, married, and works at military",Correct
+63269,b6524d63-3648-488a-bfc3-8ff941d8a6e7,final-test,user_prediction,2025-02-24 17:25:01.300495,7,over 50k,over 50k,1,Works as a professional. and is married,Correct
+63271,b6524d63-3648-488a-bfc3-8ff941d8a6e7,final-test,user_prediction,2025-02-24 17:25:47.525118,8,under 50k,under 50k,1,Has no investments and works a blue collar job,Correct
+63273,b6524d63-3648-488a-bfc3-8ff941d8a6e7,final-test,user_prediction,2025-02-24 17:26:21.511227,9,over 50k,over 50k,2,Works in sales and have good investment outcome,Correct
+63275,b6524d63-3648-488a-bfc3-8ff941d8a6e7,final-test,user_prediction,2025-02-24 17:27:09.088977,10,under 50k,under 50k,3,"Is 23 years old, single, and no investment",Correct
+63422,cc274ede-7ac8-409c-a975-5bca142060fa,final-test,user_prediction,2025-02-24 18:07:49.375322,3,over 50k,under 50k,4,It is fairly for him to earn such amount ,Wrong
+63424,cc274ede-7ac8-409c-a975-5bca142060fa,final-test,user_prediction,2025-02-24 18:11:35.190606,4,under 50k,under 50k,1,"I not that confident for my decision but he can earn such amount because, even his minor loss is 1k$",Correct
+63426,cc274ede-7ac8-409c-a975-5bca142060fa,final-test,user_prediction,2025-02-24 18:12:56.799237,5,over 50k,over 50k,4,The occupant earns such ,Correct
+63418,cc274ede-7ac8-409c-a975-5bca142060fa,final-test,user_prediction,2025-02-24 18:05:48.975100,1,over 50k,over 50k,3,"The individual works 56 hours weekly and has an Associated degree which means he has high status, ",Correct
+63420,cc274ede-7ac8-409c-a975-5bca142060fa,final-test,user_prediction,2025-02-24 18:06:23.637692,2,under 50k,under 50k,4,He is too young to be earning such ,Correct
+63428,cc274ede-7ac8-409c-a975-5bca142060fa,final-test,user_prediction,2025-02-24 18:13:56.348285,6,over 50k,over 50k,4,The occupant can earn such because he is married and even he's minor gain is 5k$,Correct
+63440,cc274ede-7ac8-409c-a975-5bca142060fa,final-test,user_prediction,2025-02-24 18:15:11.176328,7,over 50k,over 50k,4,This occupant can earn such because he is married and works 55 hour per week which can earn him a lot of allowances or bonuses,Correct
+63454,cc274ede-7ac8-409c-a975-5bca142060fa,final-test,user_prediction,2025-02-24 18:18:24.906972,8,over 50k,under 50k,3,"I made this decision because the occupant works 56 hours per week and the occupant is married even though he has no investment, the occupant can earn a lot from the industry he through the occupants occupation",Wrong
+63456,cc274ede-7ac8-409c-a975-5bca142060fa,final-test,user_prediction,2025-02-24 18:19:07.947573,9,over 50k,over 50k,4,I made this decision because this occupant's major gain is about 5k$,Correct
+63458,cc274ede-7ac8-409c-a975-5bca142060fa,final-test,user_prediction,2025-02-24 18:20:18.191771,10,under 50k,under 50k,3,I made this decision because this occupant is not married and has no investment and even too younger to earn such,Correct
+63627,7700577b-a278-40af-944d-053c97606bc6,final-test,user_prediction,2025-02-24 18:58:52.980337,4,under 50k,under 50k,2,"Type of work,low education ",Correct
+63620,7700577b-a278-40af-944d-053c97606bc6,final-test,user_prediction,2025-02-24 18:56:56.202652,1,over 50k,over 50k,2,Many hours of work per week.,Correct
+63623,7700577b-a278-40af-944d-053c97606bc6,final-test,user_prediction,2025-02-24 18:57:52.652300,2,over 50k,under 50k,2,High education and full time employment ,Wrong
+63625,7700577b-a278-40af-944d-053c97606bc6,final-test,user_prediction,2025-02-24 18:58:16.878023,3,over 50k,under 50k,2,"Long hours, high education ",Wrong
+63630,7700577b-a278-40af-944d-053c97606bc6,final-test,user_prediction,2025-02-24 18:59:37.203317,5,over 50k,over 50k,3,High education and job type,Correct
+63632,7700577b-a278-40af-944d-053c97606bc6,final-test,user_prediction,2025-02-24 19:00:15.437907,6,under 50k,over 50k,1,Military doesn’t pay much ,Wrong
+63634,7700577b-a278-40af-944d-053c97606bc6,final-test,user_prediction,2025-02-24 19:00:34.047760,7,over 50k,over 50k,2,Long hours and job type,Correct
+63638,7700577b-a278-40af-944d-053c97606bc6,final-test,user_prediction,2025-02-24 19:01:06.585559,8,over 50k,under 50k,2,Higher education and long hours ,Wrong
+63640,7700577b-a278-40af-944d-053c97606bc6,final-test,user_prediction,2025-02-24 19:01:23.790292,9,under 50k,over 50k,2,Job type and degree ,Wrong
+63642,7700577b-a278-40af-944d-053c97606bc6,final-test,user_prediction,2025-02-24 19:01:43.042333,10,under 50k,under 50k,2,Age and job type,Correct
+63799,e3d50b9f-6c4b-4b8e-bc52-e8084c3d6182,final-test,user_prediction,2025-02-24 20:24:03.230136,1,over 50k,over 50k,4,Major gain indicates over $50k,Correct
+63801,e3d50b9f-6c4b-4b8e-bc52-e8084c3d6182,final-test,user_prediction,2025-02-24 20:24:34.058675,2,under 50k,under 50k,3,"No investment, age, job, and marital status indicate under $50k",Correct
+63803,e3d50b9f-6c4b-4b8e-bc52-e8084c3d6182,final-test,user_prediction,2025-02-24 20:24:52.340030,3,under 50k,under 50k,4,Major loss and marital status indicate under $50k,Correct
+63805,e3d50b9f-6c4b-4b8e-bc52-e8084c3d6182,final-test,user_prediction,2025-02-24 20:25:18.899626,4,under 50k,under 50k,4,"Age, occupation, and investment outcome indicate under $50k",Correct
+63807,e3d50b9f-6c4b-4b8e-bc52-e8084c3d6182,final-test,user_prediction,2025-02-24 20:26:06.625366,5,over 50k,over 50k,1,"Age and marital status indicate over $50k, but investment outcome indicates under $50k",Correct
+63809,e3d50b9f-6c4b-4b8e-bc52-e8084c3d6182,final-test,user_prediction,2025-02-24 20:26:27.614253,6,over 50k,over 50k,3,Marital status and investment outcome indicate over $50k,Correct
+63811,e3d50b9f-6c4b-4b8e-bc52-e8084c3d6182,final-test,user_prediction,2025-02-24 20:26:42.640638,7,under 50k,over 50k,4,Major loss indicates under $50k,Wrong
+63813,e3d50b9f-6c4b-4b8e-bc52-e8084c3d6182,final-test,user_prediction,2025-02-24 20:26:58.706932,8,over 50k,under 50k,4,Age and marital status indicate over $50k,Wrong
+63815,e3d50b9f-6c4b-4b8e-bc52-e8084c3d6182,final-test,user_prediction,2025-02-24 20:27:14.288897,9,over 50k,over 50k,4,Investment outcome indicates over $50k,Correct
+63817,e3d50b9f-6c4b-4b8e-bc52-e8084c3d6182,final-test,user_prediction,2025-02-24 20:28:41.533038,10,under 50k,under 50k,4,Unmarried and with a service job indicate under $50k,Correct
+63898,bb7600c4-a348-4440-8996-4b00992fcc8d,final-test,user_prediction,2025-02-24 20:48:38.976325,1,over 50k,over 50k,3,Because the model seems to rank major investment gains as the primary attribute for determining whether someone earns over 50k. ,Correct
+63900,bb7600c4-a348-4440-8996-4b00992fcc8d,final-test,user_prediction,2025-02-24 20:49:15.408238,2,under 50k,under 50k,2,"The person is only 20, works a blue-collar job and has no investments. While they have a degree it seems like they may be too young and single in the model's view to earn over 50k",Correct
+63902,bb7600c4-a348-4440-8996-4b00992fcc8d,final-test,user_prediction,2025-02-24 20:49:52.900034,3,under 50k,under 50k,1,The model seems to think blue-collar workers with investment losses won't earn over 50k but i'm not certain since they have a post graduate qualification and are quite old,Correct
+63912,bb7600c4-a348-4440-8996-4b00992fcc8d,final-test,user_prediction,2025-02-24 20:50:59.012373,4,over 50k,under 50k,0,"No idea about this one - they have an investment loss but they are married which (weirdly to me) the model seems to think is an important attribute for earning over 50k, even when someone only has a poor education level",Wrong
+63914,bb7600c4-a348-4440-8996-4b00992fcc8d,final-test,user_prediction,2025-02-24 20:51:30.644238,5,under 50k,over 50k,1,"The model seems to think major investment losses are the most important attribute, so that's why I went under ",Wrong
+63917,bb7600c4-a348-4440-8996-4b00992fcc8d,final-test,user_prediction,2025-02-24 20:52:06.502294,6,over 50k,over 50k,3,"Good job, married, well qualified, mid 30s, investment gains - all these are attributes the model ranks highly for earning $50k+",Correct
+63922,bb7600c4-a348-4440-8996-4b00992fcc8d,final-test,user_prediction,2025-02-24 20:52:42.329613,7,over 50k,over 50k,0,"This person has all the attributes to earn over 50k, except the investment loss, so i'm very unsure about this one",Correct
+63926,bb7600c4-a348-4440-8996-4b00992fcc8d,final-test,user_prediction,2025-02-24 20:53:08.670142,8,over 50k,under 50k,0,Guessing on this - think it could go either way,Wrong
+63930,bb7600c4-a348-4440-8996-4b00992fcc8d,final-test,user_prediction,2025-02-24 20:53:32.559775,9,over 50k,over 50k,4,"Definitely has over 50k earnings - strong investment performance, decent occupation and education level",Correct
+63932,bb7600c4-a348-4440-8996-4b00992fcc8d,final-test,user_prediction,2025-02-24 20:53:56.243333,10,under 50k,under 50k,0,"Not sure, gone with under because they're young and single",Correct
+64152,e0b643ee-faae-485d-b349-4b9533cde89b,final-test,user_prediction,2025-02-24 22:11:27.890607,1,over 50k,over 50k,3,"The model places the most importance in major gains when making a prediction. In addition, Associate's and 40+ working hours are factors that indicate a high likelihood of high income.",Correct
+64154,e0b643ee-faae-485d-b349-4b9533cde89b,final-test,user_prediction,2025-02-24 22:13:30.915014,2,under 50k,under 50k,3,"Overall, all attributes are pointing at an overall low income results.  The model prefers ages of 40+ and white collared jobs for blue collared.",Correct
+64156,e0b643ee-faae-485d-b349-4b9533cde89b,final-test,user_prediction,2025-02-24 22:15:34.942234,3,under 50k,under 50k,2,"The AI likely considers investments as a major factor in decisions.  Thus, I feel that a major loss will have the opposite effect to a major gain, which means that it'll greatly effect the prediction in a negative way.  The other low-income values further pushes to the low-income category.",Correct
+64158,e0b643ee-faae-485d-b349-4b9533cde89b,final-test,user_prediction,2025-02-24 22:18:12.975154,4,under 50k,under 50k,2,"Of the three factors that influences the model to a fair degree: Education and occupation are listed, and the person has low-income values.  I feel that the investment loss tips the prediction to under bracket.",Correct
+64160,e0b643ee-faae-485d-b349-4b9533cde89b,final-test,user_prediction,2025-02-24 22:20:22.552139,5,over 50k,over 50k,3,"Overall, the individual has mostly high-income values with the most notable negative value being the investment loss.  I feel that all the other attributes being within the preferred value range of the model will offset the investment outcome and keep the individual within the over category.",Correct
+64162,e0b643ee-faae-485d-b349-4b9533cde89b,final-test,user_prediction,2025-02-24 22:22:50.470668,6,under 50k,over 50k,1,"The education and occupation is considered by the model has low income values.  Furthermore, the model only considers major gains as high income, thus the individual is likely in the below category.",Wrong
+64164,e0b643ee-faae-485d-b349-4b9533cde89b,final-test,user_prediction,2025-02-24 22:24:34.140254,7,over 50k,over 50k,3,"I feel that with the education level and occupation being within the preferred category of the model will offset the negative income value.  In addition, Working hours and marital should assist in placing the individual in the above category.",Correct
+64166,e0b643ee-faae-485d-b349-4b9533cde89b,final-test,user_prediction,2025-02-24 22:28:10.421097,8,over 50k,under 50k,3,"Overall, the major factors of age and working hours are either near or within the category of high-income for the model.  The occupation is likely offset by the education and marital status.  I believe no investments is likely is a neutral value for the model.",Wrong
+64168,e0b643ee-faae-485d-b349-4b9533cde89b,final-test,user_prediction,2025-02-24 22:30:04.819150,9,over 50k,over 50k,3,"The investment outcome has a greater impact on the prediction than the other factors, since one example has it completely offseting a lot of low income values.  Education, Age, and possible work hours also assist in raising the individual to the above category.",Correct
+64170,e0b643ee-faae-485d-b349-4b9533cde89b,final-test,user_prediction,2025-02-24 22:32:17.192280,10,under 50k,under 50k,3,The young age with no investment and single likely  greatly influenced the prediction to make the individual fall in the under category. The occupation is considered low income and all the low income values likely tipped the prediction to the under category too.,Correct
+64554,06e381b4-4ed7-43b8-b923-2084441c5c04,final-test,user_prediction,2025-02-25 00:31:20.806227,9,over 50k,over 50k,1,"Investments: Major Gain ++
+education associates degree +
+work life balance: fair +",Correct
+64518,06e381b4-4ed7-43b8-b923-2084441c5c04,final-test,user_prediction,2025-02-25 00:20:21.031266,1,over 50k,over 50k,4,"investment income: Major Gain +
+hours worked weekly: 56 +
+education level: Associates degree +",Correct
+64520,06e381b4-4ed7-43b8-b923-2084441c5c04,final-test,user_prediction,2025-02-25 00:21:40.018849,2,under 50k,under 50k,4,"No investments -
+poor work life balance -
+single -
+age 20 -",Correct
+64522,06e381b4-4ed7-43b8-b923-2084441c5c04,final-test,user_prediction,2025-02-25 00:23:23.248869,3,over 50k,under 50k,2,"hours worked 50 +
+age 49 +
+post graduate education +
+occupation blue-collar +
+",Wrong
+64524,06e381b4-4ed7-43b8-b923-2084441c5c04,final-test,user_prediction,2025-02-25 00:24:42.149529,4,under 50k,under 50k,3,"investments: minor loss -
+education: middle school -
+hour worked: 40 -",Correct
+64526,06e381b4-4ed7-43b8-b923-2084441c5c04,final-test,user_prediction,2025-02-25 00:26:07.494062,5,over 50k,over 50k,3,"age: 58 +
+education: post graduate +
+married +
+white collar +",Correct
+64528,06e381b4-4ed7-43b8-b923-2084441c5c04,final-test,user_prediction,2025-02-25 00:27:36.162007,6,under 50k,over 50k,1,"occupation: military -
+hours worked: 40 -
+education: no degree -",Wrong
+64534,06e381b4-4ed7-43b8-b923-2084441c5c04,final-test,user_prediction,2025-02-25 00:28:47.334396,7,over 50k,over 50k,2,"Married +
+professional +
+hours worked: 55 +
+education: post-graduate",Correct
+64548,06e381b4-4ed7-43b8-b923-2084441c5c04,final-test,user_prediction,2025-02-25 00:30:01.618331,8,over 50k,under 50k,3,"hours worked: 56 +
+Married +
+education: Bachelor Degree +
+Blue-collar +",Wrong
+64556,06e381b4-4ed7-43b8-b923-2084441c5c04,final-test,user_prediction,2025-02-25 00:32:36.175995,10,under 50k,under 50k,4,"Age: 23 -
+single -
+occupation: service -
+hours worked: 40 -
+investments: no -",Correct
+64950,3bf2652a-6bb7-488f-8d70-4bb020581b20,final-test,user_prediction,2025-02-25 01:58:21.850797,1,over 50k,over 50k,3,"High education, investment gain",Correct
+64952,3bf2652a-6bb7-488f-8d70-4bb020581b20,final-test,user_prediction,2025-02-25 01:58:41.265551,2,under 50k,under 50k,4,"Single, young, no investment",Correct
+64954,3bf2652a-6bb7-488f-8d70-4bb020581b20,final-test,user_prediction,2025-02-25 01:59:09.845381,3,under 50k,under 50k,2,"Single, investment loss, ",Correct
+64957,3bf2652a-6bb7-488f-8d70-4bb020581b20,final-test,user_prediction,2025-02-25 01:59:30.459619,4,over 50k,under 50k,1,Married,Wrong
+64962,3bf2652a-6bb7-488f-8d70-4bb020581b20,final-test,user_prediction,2025-02-25 01:59:44.082938,5,over 50k,over 50k,2,"Older, married, post grad",Correct
+64965,3bf2652a-6bb7-488f-8d70-4bb020581b20,final-test,user_prediction,2025-02-25 01:59:59.110681,6,over 50k,over 50k,2,"Married, military, college",Correct
+64967,3bf2652a-6bb7-488f-8d70-4bb020581b20,final-test,user_prediction,2025-02-25 02:00:21.333261,7,over 50k,over 50k,2,"Married, professional, post grad",Correct
+64970,3bf2652a-6bb7-488f-8d70-4bb020581b20,final-test,user_prediction,2025-02-25 02:00:50.260596,8,over 50k,under 50k,1,"Married, degree, ",Wrong
+64972,3bf2652a-6bb7-488f-8d70-4bb020581b20,final-test,user_prediction,2025-02-25 02:01:10.277955,9,over 50k,over 50k,1,"Investment gain, degree, ",Correct
+64976,3bf2652a-6bb7-488f-8d70-4bb020581b20,final-test,user_prediction,2025-02-25 02:01:33.146209,10,under 50k,under 50k,2,"Young, single, no investment",Correct
+64990,5f9c036d-c9d4-4099-8bc2-5dd8d2acad0d,final-test,user_prediction,2025-02-25 02:06:55.686997,1,over 50k,over 50k,3,The model will likely predict over 50k due to factors such as Major Gain investment and a high amount of average weekly working hours,Correct
+64992,5f9c036d-c9d4-4099-8bc2-5dd8d2acad0d,final-test,user_prediction,2025-02-25 02:08:43.967069,2,under 50k,under 50k,1,Lack of investment with a poor work life balance could equal a lower income despite education level and occupation ,Correct
+64994,5f9c036d-c9d4-4099-8bc2-5dd8d2acad0d,final-test,user_prediction,2025-02-25 02:09:46.152835,3,under 50k,under 50k,2,I think the model will likely predict under 50k because of the Major investment loss.,Correct
+64996,5f9c036d-c9d4-4099-8bc2-5dd8d2acad0d,final-test,user_prediction,2025-02-25 02:11:12.793216,4,under 50k,under 50k,1,"The model will likely predict under because of the loss in Investment outcome, average working hours and lack of education ",Correct
+64998,5f9c036d-c9d4-4099-8bc2-5dd8d2acad0d,final-test,user_prediction,2025-02-25 02:13:17.653156,5,over 50k,over 50k,1,"Despite the Major loss in the investment side of things, the white collar occupation with this persons education level could still mean a prediction above 50k",Correct
+65000,5f9c036d-c9d4-4099-8bc2-5dd8d2acad0d,final-test,user_prediction,2025-02-25 02:15:02.162976,6,under 50k,over 50k,2,I believe the model will predict under 50k because the Military occupation and College without Degree education are significant factors in lower income status.,Wrong
+65002,5f9c036d-c9d4-4099-8bc2-5dd8d2acad0d,final-test,user_prediction,2025-02-25 02:16:41.301290,7,over 50k,over 50k,1,"I believe this will be a prediction of over 50k based on the longer hours, combined with education and professional education status, despite the investment outcome being a concern. ",Correct
+65004,5f9c036d-c9d4-4099-8bc2-5dd8d2acad0d,final-test,user_prediction,2025-02-25 02:19:09.245868,8,under 50k,under 50k,2,"I predict this will be under 50k despite the longer hours,  because of critical factors such as no investment, and a lower blue collar occupation, ",Correct
+65006,5f9c036d-c9d4-4099-8bc2-5dd8d2acad0d,final-test,user_prediction,2025-02-25 02:19:54.981799,9,over 50k,over 50k,3,I predict the model will side with over 50k because of the strong investment outcome this person displays. ,Correct
+65008,5f9c036d-c9d4-4099-8bc2-5dd8d2acad0d,final-test,user_prediction,2025-02-25 02:21:49.793149,10,under 50k,under 50k,2,"I predict under 50k because of the lack of investment profile, the standard 40 work hours and having a service job all play key roles in this prediction. ",Correct

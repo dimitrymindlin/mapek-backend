@@ -1,0 +1,12 @@
+user_id,filter_completed_users,filter_by_dataset_and_condition,filter_by_invalid_scores,filter_by_time,filter_by_missing_ml_kowledge,filter_by_negative_times,filter_by_fatal_understanding_error,remove_outliers_by_attention_check,filter_users_that_didnt_ask_questions_from_df
+participant_0011,1,1,0,0,0,0,0,0,1
+participant_0043,0,1,0,0,0,1,0,0,1
+participant_0094,1,1,0,0,0,0,0,0,1
+participant_0067,1,0,0,0,0,0,0,0,1
+participant_0029,1,0,0,0,0,0,0,0,0
+participant_0035,1,0,0,0,0,0,0,0,0
+participant_0037,1,0,0,0,0,0,0,0,0
+participant_0068,1,0,0,0,0,0,0,0,0
+participant_0078,0,1,0,0,0,0,0,0,0
+participant_0117,0,0,1,0,0,0,0,0,0
+TOTAL: 10 unique users,7,4,1,0,0,1,0,0,4

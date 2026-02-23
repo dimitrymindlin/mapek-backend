@@ -1,0 +1,12 @@
+prefix,comparison,test_statistic,p,chat_median,interactive_median,significance,higher_group,effect_size
+AL,chat vs interactive,6571.5,0.104,2.0,1.5,Not significant,chat,0.127
+coco,chat vs interactive,8209.5,0.0,1.5,0.6,Significant,chat,0.408
+AI,chat vs interactive,6695.0,0.057,1.5,1.5,Not significant,interactive,0.148
+scaf,chat vs interactive,7324.0,0.001,1.6666666666666667,1.0,Significant,chat,0.256
+UT,chat vs interactive,7166.0,0.004,1.6666666666666667,1.0,Significant,chat,0.229
+UAL,chat vs interactive,6996.5,0.008,2.0,2.0,Significant,interactive,0.2
+AC,chat vs interactive,6120.5,0.51,2.0,2.0,Not significant,interactive,0.049
+moni,chat vs interactive,8011.0,0.0,1.3333333333333333,0.3333333333333333,Significant,chat,0.374
+AS,chat vs interactive,8032.5,0.0,1.0,-1.0,Significant,chat,0.377
+UAA,chat vs interactive,6714.5,0.05,2.0,1.0,Significant,chat,0.151
+AU,chat vs interactive,6769.5,0.032,2.0,2.0,Significant,interactive,0.161

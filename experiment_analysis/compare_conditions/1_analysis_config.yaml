@@ -1,0 +1,67 @@
+data_sources:
+  # Base directories for each condition – CSV files are read from the 3_filtered subfolder
+  condition_a_dir: experiment_analysis/results/data_adult_mapek_chat_01_2025
+  condition_b_dir: experiment_analysis/results/data_adult_mapek_interactive_01_2025
+output:
+  results_dir: experiment_analysis/compare_conditions/results/chat_vs_interactive
+  format:
+    - json
+    - markdown
+  timestamp: false
+column_names:
+  final_score_column: final_irt_score_mean
+  learning_score_column: learning_irt_score_mean
+  subjective_understanding_column: subjective_understanding
+  user_id_column: user_id
+statistical_tests:
+  direction: "less"  # Greater tests if condition_b > condition_a, less tests if condition_a > condition_b
+  # Options: "greater", "less", "two-sided"
+experiment_settings:
+  teaching_cycles: 10
+  final_test_cycles: 10
+  comparison_mode: true
+  condition_a: chat
+  condition_b: interactive
+  dataset: adult
+  filtered_subdir: 3_filtered
+  results_base: experiment_analysis/results
+  single_condition: chat
+analyses:
+  dialogue_analysis:
+    enabled: true
+    output_dir: analysis_plots
+  explanation_analysis:
+    enabled: true
+    output_dir: analysis_plots
+  first_last_comparison:
+    enabled: true
+    output_dir: analysis_plots
+  llm_intent_recognition:
+    enabled: false
+    input_file: llm_intent_recog_annotated.csv
+    output_dir: CSV ready to analyse
+  questionnaire_analysis:
+    enabled: true
+    output_dir: analysis_plots
+    questionnaire_type: exit
+  understanding_questions:
+    enabled: true
+    output_dir: analysis_plots
+  top_users_analysis:
+    enabled: true
+    output_dir: data
+  correlation_analysis:
+    enabled: true
+    output_dir: analysis_plots
+  likert_scale_analysis:
+    enabled: true
+    output_dir: analysis_plots
+  descriptive_statistics:
+    enabled: true
+    output_dir: data
+  irt_score_comparison:
+    enabled: true
+    output_dir: analysis_plots
+logging:
+  file: experiment_analysis/compare_conditions/analysis_pipeline.log
+  level: INFO

@@ -1,0 +1,10 @@
+filter_name,excluded_count,status
+filter_completed_users,7,SUCCESS
+filter_by_dataset_and_condition,4,SUCCESS
+filter_by_invalid_scores,1,SUCCESS
+filter_by_time,0,SUCCESS
+filter_by_missing_ml_kowledge,0,SUCCESS
+filter_by_negative_times,1,SUCCESS
+filter_by_fatal_understanding_error,0,ERROR-MissingColumn
+remove_outliers_by_attention_check,0,ERROR-MissingColumn
+filter_users_that_didnt_ask_questions_from_df,4,SUCCESS

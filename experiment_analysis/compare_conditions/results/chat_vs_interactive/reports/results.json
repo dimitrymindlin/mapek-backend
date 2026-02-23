@@ -1,0 +1,902 @@
+{
+  "metadata": {
+    "timestamp": "2025-09-22T01:27:36.673631",
+    "data_directories_used": [
+      "/Users/dimitrymindlin/UniProjects/mapek-backend/experiment_analysis/results/data_adult_mapek_chat_01_2025",
+      "/Users/dimitrymindlin/UniProjects/mapek-backend/experiment_analysis/results/data_adult_mapek_interactive_01_2025"
+    ],
+    "conditions_loaded": [
+      "chat",
+      "interactive"
+    ],
+    "dataframes_per_condition": {
+      "chat": [
+        "user_completed",
+        "users",
+        "questions",
+        "filter_summary",
+        "events",
+        "filter_detail_summary",
+        "predictions"
+      ],
+      "interactive": [
+        "user_completed",
+        "users",
+        "questions",
+        "filter_summary",
+        "events",
+        "filter_detail_summary",
+        "predictions"
+      ]
+    },
+    "total_rows_per_condition": {
+      "chat": {
+        "user_completed": 108,
+        "users": 108,
+        "questions": 1074,
+        "filter_summary": 9,
+        "events": 9937,
+        "filter_detail_summary": 31,
+        "predictions": 3164
+      },
+      "interactive": {
+        "user_completed": 108,
+        "users": 108,
+        "questions": 2523,
+        "filter_summary": 9,
+        "events": 11268,
+        "filter_detail_summary": 11,
+        "predictions": 3251
+      }
+    }
+  },
+  "correlation_analysis": {
+    "chat": "completed",
+    "interactive": "completed"
+  },
+  "likert_scale_analysis": {
+    "The chatbot acts intentionally": {
+      "question": "The chatbot acts intentionally",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 1.0,
+      "iqr1": [
+        1.0,
+        2.0
+      ],
+      "mean1": 1.2685185185185186,
+      "sd1": 1.3576125380211315,
+      "median2": 1.0,
+      "iqr2": [
+        0.0,
+        2.0
+      ],
+      "mean2": 0.9907407407407407,
+      "sd2": 1.3360240244242239,
+      "mann_whitney_u": 6612.0,
+      "z": 1.7529736063391756,
+      "p_value": 0.07960653766631667,
+      "effect_size_r": 0.1192747463360402,
+      "cliffs_delta": 0.1337448559670782,
+      "A12": 0.5668724279835391,
+      "higher_group": "chat",
+      "direction": "chat \u2248 interactive (same median, chat higher mean)",
+      "significant": "False"
+    },
+    "The chatbot considered my understanding.": {
+      "question": "The chatbot considered my understanding.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 2.0,
+      "iqr1": [
+        1.0,
+        2.0
+      ],
+      "mean1": 1.4074074074074074,
+      "sd1": 1.3398077490560347,
+      "median2": 0.5,
+      "iqr2": [
+        0.0,
+        1.25
+      ],
+      "mean2": 0.4722222222222222,
+      "sd2": 1.4626715624802697,
+      "mann_whitney_u": 8045.0,
+      "z": 4.925192720856461,
+      "p_value": 8.427725048522284e-07,
+      "effect_size_r": 0.33511691808245203,
+      "cliffs_delta": 0.37945816186556924,
+      "A12": 0.6897290809327846,
+      "higher_group": "chat",
+      "direction": "chat > interactive",
+      "significant": "True"
+    },
+    "While explaining, the chatbot met me halfway.": {
+      "question": "While explaining, the chatbot met me halfway.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 1.0,
+      "iqr1": [
+        0.0,
+        2.0
+      ],
+      "mean1": 0.9351851851851852,
+      "sd1": 1.5484278922018173,
+      "median2": 1.0,
+      "iqr2": [
+        0.0,
+        2.0
+      ],
+      "mean2": 0.75,
+      "sd2": 1.22379064851872,
+      "mann_whitney_u": 6552.0,
+      "z": 1.6095416262376931,
+      "p_value": 0.10749796058719722,
+      "effect_size_r": 0.1095154362236607,
+      "cliffs_delta": 0.1234567901234569,
+      "A12": 0.5617283950617284,
+      "higher_group": "chat",
+      "direction": "chat \u2248 interactive (same median, chat higher mean)",
+      "significant": "False"
+    },
+    "The explanation was meant to encourage me to question my understanding.": {
+      "question": "The explanation was meant to encourage me to question my understanding.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 2.0,
+      "iqr1": [
+        1.0,
+        3.0
+      ],
+      "mean1": 1.6944444444444444,
+      "sd1": 1.2858564427171715,
+      "median2": 1.0,
+      "iqr2": [
+        0.75,
+        2.0
+      ],
+      "mean2": 1.212962962962963,
+      "sd2": 1.2000850898642574,
+      "mann_whitney_u": 7313.5,
+      "z": 3.3331962649848097,
+      "p_value": 0.0008585435582634465,
+      "effect_size_r": 0.2267952794934303,
+      "cliffs_delta": 0.2540294924554183,
+      "A12": 0.6270147462277091,
+      "higher_group": "chat",
+      "direction": "chat > interactive",
+      "significant": "True"
+    },
+    "The chatbots appears confused.": {
+      "question": "The chatbots appears confused.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": -2.0,
+      "iqr1": [
+        -3.0,
+        -1.0
+      ],
+      "mean1": -1.8796296296296295,
+      "sd1": 1.323529638000329,
+      "median2": -2.0,
+      "iqr2": [
+        -3.0,
+        -1.0
+      ],
+      "mean2": -1.8240740740740742,
+      "sd2": 1.266599714030935,
+      "mann_whitney_u": 5543.5,
+      "z": -0.658783585870791,
+      "p_value": 0.5100347491113086,
+      "effect_size_r": 0.044824545452900655,
+      "cliffs_delta": -0.04946844993141286,
+      "A12": 0.47526577503429357,
+      "higher_group": "interactive",
+      "direction": "chat \u2248 interactive (same median, interactive higher mean)",
+      "significant": "False"
+    },
+    "When finishing to read this sentence, select Strongly Disagree to prove that you pay attention.": {
+      "question": "When finishing to read this sentence, select Strongly Disagree to prove that you pay attention.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": -3.0,
+      "iqr1": [
+        -3.0,
+        -3.0
+      ],
+      "mean1": -2.935185185185185,
+      "sd1": 0.47896204263296577,
+      "median2": -3.0,
+      "iqr2": [
+        -3.0,
+        -3.0
+      ],
+      "mean2": -2.759259259259259,
+      "sd2": 1.0310177384585917,
+      "mann_whitney_u": 5613.5,
+      "z": -1.4508117868751356,
+      "p_value": 0.1468322766166713,
+      "effect_size_r": 0.09871523862943274,
+      "cliffs_delta": -0.03746570644718794,
+      "A12": 0.48126714677640603,
+      "higher_group": "interactive",
+      "direction": "chat \u2248 interactive (same median, interactive higher mean)",
+      "significant": "False"
+    },
+    "While explaining, it was important for the chatbot to continuously consider whether I understood the explanation.": {
+      "question": "While explaining, it was important for the chatbot to continuously consider whether I understood the explanation.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 1.0,
+      "iqr1": [
+        1.0,
+        2.0
+      ],
+      "mean1": 1.1481481481481481,
+      "sd1": 1.3590459463863103,
+      "median2": 1.0,
+      "iqr2": [
+        0.0,
+        2.0
+      ],
+      "mean2": 0.7314814814814815,
+      "sd2": 1.2425966291727297,
+      "mann_whitney_u": 6960.5,
+      "z": 2.534703464740897,
+      "p_value": 0.011254254921155497,
+      "effect_size_r": 0.17246472605221694,
+      "cliffs_delta": 0.19350137174211257,
+      "A12": 0.5967506858710563,
+      "higher_group": "chat",
+      "direction": "chat \u2248 interactive (same median, chat higher mean)",
+      "significant": "True"
+    },
+    "I like the chatbot.": {
+      "question": "I like the chatbot.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 2.0,
+      "iqr1": [
+        1.0,
+        3.0
+      ],
+      "mean1": 1.4351851851851851,
+      "sd1": 1.4291566570648144,
+      "median2": 1.0,
+      "iqr2": [
+        0.0,
+        2.0
+      ],
+      "mean2": 1.3425925925925926,
+      "sd2": 1.261671025423512,
+      "mann_whitney_u": 6238.5,
+      "z": 0.9080824242707092,
+      "p_value": 0.36383467559763827,
+      "effect_size_r": 0.06178718288479956,
+      "cliffs_delta": 0.06970164609053509,
+      "A12": 0.5348508230452675,
+      "higher_group": "chat",
+      "direction": "chat > interactive",
+      "significant": "False"
+    },
+    "The chatbot encouraged me to visualize the different processes of the topic.": {
+      "question": "The chatbot encouraged me to visualize the different processes of the topic.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 1.0,
+      "iqr1": [
+        0.75,
+        2.0
+      ],
+      "mean1": 1.1574074074074074,
+      "sd1": 1.4479249544052608,
+      "median2": 1.0,
+      "iqr2": [
+        -0.25,
+        2.0
+      ],
+      "mean2": 0.5925925925925926,
+      "sd2": 1.4078354634974453,
+      "mann_whitney_u": 7186.0,
+      "z": 3.024300425876802,
+      "p_value": 0.0024920883285942065,
+      "effect_size_r": 0.20577757978555622,
+      "cliffs_delta": 0.2321673525377228,
+      "A12": 0.6160836762688614,
+      "higher_group": "chat",
+      "direction": "chat \u2248 interactive (same median, chat higher mean)",
+      "significant": "True"
+    },
+    "I can see myself using the chatbot in the future.": {
+      "question": "I can see myself using the chatbot in the future.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 2.0,
+      "iqr1": [
+        0.75,
+        3.0
+      ],
+      "mean1": 1.287037037037037,
+      "sd1": 1.772325817211315,
+      "median2": 1.0,
+      "iqr2": [
+        0.0,
+        2.0
+      ],
+      "mean2": 1.0092592592592593,
+      "sd2": 1.494509392636868,
+      "mann_whitney_u": 6714.5,
+      "z": 1.9639061203371047,
+      "p_value": 0.0495409799673848,
+      "effect_size_r": 0.1336268860431901,
+      "cliffs_delta": 0.15132030178326472,
+      "A12": 0.5756601508916324,
+      "higher_group": "chat",
+      "direction": "chat > interactive",
+      "significant": "True"
+    },
+    "The chatbot acts truthfully.": {
+      "question": "The chatbot acts truthfully.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 2.0,
+      "iqr1": [
+        1.0,
+        2.0
+      ],
+      "mean1": 1.5277777777777777,
+      "sd1": 1.2263335928681416,
+      "median2": 1.0,
+      "iqr2": [
+        0.0,
+        2.0
+      ],
+      "mean2": 1.1203703703703705,
+      "sd2": 1.1083168394840772,
+      "mann_whitney_u": 7137.5,
+      "z": 2.940957970382042,
+      "p_value": 0.003271989265194549,
+      "effect_size_r": 0.2001068439557568,
+      "cliffs_delta": 0.22385116598079557,
+      "A12": 0.6119255829903978,
+      "higher_group": "chat",
+      "direction": "chat > interactive",
+      "significant": "True"
+    },
+    "I can rely on the chatbot.": {
+      "question": "I can rely on the chatbot.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 2.0,
+      "iqr1": [
+        1.0,
+        2.0
+      ],
+      "mean1": 1.25,
+      "sd1": 1.4984415580207786,
+      "median2": 1.0,
+      "iqr2": [
+        0.0,
+        2.0
+      ],
+      "mean2": 1.0092592592592593,
+      "sd2": 1.13972754877097,
+      "mann_whitney_u": 6835.5,
+      "z": 2.2585455361994384,
+      "p_value": 0.023911668974158966,
+      "effect_size_r": 0.1536745590147016,
+      "cliffs_delta": 0.17206790123456783,
+      "A12": 0.5860339506172839,
+      "higher_group": "chat",
+      "direction": "chat > interactive",
+      "significant": "True"
+    },
+    "The chatbot intended to provide me with the opportunity to build an understanding of the topic by asking questions.": {
+      "question": "The chatbot intended to provide me with the opportunity to build an understanding of the topic by asking questions.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 2.0,
+      "iqr1": [
+        1.0,
+        3.0
+      ],
+      "mean1": 1.8518518518518519,
+      "sd1": 1.1091363552253257,
+      "median2": 2.0,
+      "iqr2": [
+        1.0,
+        3.0
+      ],
+      "mean2": 1.7314814814814814,
+      "sd2": 1.0376688600923039,
+      "mann_whitney_u": 6326.0,
+      "z": 1.122718698700442,
+      "p_value": 0.2615569839419435,
+      "effect_size_r": 0.07639133156937807,
+      "cliffs_delta": 0.08470507544581629,
+      "A12": 0.5423525377229081,
+      "higher_group": "chat",
+      "direction": "chat \u2248 interactive (same median, chat higher mean)",
+      "significant": "False"
+    },
+    "The chatbot interacts socially with me.": {
+      "question": "The chatbot interacts socially with me.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 1.0,
+      "iqr1": [
+        -1.0,
+        2.0
+      ],
+      "mean1": 0.48148148148148145,
+      "sd1": 1.8059169699788522,
+      "median2": -1.0,
+      "iqr2": [
+        -2.0,
+        1.0
+      ],
+      "mean2": -0.75,
+      "sd2": 1.730026200439059,
+      "mann_whitney_u": 8032.5,
+      "z": 4.847965891649135,
+      "p_value": 1.2473383988744964e-06,
+      "effect_size_r": 0.32986229791547944,
+      "cliffs_delta": 0.3773148148148149,
+      "A12": 0.6886574074074074,
+      "higher_group": "chat",
+      "direction": "chat > interactive",
+      "significant": "True"
+    },
+    "The chatbot took my statements into account.": {
+      "question": "The chatbot took my statements into account.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 2.0,
+      "iqr1": [
+        1.0,
+        2.0
+      ],
+      "mean1": 1.6203703703703705,
+      "sd1": 1.1578064386564162,
+      "median2": 1.0,
+      "iqr2": [
+        0.0,
+        2.0
+      ],
+      "mean2": 0.6296296296296297,
+      "sd2": 1.34367742424374,
+      "mann_whitney_u": 8298.5,
+      "z": 5.525052245779078,
+      "p_value": 3.2938757797913004e-08,
+      "effect_size_r": 0.3759321890104726,
+      "cliffs_delta": 0.42292524005486976,
+      "A12": 0.7114626200274349,
+      "higher_group": "chat",
+      "direction": "chat > interactive",
+      "significant": "True"
+    },
+    "The chatbot responded when I signaled non-understanding.": {
+      "question": "The chatbot responded when I signaled non-understanding.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 1.0,
+      "iqr1": [
+        0.0,
+        2.0
+      ],
+      "mean1": 1.037037037037037,
+      "sd1": 1.5463307545133271,
+      "median2": 0.0,
+      "iqr2": [
+        -0.25,
+        1.0
+      ],
+      "mean2": 0.10185185185185185,
+      "sd2": 1.2525847281567388,
+      "mann_whitney_u": 8145.5,
+      "z": 5.156995721311566,
+      "p_value": 2.509435350042059e-07,
+      "effect_size_r": 0.35088911452581717,
+      "cliffs_delta": 0.3966906721536352,
+      "A12": 0.6983453360768176,
+      "higher_group": "chat",
+      "direction": "chat > interactive",
+      "significant": "True"
+    },
+    "The chatbot encouraged me to continuously think about further details of the topic.": {
+      "question": "The chatbot encouraged me to continuously think about further details of the topic.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 2.0,
+      "iqr1": [
+        1.0,
+        3.0
+      ],
+      "mean1": 1.6851851851851851,
+      "sd1": 1.212459831866862,
+      "median2": 1.0,
+      "iqr2": [
+        1.0,
+        2.0
+      ],
+      "mean2": 1.2777777777777777,
+      "sd2": 1.2138864235261813,
+      "mann_whitney_u": 7022.0,
+      "z": 2.686824478978148,
+      "p_value": 0.0072134847166645975,
+      "effect_size_r": 0.18281525005321472,
+      "cliffs_delta": 0.2040466392318243,
+      "A12": 0.6020233196159122,
+      "higher_group": "chat",
+      "direction": "chat > interactive",
+      "significant": "True"
+    },
+    "The chatbot always gives good advice.": {
+      "question": "The chatbot always gives good advice.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 2.0,
+      "iqr1": [
+        1.0,
+        2.25
+      ],
+      "mean1": 1.4259259259259258,
+      "sd1": 1.3821539718636222,
+      "median2": 1.0,
+      "iqr2": [
+        0.0,
+        2.0
+      ],
+      "mean2": 1.0,
+      "sd2": 1.1840055569457875,
+      "mann_whitney_u": 7103.5,
+      "z": 2.837995333679312,
+      "p_value": 0.004539784632041224,
+      "effect_size_r": 0.19310112388649994,
+      "cliffs_delta": 0.21802126200274352,
+      "A12": 0.6090106310013718,
+      "higher_group": "chat",
+      "direction": "chat > interactive",
+      "significant": "True"
+    },
+    "When learning about a new topic, it's better to think about details yourself, rather than having everything fully explained.": {
+      "question": "When learning about a new topic, it's better to think about details yourself, rather than having everything fully explained.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 1.0,
+      "iqr1": [
+        0.0,
+        2.0
+      ],
+      "mean1": 0.9074074074074074,
+      "sd1": 1.417758115991101,
+      "median2": 1.0,
+      "iqr2": [
+        0.0,
+        2.0
+      ],
+      "mean2": 0.8055555555555556,
+      "sd2": 1.4039885329385895,
+      "mann_whitney_u": 6072.5,
+      "z": 0.5400501223526093,
+      "p_value": 0.5891624667202833,
+      "effect_size_r": 0.036745756535875466,
+      "cliffs_delta": 0.04123799725651578,
+      "A12": 0.5206189986282579,
+      "higher_group": "chat",
+      "direction": "chat \u2248 interactive (same median, chat higher mean)",
+      "significant": "False"
+    },
+    "The chatbot carefully adapted its utterances to my responses.": {
+      "question": "The chatbot carefully adapted its utterances to my responses.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 1.0,
+      "iqr1": [
+        0.75,
+        2.0
+      ],
+      "mean1": 1.2314814814814814,
+      "sd1": 1.3644791651678758,
+      "median2": 1.0,
+      "iqr2": [
+        0.0,
+        1.0
+      ],
+      "mean2": 0.5092592592592593,
+      "sd2": 1.3219595365473957,
+      "mann_whitney_u": 7634.5,
+      "z": 4.022164791183417,
+      "p_value": 5.766568862291082e-05,
+      "effect_size_r": 0.27367364999409505,
+      "cliffs_delta": 0.309070644718793,
+      "A12": 0.6545353223593965,
+      "higher_group": "chat",
+      "direction": "chat \u2248 interactive (same median, chat higher mean)",
+      "significant": "True"
+    },
+    "The chatbot can collaborate in a productive way.": {
+      "question": "The chatbot can collaborate in a productive way.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 2.0,
+      "iqr1": [
+        1.0,
+        3.0
+      ],
+      "mean1": 1.7407407407407407,
+      "sd1": 1.2025702254378854,
+      "median2": 2.0,
+      "iqr2": [
+        1.0,
+        2.0
+      ],
+      "mean2": 1.4074074074074074,
+      "sd2": 1.0768336852731761,
+      "mann_whitney_u": 6996.5,
+      "z": 2.648100851202903,
+      "p_value": 0.00809453735208933,
+      "effect_size_r": 0.1801804409132476,
+      "cliffs_delta": 0.19967421124828522,
+      "A12": 0.5998371056241426,
+      "higher_group": "chat",
+      "direction": "chat \u2248 interactive (same median, chat higher mean)",
+      "significant": "True"
+    },
+    "The chatbot is cooperative.": {
+      "question": "The chatbot is cooperative.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 2.0,
+      "iqr1": [
+        1.75,
+        3.0
+      ],
+      "mean1": 1.9259259259259258,
+      "sd1": 1.0203875359066839,
+      "median2": 2.0,
+      "iqr2": [
+        1.0,
+        2.0
+      ],
+      "mean2": 1.6296296296296295,
+      "sd2": 1.0465126117684944,
+      "mann_whitney_u": 6845.5,
+      "z": 2.3352163051331933,
+      "p_value": 0.019532123777073283,
+      "effect_size_r": 0.15889134407232747,
+      "cliffs_delta": 0.17378257887517146,
+      "A12": 0.5868912894375857,
+      "higher_group": "chat",
+      "direction": "chat \u2248 interactive (same median, chat higher mean)",
+      "significant": "True"
+    },
+    "The chatbot is easy to use.": {
+      "question": "The chatbot is easy to use.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 2.0,
+      "iqr1": [
+        1.0,
+        3.0
+      ],
+      "mean1": 2.0277777777777777,
+      "sd1": 1.1954613025341714,
+      "median2": 2.0,
+      "iqr2": [
+        1.0,
+        3.0
+      ],
+      "mean2": 1.8240740740740742,
+      "sd2": 1.0030672930874336,
+      "mann_whitney_u": 6769.5,
+      "z": 2.1448652224145874,
+      "p_value": 0.03196362455395244,
+      "effect_size_r": 0.14593959338769144,
+      "cliffs_delta": 0.16075102880658432,
+      "A12": 0.5803755144032922,
+      "higher_group": "chat",
+      "direction": "chat \u2248 interactive (same median, chat higher mean)",
+      "significant": "True"
+    },
+    "The chatbot has no clue of what it is doing.": {
+      "question": "The chatbot has no clue of what it is doing.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": -2.0,
+      "iqr1": [
+        -3.0,
+        -1.0
+      ],
+      "mean1": -1.8518518518518519,
+      "sd1": 1.3452221774929853,
+      "median2": -2.0,
+      "iqr2": [
+        -3.0,
+        -1.0
+      ],
+      "mean2": -1.6574074074074074,
+      "sd2": 1.3266642662929593,
+      "mann_whitney_u": 5212.0,
+      "z": -1.4085744525923998,
+      "p_value": 0.158961037461668,
+      "effect_size_r": 0.09584135204365314,
+      "cliffs_delta": -0.1063100137174211,
+      "A12": 0.44684499314128945,
+      "higher_group": "interactive",
+      "direction": "chat \u2248 interactive (same median, interactive higher mean)",
+      "significant": "False"
+    },
+    "While explaining, it was important for the chatbot to monitor whether I understood everything.": {
+      "question": "While explaining, it was important for the chatbot to monitor whether I understood everything.",
+      "group1": "chat",
+      "group2": "interactive",
+      "n1": 108,
+      "n2": 108,
+      "median1": 1.0,
+      "iqr1": [
+        1.0,
+        2.0
+      ],
+      "mean1": 1.1111111111111112,
+      "sd1": 1.5244630329859792,
+      "median2": 0.0,
+      "iqr2": [
+        -1.0,
+        1.0
+      ],
+      "mean2": 0.28703703703703703,
+      "sd2": 1.387870862625813,
+      "mann_whitney_u": 7838.0,
+      "z": 4.4700148641966955,
+      "p_value": 7.821416132674463e-06,
+      "effect_size_r": 0.3041459877760596,
+      "cliffs_delta": 0.34396433470507537,
+      "A12": 0.6719821673525377,
+      "higher_group": "chat",
+      "direction": "chat > interactive",
+      "significant": "True"
+    }
+  },
+  "exit_questionnaire_analysis": {
+    "total_comparisons": 11,
+    "significant_results": 8
+  },
+  "question_analysis": {
+    "chat": {
+      "total_questions": 1074,
+      "unique_exact_questions": 618,
+      "unique_users_asking": 108,
+      "avg_questions_per_user": 9.944444444444445,
+      "question_diversity_ratio": 0.575,
+      "question_type": "free_form",
+      "total_autosuggested": 367,
+      "total_user_generated": 707,
+      "autosuggestion_rate": 0.342
+    },
+    "interactive": {
+      "total_questions": 2523,
+      "unique_question_types": 12,
+      "unique_users_asking": 108,
+      "avg_questions_per_user": 23.36111111111111,
+      "question_type": "structured",
+      "total_autosuggested": 0,
+      "total_user_generated": 0,
+      "autosuggestion_rate": 0.0,
+      "performance_analysis": {
+        "best_performers": {
+          "count": 17,
+          "avg_score": 0.737800217682208,
+          "avg_questions": 27.914270805917504
+        },
+        "worst_performers": {
+          "count": 17,
+          "avg_score": -0.8240379160705625,
+          "avg_questions": 25.47007973098826
+        }
+      }
+    }
+  },
+  "feedback_analysis": {
+    "chat": "completed",
+    "interactive": "completed"
+  },
+  "descriptive_statistics": {
+    "chat": {
+      "total_users": 108,
+      "condition_name": "chat",
+      "final_irt_score_mean_mean": -0.033286967259698076,
+      "final_irt_score_mean_std": 0.5551474033372253,
+      "final_irt_score_mean_median": 0.09565983397886155,
+      "final_irt_score_mean_count": 108
+    },
+    "interactive": {
+      "total_users": 108,
+      "condition_name": "interactive",
+      "final_irt_score_mean_mean": -0.0055679653197121745,
+      "final_irt_score_mean_std": 0.5077047368247845,
+      "final_irt_score_mean_median": 0.10571757495868944,
+      "final_irt_score_mean_count": 108
+    }
+  },
+  "irt_score_comparison": {
+    "intro_irt_score_mean": {
+      "test_type": "welch_t",
+      "conditions_compared": [
+        "chat",
+        "interactive"
+      ],
+      "p_value": 0.324410991395656,
+      "normal1": "True",
+      "normal2": "True"
+    },
+    "learning_irt_score_mean": {
+      "test_type": "mann_whitney",
+      "conditions_compared": [
+        "chat",
+        "interactive"
+      ],
+      "p_value": 0.6304893559791938,
+      "normal1": "False",
+      "normal2": "False"
+    },
+    "final_irt_score_mean": {
+      "test_type": "mann_whitney",
+      "conditions_compared": [
+        "chat",
+        "interactive"
+      ],
+      "p_value": 0.33160347112777055,
+      "normal1": "False",
+      "normal2": "True"
+    }
+  }
+}

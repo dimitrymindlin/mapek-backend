@@ -1,0 +1,14 @@
+# Production .dockerignore for pushing to registry
+.cache/
+.experiment_analysis/
+.mape-k-logs
+cache/
+experiment_analysis/
+*.log
+.git/
+.gitignore
+CITATION.cff
+LICENSE
+docs/
+.env
+env.example

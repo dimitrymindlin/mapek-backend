@@ -1,0 +1,3 @@
+,total_questions,unique_exact_questions,unique_users_asking,avg_questions_per_user,question_diversity_ratio,question_type,total_autosuggested,total_user_generated,autosuggestion_rate,unique_question_types
+chat,1074,618,108,9.944444444444445,0.575,free_form,367,707,0.342,
+interactive,2523,,108,23.36111111111111,,structured,0,0,0.0,12

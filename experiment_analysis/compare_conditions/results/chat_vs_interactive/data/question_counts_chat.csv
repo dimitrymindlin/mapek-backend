@@ -1,0 +1,603 @@
+question,from_autosuggestion,count
+"49 years of ages in an hoffice job 50hours a week, i'd imagine they have worked their way up and education no longer matters they have gained senior experience",False,1
+?what would change it to over 50k,False,1
+"a person working 56 hours per week could be interpreted by the model as having a potential to earn more, as they might be working in high-demand or overtime situations.",False,1
+"admin pays pretty well, especially for longer hours",False,1
+age and marital status were my main deciding factors. was this accurate?,False,1
+ah so single is worse than married,False,1
+"am i right to assume that generally working less hours, 40 in this case, leads to less earnings potential?",False,1
+and this person's age would have allowed then to earn over 50k,False,1
+and what was the most important factor you considered?,False,1
+are you going to say something back,False,1
+are you soeaking hypothetically or are you saying those 2 attributes are essential for under 50k for this model?,False,1
+as occupation being an admin a big factor?,False,1
+at what education level does that attirbute flip from suggestinh under or above in thsi model?,False,1
+attribute	value age ?	34 years education level ?	middle school marital status ?	married occupation ?	blue-collar weekly working hours ?	40 hours work life balance ?	good investment outcome ?	5k,False,1
+attribute	value age ?	58 years education level ?	middle school marital status ?	married occupation ?	white-collar weekly working hours ?	40 hours work life balance ?	poor investment outcome ?	no investment,False,1
+bad model,False,1
+bad study,False,1
+because he invets i guess,False,1
+because of investments/,False,1
+because of the investment,False,1
+because they are young and early on in their career,False,1
+because they work 56 hours a week and admin usually pays quite fairly?,False,1
+blue collar can mean a wide range of low paying positions,False,1
+brief me,False,1
+but hes married and in service,False,1
+but the model says it predicted under 50k? explain?,False,1
+but what about the occupation of admin and education level of middle school?,False,1
+but what are examples of 'professional' jobs?,False,1
+but why was this under 50k?,False,1
+"can you break down difference between, white collar, blue collar and military status?",False,1
+can you explain,False,1
+can you explain how marital status and age are connected within the decision making?,False,1
+can you give me an example of a scenario where work life balance is directly linked to productivity or income?,False,1
+can you give me the weighted spectrum of occupations?,False,1
+can you give the full ranking of attributes,False,1
+can you list these from top influence on higher earning potential to lowest influence on higher earning potential?,False,1
+can you outline why this person is thought to earn more then 50k and what were the most significant factors,False,1
+can you please break down the answer?,False,1
+can you rank the attributes by importance in the order you rank them for making your preduction?,False,1
+can you verify that working a service job and having no investment income is generally not associated with earning over 50k?,False,1
+can you verify your reasoning?,False,1
+concisely list which attributes most made you predict under 50k,False,1
+could the major gain be considered a one off that might not have been due to their work though?,False,1
+could you explain your choice?,False,1
+"could you provide the numerical percentages for each attribute's contribution?  specifically, i'd like to know:  how much did the ""professional"" occupation contribute to the ""over 50k"" prediction? how much did the ""high school graduate"" education level contribute to the ""over 50k"" prediction? how much did the ""married"" marital status contribute to the ""over 50k"" prediction? how much did the ""no investment"" outcome contribute, and was it a positive or negative influence? how much did the 55 weekly working hours contribute? how much did the age of 34 contribute?",False,1
+did education level make a imapct on your decision any?,False,1
+did i get it right,False,1
+did job type matter,False,1
+did the major gain change your decision that much,False,1
+did the model consider the high weekly working hours (56 hours) as a major reason for predicting over $50k?,False,1
+did the model weigh age (20 years) more than education level (primary education) when making this decision?,False,1
+did you base this on the investment outcome,False,1
+do blue collars earn less,False,1
+do we caculate the percentage each attribute contributes to determine the prediction,False,1
+do working hours impact on the decision,False,1
+do you feel poor work life balance is a valid factor?,False,1
+do you think this person makes over or under 50k and why? please explain your reasoning,False,1
+does age play a factor,False,1
+does blue collar impact the decision?,False,1
+does education affect the model?,False,1
+does education leverl contribute to your guess?,False,1
+does it align?,False,1
+does lack of further education have a big influence on the prediction?,False,1
+does lack of investment suggest a lower wage,False,1
+does marital status affect your prediction of income?,False,1
+does married impact decision?,False,1
+does no onvestment or a loss have a stronger wieght tioward under 50k?,False,1
+does the combination of this person only being 23 and working a blue collar job weigh heavily into this prediction?,False,1
+does the hours worked influence your decision?,False,1
+"does the model categorize service jobs as generally low-paying roles, or does it take into account the specific industry or position within that category?",False,1
+"does the model heavily weight investment success when predicting income, even if the other attributes suggest a lower-paying occupation or education level?",False,1
+"does the model see blue-collar jobs as consistently lower-paying roles, even if other factors like working hours and experience are considered?",False,1
+does the work life balance ever come into play for thismodel?,False,1
+does their middle school education not make it more likely that they earn less?,False,1
+does this person only having a middle school education level not hurt their earnings potential?,False,1
+does work experience play a role in salary predictions?,False,1
+does work life balance have a big influence?,False,1
+does work life balance influence the model?,False,1
+does work-life balance (good) influence salary predictions at all?,False,1
+does working 56 hours per week have a strong impact on the prediction?,False,1
+does working hours with investment as a combination become critical in predicting ?,False,1
+doues working 50 hrs a week matter?,False,1
+education level i guess,False,1
+"education, occupation and martial status were my deciding factors. was this right?",False,1
+explain further,False,1
+explain more based on model predictions how does marital status and age predicts of oncome if above or below 50k?,False,1
+explain this prediction to me,True,5
+explain why i am wrong,False,1
+explain your answer to me,False,1
+explain your reasoning for prediction,False,1
+for me the poor life balance and no investment indicated to me they would be below 50k.,False,1
+"given that investment outcomes are by their nature influenced by so many other external factors, economic climate and even luck, surely this could lead to rogue outcomes?",False,1
+given this person's age and schooling i was sure they would only earn a figure below 50k,False,1
+hat is blue collar?,False,1
+he has a good work life balance. i am guessing his wife also works but on a minimum salary,False,1
+he has no investment so why is he over 50k,False,1
+hello,False,1
+"help me verify, did you look at investment outcome, age and level of education?",False,1
+hi,False,1
+how can you say that age 49 leans toward under 50k and then say ages of 40-50 years leans over 50k?,False,1
+how did this person predicted to earn over 50k?,False,1
+how did you arrive at this conclusion?,False,1
+how did you come to this conclusion?,False,1
+how did you make decesion,False,1
+how do the various age values compare throughout the dataset?,True,6
+how do weekly working hours influence the prediction?,False,1
+how do you rate their work life balance,False,1
+how does age influence the model?,False,1
+how does education level affect salary predictions in general? why did middle school education not lower the prediction?,False,1
+how does education level impact the model’s decision?,False,1
+how does investment influence the model?,False,1
+how does marital status affect your prediction?,False,1
+how does marital status and work l8fe balance affect tue prediction?,False,1
+how does occupation factor into the model's decision?,False,1
+how does the investment outcome factor in your prediction?,False,1
+how does work life balance affect a prediction f income,False,1
+how does work life balance factor in?,False,1
+how does working hours influence the model?,False,1
+how important is a minor gain from investments factored into predictions?,False,1
+how important is marital status?,False,1
+how important was the occupation in your guess?,False,1
+how investment influence ai prediction here?,False,1
+how much did investment influence the prediction?,False,1
+"how much did the ""admin"" occupation contribute to the model's prediction, and was it a positive or negative contribution?",False,1
+"how much did the ""blue-collar"" occupation contribute to the ""under 50k"" prediction?",False,1
+"how much did the ""middle school"" education level contribute to the ""under 50k"" prediction? what was the most influential attribute in this prediction, and what percentage did it contribute? how much did the ""blue-collar"" occupation contribute to the ""under 50k"" prediction? how much did the ""no investment"" outcome contribute to the ""under 50k"" prediction? how much did the age of 49 contribute to the prediction, and was it a positive or negative influence?",False,1
+"how much did the ""primary education"" level contribute to the ""under 50k"" prediction? what percentage of the decision was based on this attribute? among all the attributes, which one was the most influential in predicting ""under 50k"" in this specific case? was there any attribute that had a positive influence (however small) towards predicting ""over 50k"" in this scenario? how much did the ""no investment"" attribute contribute to the prediction? how much did the ""service"" occupation attribute contribute to the prediction?",False,1
+"how much did the ""professional"" occupation contribute to the ""over 50k"" prediction? what was the most influential attribute in this prediction, and what percentage did it contribute? how much did the ""high school graduate"" education level contribute to the ""over 50k"" prediction? how much did the ""married"" marital status contribute to the ""over 50k"" prediction? how much did the ""no investment"" outcome contribute, and was it a positive or negative influence? how much did the 55 weekly working hours contribute? how much did the age of 34 contribute?",False,1
+"how much did the ""white-collar"" occupation contribute to the ""over 50k"" prediction? what was the most influential attribute in this prediction, and what percentage did it contribute? how much did the ""high school graduate"" education level contribute to the ""over 50k"" prediction? how much did the ""married"" marital status contribute to the ""over 50k"" prediction? how much did the ""minor gain (up to 5k$)"" investment outcome contribute to the ""over 50k"" prediction? how much did the age of 36 contribute?",False,1
+"how much did the ""white-collar"" occupation contribute to the ""over 50k"" prediction? what was the most influential attribute in this prediction, and what percentage did it contribute? how much did the ""middle school"" education level contribute, and was it a positive or negative influence? how much did the ""married"" marital status contribute, and was it a positive or negative influence? how much did the ""no investment"" outcome contribute, and was it a positive or negative influence? how much did the age of 58 contribute?",False,1
+how much did the model factor in the occupation (service) when predicting salary?,False,1
+how much do investment gains contribute to salary predictions?,False,1
+how much do investment gains typically influence salary predictions?,False,1
+how much do long working hours (50+) impact salary predictions in this model?,False,1
+how much do long working hours (56+) impact salary predictions in this model?,False,1
+how much do professional jobs generally influence the model’s salary predictions?,False,1
+how much does each feature influence the prediction for this person?,True,10
+how much does education level typically impact white-collar salaries in this model?,False,1
+"how much does having a middle school education impact the prediction, especially when combined with other attributes like age and occupation?",False,1
+how much does investment outcome influence the prediction?,False,1
+how much does the investment gains play a part in the prediction ?,False,1
+how much role investment outcome has on this person's results?,False,1
+how much weight did occupation (white-collar) and age (58) have in the decision?,False,1
+how much weight was given to occupation and hours here?,False,1
+how much wieght was acually given to the age and occupation?,False,1
+"how so, the person has zero investments, hes married and he's into white collar jobs.. i doubt he makes over 50k",False,1
+how strong is the effect of each factor on this person’s outcome?,False,7
+how sure is the model about its prediction for this individual?,True,5
+how would a change in work life balance affect the prediction outcome,False,1
+how would high school without graduation influence the prediction?,False,1
+i am askig why high school graduate here would suggest ovwer 50k? iwoould hasbe thought the opposite,False,1
+i am going to ask what i feel is an obvious question here but working 55 hours a week generally an indicator to points to earning more money a year?,False,1
+i am interested in how important investment income is compared to education,False,1
+i appreciate that there is no investment and work life balance is fair but the person does work 56 hours. i admit i found it difficult to predict this one,False,1
+i based my prediction on their education level,False,1
+i bet increasing the age or work hours would do it too thoguh not sure how much if an increase would be needed,False,1
+i disagree,False,2
+i disagree.  how much did weekly working hours pay into your model?,False,1
+i don't don't understand why the educaion level contributes to over 50k here,False,1
+i don't understand. what was the major factor in this decision?,False,1
+"i don;t understand, surely and investment loss can work too?",False,1
+i feel this person will earn over 50k given there hours worked and age.,False,1
+i feel with the investment outcome coupled with the age and hours worked and work life balance this tipped me over to predicting this person earns over 50k,False,1
+i figured age and education level plays a part,False,1
+i got it right,False,1
+"i got it right this time, i want to know why\",False,1
+i guess i missed that part,False,1
+i guess service is the biggest reason?,False,1
+i guess the main factors here are education and occupation as the hours worked are high,False,1
+i guessed right here,False,1
+i mean why under 50k,False,1
+i meant like what do you use or is the highest feature to determine the wage model over 50k,False,1
+i missed the no investment.,False,1
+i predicteded it was below the 50k becuase of the no investment plan and the occupatio was service,False,1
+i presumed a poor work life balance would signify a higher salary because they were more committed / worked more?,False,1
+i really struggle to see how this would predict over given the previous reasons you have given me,False,1
+i saw the middle school education but i thought that 50 hours of blue collar work might be over 50k,False,1
+"i see thanks for the clarification, i'll learn from this information.",False,1
+"i see that this person is 58 years and works a white collar job. do you think that given this person age, seniority and subsequently, seniority pay plays a role in your prediction?",False,1
+i see that this person is only 20 years old... how strongly does that factor into your prediciton?,False,1
+i think everything else in this example would indicate under 59 except i bet age?,False,1
+i think i understand how you came to your decision,False,1
+"i think i'm getting it. if i get the next one wrong, i'll ask more questions.",False,1
+i think this is one where every single attribute suggests under 50?,False,1
+i want to know why you think so,False,1
+i wanted to know where it flips in thsi model for age,False,1
+i wouldnot have thought just chaigning from middel school to bs degree would be enough,False,1
+i'd like to proceed to the next,False,1
+i'm assuming if you're working 56 hours a week you'll make more than $50k in most of the country,False,1
+"i'm assuming that the younger a person is, the less-likely it is that the person makes over 50k",False,1
+i'm good for now,False,1
+i'm thinking occupation was the main thing that brought it under 50k. is that correct?,False,1
+"if the ""marital status"" were changed to ""married,"" would the prediction change to ""over 50k""? if the ""occupation"" were changed to ""professional,"" while keeping all other attributes the same, would the prediction change to ""over 50k""? if the ""education level"" were changed to ""post-graduate education,"" while keeping all other attributes the same, would the prediction change to ""over 50k""?",False,1
+"if the investment outcome had been more than 5k gain, would the prediction have been ""more than 50k""?",False,1
+"if the person had no investment gains, would the ai have predicted under $50k?",False,1
+"if the person was over 40, what would be the support percentage for the prediction",False,1
+"if the person's investment outcome was ""no investment"" instead of ""major gain (above 5k$),"" would that have changed the prediction to ""under 50k""?",False,1
+"if their work life balance was poor, would that indicate a higher or lower income?",False,1
+"if this person had a 5k investment, would your predictions change",False,1
+if this person had a minor gain in investment outcome would this change the outcome?,False,1
+"if this person only worked 40 hours instead of 56, would that change your prediction?",False,1
+"if this person was working in sales, would the predictions change",False,1
+"if this person worked 50–60 hours per week, would the prediction change?",False,1
+"if this person worked more hours (e.g., 60 hours/week), would the prediction change?",False,1
+"if this person worked more than 40 hours, would it increase confidence in the over $50k prediction?",False,1
+"if this person worked more than 40 hours, would the prediction become even stronger?",False,1
+if this persons investment outcomes were postive how would this change your prediction?,False,1
+"if we only alter the occupation, does the prediction for this person shift?",True,5
+"if you had to order those factors into most important to least important, how would you order them?",False,1
+im glad im catching up,False,1
+"in general, how does someone's occupation relate to the model's prediction?",True,2
+in regards to occupation and marital status how did you come to the conclusion that this was over 50k?,False,1
+in this context what are all the counterfactuals and what are there values?,False,1
+in what capacity is professional a factor in your prediction?,False,1
+in what circumstance would an investment gain of over 5k still mean that the prediction would land under 50k?,False,1
+in what instance or example would work life balance become a factor?,False,1
+interesting observation about the marital status information feeding into this prediction.,False,1
+is 50 hours not enough to suggest one earns over 50k?,False,1
+is age a factor,False,1
+is blue collar a low wage,False,1
+is blue-collar or white-collar a major influence?,False,1
+is investment a critical factor?,False,1
+is investment outcome over $5k the most important factor here,False,1
+"is the deciding factor in this that the person has a ""white-collar"" job?",False,1
+is the occupation the reason why this prediction is over 50k,False,1
+is the persons spouse income being considered in this prediction as well?,False,1
+is the primary factor in this case the 'major gain' from the investment income?,False,1
+is there relationship between marital status and income?,False,1
+is this because this person is aged 58?,False,1
+is white-collar as an occupation a deciding factor?,False,1
+"it confuses me how a non-stable factor could help contribute almost 60% to a prediction of whether someone earns more than 50k at their job. the investment outcome category is not necessarily tied to their job and could come from say a relative dying or winning a lottery, correct?",False,1
+it does but are there other key anchors and what needs to occur in order for said person to achieve over 50k?,False,1
+it makes sense!,False,1
+it says that for work life balance is poor for this person; how is 'poor' defined for this metric and how much of a factor is it when making a prediction?,False,1
+it sounds like investments are the number one most important predictor,False,1
+it was really predictable,False,1
+just going off of our last discussion regarding blue collar workers etc and low education value i figured it would be under 50k,False,1
+justify your prediction with reasons,False,1
+"low age is definitely a factor for this person just starting there working life, do you agree?",False,1
+"low educatio, being young and service job are the biggest indicators?",False,1
+make a prediction,False,4
+make a presdiction,False,1
+middle school education with only 40 hours a week in the service industry? i must be underestimating the weight that the investment outcome carries,False,1
+most and least important attributes?,False,1
+"most or least important attribute, the influences of the attributes, which changes would lead to a different prediction or for the relationship of income and an attribute.",False,1
+next,False,1
+no,False,2
+"no investments, only 40 hours per week, single, and only being 20 years old contributed to my prediction.",False,1
+ok,False,6
+ok because the information i was given on the model states that the service occupation includes first responders and technical support. those occupations are not in the service industry...,False,1
+ok noted,False,1
+okay and which is the biggest factor?,False,1
+okay but what if the 5k+ gain from the person was only a hair above 5k wouldn't this greatly change the way you evaluated it?,False,1
+okay thank you for the help,False,1
+"okay, that clarifies the age factor somewhat, but it still seems a bit counterintuitive",False,1
+"okay, that's interesting. so ""admin"" had a slight positive influence, even though it's often associated with lower incomes.",False,1
+please explain,False,6
+please explain your decision,False,1
+please explain your reasoning,False,1
+please explain your reasoning of your prediction,False,1
+please list the factors in order of importance on the impact,False,1
+please list the percentages of the biggest contributions towards the decision that this person makes over 50k,False,1
+please order all the attributes in order from most influential to least influential,False,1
+please show the graph for this,False,2
+please veify why the model has come up with the answer?,False,1
+please verify the answer and tell me which factors were positive and negative in coming to the conclusion?,False,1
+please verify why this person is deemed to earn less then 50k,False,1
+reasons for your choice,False,1
+"service jobs aren’t as higher paying, especially when someone is just starting out",False,1
+show me the features importance plot,False,9
+silly. llms are silly,False,1
+"smart choice, dont you think",False,1
+"so according to the ai, most blue-collar jobs will always lead to an ""under 50k"" assessment, correct?",False,1
+"so going forward i should always treat investment outcome as if the person will for some magical reason always gain over time at least as much as they have in this snapshot, and that it correlates directly to how much they earn at their job?",False,1
+so i suppose the occupation is the main factor with this ai model?,False,1
+so the 50 hours could not make the person gain over 50k?,False,1
+so the investment carries that much weight or what?,False,1
+so we align ty,False,1
+so what is influencing the over 50k,False,1
+so which factors meant that this person would earn over 50k?,False,1
+so would changing just one of those make the prediction change or would it not be enough?,False,1
+sorry i what is influencing the under 50k,False,1
+sure,False,1
+surely its more likely they got lucky on a high risk stock / cryptocurrency given that they are only in the service industry and wont be investing large sums?,False,1
+tell me more,False,1
+tell me more about the minimal set of features that are crucial,False,1
+thanks,False,2
+thanks for the clarification. i thought the opposite. i would assume that a poor work life balance would mean spending too much time at work (increased hours) but also increased pay. does it not?,False,1
+"thanks for the insight! that makes sense. given that the model treats the ""service"" occupation as a lower-paying role overall, it likely contributes to the prediction of ""under 50k,"" even without considering variations within the industry or specific positions.",False,1
+that was my logic too,False,1
+"that's that not what i asked. you mentioned what was 2nd and third most important etc.  for this particuar prediction, but what was 1sr?!?!",False,1
+"the ""major gain (above 5k$)"" is an exceptionally strong positive indicator for the model, even stronger than the negative impact of a low education level.",False,1
+the age contributed to my answer right?,False,1
+"the investment outcome is the reason, right?",False,1
+the most important attributes,False,1
+"the most or least important attribute, the influences of the attributes, which changes would lead to a different prediction or for the relationship of income and an attribute.",False,1
+the occupation listed for this person is 'service' which is not exactly conducive to making big bucks... do you agree?,False,1
+the reason,False,1
+their education level is low and they work in administration which seems like it would be a low paying occupation though,False,1
+these are starting to contradict each other. could you list each factor in order of importance for this one?,False,1
+"they are young, with no higher education. they work in the service industry and only 40 hours a week. and from the previous model since they have no investment outcome there is little chance of them having gains over time so they most likely don't make over 50k a  year.",False,1
+"this individual is only 20 years old, works 40 hours per week and has no investment.",False,1
+"this is very helpful! it's surprising that ""marital status (single)"" was the most influential factor, contributing 38%. this highlights how the model, trained on older data, might have biases related to marital status and income.  here are a few more questions to further understand the model's reasoning:  why would ""marital status (single)"" have such a significant negative impact on the prediction? is it a common trend in the model's training data that single individuals are predicted to earn less? given that ""work life balance (poor)"" had 0% influence, does that mean it was entirely disregarded by the model in this case? how much did the age of 20 contribute to the prediction? how much did the 40 weekly working hours contribute?",False,1
+this person is already 49 years of age and has no investment income. i see these as being big factors as to why under 50k was predicted. do you see it the same way?,False,1
+this person is still relatively young (34) and works a blue collar job. does the fact that they're married factor strongly into your decision?,False,1
+"this person only working 40 hours per week and not having no investment income limits their potential to earn over 50k, right?",False,1
+"this person seems to have it all. they're 36, married, a white collar job and a fair work life balance which points at a high level of life satisfaction. can overall life happiness be gleaned from these profiles and used to predictors in income?",False,1
+"this person works 50 hours so i was sure they would be above 50k, why did you think they are below the 50k level ?",False,1
+"this person works 56 hours and is married, i thought it was reasonable to assume they make over 50k",False,1
+this was tough as there was low education level and bad work life balance and average hours worked. but the white collar swayed me,False,1
+under under 50k,False,1
+verify your reasoning?,False,2
+was being single or married important,False,1
+was occupation a major factor?,False,1
+was the age a factor in this,False,1
+was the occupation a deciding factor for you?,False,1
+was white-collar a major factor in this decision?,False,1
+was work life balance a critical factor here?,False,1
+was your guess based on age and marital status more than anything else?,False,1
+well that's certainly good to know.i would not have guessed that,False,1
+well the age must flip somewhere near that age then because i am pretty sure 34 suggested under.,False,1
+well?,False,1
+what about minor gain and high school graduate? 25 years?,False,1
+what about model prediction using occupation status?,False,1
+what about work life balance? i feel like that one might be one of the least important factors.,False,1
+what admin job pays this well,False,1
+what age makes it lean towards over 50k?,False,1
+what are diversified mutual finds,False,1
+what are some examples of blue collar jobs please,False,1
+what are the 3 most important features?,False,1
+what are the factors that make you think this person earns over 50k?,False,1
+what are the important features in this case,False,1
+what are the major attributes,False,1
+what are the most and least important attributes and their influences?,False,2
+what are the most important,False,1
+what are the most important and least important attributes?,False,1
+what are the most important attributes,False,2
+what are the most important attributes in your decision making,False,1
+what are the most important attributes?,False,1
+what are the most important features in this prediction,False,1
+what are the odds that it is over 50k?,False,1
+what are the primary factors in your decision,False,1
+what are the reasons behind your decision?,False,1
+what are ways to start a minor gain,False,1
+what attribute lead to this prediction,False,1
+what attributes lead to your answer,False,1
+what attributes led to this prediction,False,1
+what attributes would need to change to change your decision?,False,1
+what changes would alter the model outcome?,False,1
+what changes would alter the outcome?,False,1
+what changes would build to over 50k,False,1
+what changes would change the prediction,False,1
+what changes would change your prediction?,False,3
+what changes would lead to a  different prediction,False,1
+what changes would lead to different predictions,False,1
+what changes would switch your prediction to over 50k?,False,1
+"what combination of changes would be necessary to shift the prediction to ""over 50k""? for example, would changing both ""marital status"" to ""married"" and ""occupation"" to ""professional"" be enough? given that ""marital status"" is such a strong negative indicator, is it possible that the model is essentially biased against single individuals, regardless of other factors? if the person's age were changed to 50, would the model's prediction change to over 50k?",False,1
+what contributions does each attribute make to the final result of earning over 50k?,False,2
+what contributions does each attribute make to the final result of earning under 50k?,False,4
+what contributions does each attribute make to the final result?,False,3
+what could be most or least important attribute,False,1
+what did you base your prediction on?,False,1
+what do you factor most in your determinations?,False,1
+what do you think about the hours that they work does that play a contributing factor,False,1
+what do you think?,False,1
+what does an investment loss suggest if anything?,False,1
+what does work life balance do here?,False,1
+what effect education has on potential earnings?,False,1
+what effect has investment outcome has in this case?,False,1
+what else?,False,1
+what faactors does the model use in coming up with its answer?,False,1
+what factor had the biggest effect on your decision?,False,1
+what factor had the biggest influence on the ai's prediction?,False,2
+what factor influenced the prediction,False,1
+what factor played most in this decision?,False,1
+what factors cause over 50k,False,1
+what factors contributed for earning above $50k?,False,1
+what factors did you consider,False,1
+what factors have very little effect on the model’s decision?,False,16
+what factors influenced you decision making ?,False,1
+what factors matter the most in how the model makes its decision?,True,65
+what factors most influenced the prediction of under $50k,False,1
+what factors would change the prediction,False,1
+what feature changes would cause you to change your prediction to under 50k?,False,1
+what feature pushed this into over 50k?,False,1
+what features would counter the prediction,False,1
+what features would have to change to get a different prediction?,True,13
+what if minor gain?,False,1
+"what if this same person did not have a ""major gain"" in their investment outcome, would you still make the same prediction?",False,1
+what influenced your decision,False,1
+what influenced your reasoning,False,1
+what influences prediction,False,1
+what influences the attributes,False,1
+what influnced thois decision,False,1
+what is a service job?,False,1
+what is blue collar?,False,1
+what is considered a blue-collar job?,False,1
+what is least important?,False,1
+what is level of education is high level,False,1
+what is meant by blue collar?,False,1
+what is meant by white collar jobs?,False,1
+what is minor gain,False,1
+what is the least important,False,1
+what is the least important attribute in this prediction,False,1
+what is the least important attribute in this prediction? (something that had little to no impact on the outcome.),False,1
+what is the least important factor you considered for this prediction?,False,1
+what is the major factor in predicting that this person would earn over 50k,False,1
+what is the major factor influencing your decision?,False,1
+what is the most critical feature then?,False,1
+what is the most important atrribute,False,1
+what is the most important attribute,False,4
+what is the most important attribute influencing the model’s income prediction?,False,1
+what is the most important attribute?,False,1
+what is the most important factor in this example,False,1
+what is the most important factor in this prediction?,False,1
+what is the most important factor influencing this prediction?,False,2
+what is the most important factor?,False,1
+what is the prediction mainly based off?,False,1
+what is the reasoning for this decisions,False,1
+what is the reasoning for this response,False,1
+what is the second most influential factor,False,1
+what is the typical relationship between occupation and the model’s decision?,False,5
+what is the weighting of each occupation on the above 50k/under50k prediction?,False,1
+what is white collar,False,1
+what is your certainty,False,1
+what is your certainty?,False,2
+what is your prediction?,False,1
+what is your reasoning for over 50k,False,1
+what is your scale of preference in rating,False,1
+what led to you picking this answer,False,1
+what level of certainty does the model have regarding this person's prediction?,True,6
+what made you decide this?,False,1
+what made you decide you were confident in them making over 50k despite the middle school education,False,1
+what made you make this,False,1
+what made you make this prediction?,False,1
+what made you say under 50k because i got this right but felt it could have went either way and how confident are you in the prediction,False,1
+what most influenced the prediction that this person made over 50k a year?,False,1
+what occupation would influence towards over $50k,False,1
+what occupations goes over 50k,False,1
+what other jobs are included in the service occupation category?,False,1
+what other occupations are includes in services?,False,1
+what outcome makes it over 50k?,False,1
+what percentage of importance was their job in the prediction?,False,1
+what set of features matters the most for this individual’s prediction?,False,12
+what supported under 50,False,1
+what the most important factors and what are the least important factors can you make a list from the most important to the least important?,False,1
+what was the attribute chart?,False,1
+what was the contributing factors to predict this person for over 50k,False,1
+what was the deciding factor,False,1
+what was the factor that had the highest percentage contribution to the prediction for over 50k?,False,1
+what was the factor that would make it predict under 50k?,False,1
+what was the major factor in this decision?,False,1
+what was the major factor influencing this decision?,False,1
+what was the major influence?,False,1
+what was the most important attribute?,False,1
+what was the most important attricbute?,False,1
+what was the most important factor then?,False,1
+what was the most important factor when making the prediction?,False,1
+what was the most important feature influencing your prediction?,False,1
+what was the most importnt attribute for this person?,False,1
+what was the most influential factor in your decision for this example,False,1
+what was your prediction?,False,1
+what were the attibutes taht influenced this,False,1
+what were the deciding factors,False,2
+what were the key features?,False,1
+what were the main reasons for predicting under 50k?,False,1
+"what were they contributing factors that got you to say that they would make under 50,000?",False,1
+what would professional occupation mean in this sense please?,False,1
+what's the typical salary for a 36 year old in administration,False,1
+whats the average salary of a blue collar worker in the usa?,False,1
+whats the least important attribute?,False,1
+whats the most important attribute,False,2
+whats the most or least important attribute?,False,1
+whats the reason,False,2
+what’s the most influential factor in this prediction?,False,2
+where does associate level education fall within the model?,False,1
+where does the model categorize admin jobs?,False,1
+which are the most and least important features,False,1
+which attribute will contribute the most if this person wants his/her income above $50k?,False,1
+which attributes influenced the model’s decision the most?,False,1
+which changes would lead to a different prediction or for the relationship of income and an attribute.,False,1
+which changes would lead to different predictions,False,1
+which class is the age supporting here?,False,1
+which collection of factors is most crucial for this person's result?,True,7
+which factor had the biggest impact on the over $50k prediction?,False,4
+which factor had the biggest impact on the under $50k prediction?,False,3
+which factor had the biggest impact on the under $50k prediction?  did the ai weigh education level (middle school) more than occupation (blue-collar)?,False,1
+which factor had the strongest influence on predicting under 50k?,False,1
+which factor has the strongest impact on the prediction?,False,1
+which factors must be altered for the model to predict something else?,True,7
+which features contribute the least to the model's prediction?,True,6
+which features have the most sway over the final result?,False,1
+which features play the strongest role in influencing the model's prediction?,True,26
+which occupations would indicate over 50k?,False,1
+which one is the most important factor,False,1
+which reasons were most and least important?,False,1
+why,False,5
+why am i correct,False,1
+why did it choose over 50k?,False,1
+"why did the age of 49 contribute to ""under 50k""? what factors might have led to this?",False,1
+why did the model predict over 50k for this person?,False,1
+why did the model predict over 50k?,False,1
+why did the model predict under 50k?,False,1
+"why did the model weigh the ""major gain (above 5k$)"" investment outcome so heavily, despite the low education level?",False,1
+why did you make that prediction?,False,2
+why did you male that prediction?,False,1
+why did you predict over 50k?,False,5
+why did you predict under 50,False,1
+why did you predict under 50k?,False,3
+why did you predict uner 50k?,False,1
+why did you select over 50k?,False,1
+why did you think it was under 50k?,False,1
+why did you think that,False,1
+"why do you believe over 50, they have no investment",False,1
+why do you believe that a person with only a middle school education is making over 50k annually?,False,1
+why do you predict over 50k,False,1
+why do you predict this person earns over 50k?,False,1
+why do you take so long to respond?,False,1
+why do you think he earns 50k plus,False,1
+why do you think so?,True,60
+why does being single have anything to do with it?,False,1
+why does being single have such a strong influence on lower income? does the model associate marriage with financial stability or dual-income households?,False,1
+why does marital status have such a high influence (42%) in predicting income?,False,1
+why does the sales occupation include both retail personnel and sales staff? they are very different occupations with different expected incomes,False,1
+why does their age and weekly working hours not put them over 50k?,False,1
+why does weekly working hours matter?,False,1
+why is being married a greater indicator of higher earning,False,1
+why is education the least important? wouldn't a middle school education imply that this person isn't qualified for admin positions?,False,1
+why is investment outcome a bigger indicator than education,False,1
+why is investment outcome most influential?,False,1
+why is investment the strongest factor,False,1
+why is it over 50k,False,1
+why is it so,False,1
+why is marital status ranked so highly?,False,1
+why is my answer correct,False,1
+why is predicted over $50k?,False,1
+why is that,False,1
+why is the age so significant,False,1
+why is the prediction over 50k,False,1
+why is this predicted as over 50k,False,1
+why is this prediction under 50k?,False,1
+why is this so?,False,1
+why not?,False,1
+why over 50k,False,4
+why over 50k?,True,72
+why prediction of over 50k despite low education and not married,False,1
+why prediction of under 50k,False,1
+why prediction over 50k considering low education and zero investment,False,1
+why prediction under 50k despite being married and long working hours,False,1
+why though,False,1
+why under 50k,False,3
+why under 50k?,True,70
+why was this predicted?,False,1
+why would being single affect their income,False,1
+"why would the ""minor gain (up to 5k$)"" investment outcome support ""under 50k"" in this case? what potential explanations are there? the ""married"" marital status and ""high school graduate"" education level were the most influential factors. does this suggest a strong bias in the model towards traditional indicators of stability and conventional success? given that ""white-collar"" occupation only contributed 6%, does this mean that in the model's training data, other factors like marital status and education are considered more significant indicators of high income in white-collar professions? how can a minor gain attribute be a negative indicator",False,1
+why?,False,7
+would a bachelor's degree significantly increase confidence in this prediction?,False,1
+would a change in investment outcome change your prediction?,False,1
+would a change in marital status change your prediction?,False,1
+"would a different job type (e.g., blue-collar) change the prediction?",False,1
+"would a higher education level (e.g., bachelor's degree) make a big difference?",False,1
+"would a higher education level (e.g., high school diploma) push this to over $50k?",False,2
+would a minor gain in investment change the prediction?,False,1
+would chaging to single aline in thsi example make it flip?,False,1
+would changing education level alone cause the prediction to change?,False,1
+would changing to single here even be enough to flip it alone?,False,1
+would eliminating the gain have been enough to change the outcome?,False,1
+"would fewer weekly working hours (e.g., 40 instead of 55) change the prediction?",False,1
+"would investment activity (e.g., a major gain) have changed the model’s prediction?",False,1
+would it be occupation and weekly hours being most important as they can basically give you the answer if you know the average salary for any given occupation,False,1
+would like to know more about how other features influenced the prediction?,False,1
+would major gain suggest that they had a much lower initial investment?,False,1
+would switching to a white-collar job have changed the prediction?,False,2
+would switching to a white-collar job have made the prediction stronger?,False,1
+"would the impact of marital status change if other factors, like education or occupation, were different?",False,1
+would the model's prediction change if just the education level changed?,False,1
+would the model's prediction change if just the occupation were different?,True,2
+would the prediction change if investments becomes a loss?,False,1
+would the prediction change if occupation changed to military?,False,1
+would the prediction change if only one the investment outcome changes?,False,1
+would the prediction change if the age goes about 40?,False,1
+would the prediction change if the education level is reduced?,False,1
+would the prediction change if the person had no investment gains but still worked 56 hours in an admin role?,False,1
+would this prediction change if the person had investment gains?,False,1
+yeah i habe to remember to think like a stupid llm istea dof what makes sense. it considers single way too much,False,1
+yep,False,1
+yes,False,10
+yes given this person's major gain over 5k in investments this indicated to me they earn over 50k.,False,1
+yes i think the factors align with my expectations,False,1
+yes i would!,False,1
+yes it does,False,1
+yes it matches my understanding,False,1
+yes lets proceed,False,1
+yes please,False,3
+"yes please, how do marital status and age factor influence the decision?",False,1
+yes thanks,False,1
+yes that helps me thank you i think im getting the hang of this,False,1
+"yes, can you explain more about how they interact? so, which ages and marital statuses are more favourable for predicting higher income?",False,1
+"yes, i'd love to explore how the anchor features are determined for the current prediction! understanding the key features that influence the prediction of over 50k will help clarify the model's decision-making process.  if you have access to the model's breakdown of feature importance or how each attribute influences the outcome, that would be really helpful. i'd be interested in seeing whether the model places more emphasis on specific features like investment gains, working hours, or others.",False,1
+"yes, what age would support a prediction of earning over 50k?",False,1
+yes. could you list each factor in order of importance?,False,1
+your conclusion in this case seems to contradict your reasons for your previous predictions.,False,1
