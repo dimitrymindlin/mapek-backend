@@ -99,7 +99,7 @@ mapek-backend/
 - **Thread pool errors** - `ML_EXECUTOR_THREADS` must be a positive integer; the default configuration expects `4`.
 
 ## Ethics & Data Handling
-- **IRB approval:** the HAI 2025 user study and data collection were authorised under the Faculty of Technology Ethics Committee at Bielefeld University. The approval letter is archived in [`Ethics_approval.pdf`](./Ethics_approval.pdf); cite protocol ID `HAI-2025-Mapek-02` when referencing the study.
+- **IRB approval:** the HAI 2025 user study and data collection were authorised under the Faculty of Technology Ethics Committee at Bielefeld University. The approval letter is archived in [`Ethics_approval.pdf`](./Ethics_approval.pdf);
 - **Sanitised datasets:** running `python experiment_analysis/1_get_raw_experiment_data.py --salt <secret>` generates anonymised Stage 1 outputs in `experiment_analysis/results/<handle>/1_raw/` and a public-friendly pipeline in stages 2–4. Never publish the private exports stored in `0_private_raw/` or the auxiliary `0_private_raw/user_id_mapping.csv`.
 - **Participant privacy:** the repository only includes de-identified metrics and hashed participant IDs. Free-text responses can be dropped (`--drop-free-text`) if you require an even stricter release.
 
