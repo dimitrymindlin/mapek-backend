@@ -4,6 +4,9 @@
 
 > Official backend for the HAI 2025 paper "Towards Co-Constructed Explanations: A Multi-Agent Reasoning-Based Conversational System for Adaptive Explanations".
 
+## Architecture Only
+I provide a slimmer repository if you want to explore or extend the CoCoXplain architecrure without the experiment data and analysis workflow. It includes the core backend logic, LLM agents, and explanation generators but excludes the HAI25-specific configs, trained models, and experiment analysis scripts. Find it here: [slim backend](https://github.com/dimitrymindlin/CoCoXplain).
+
 ## Quick Links
 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3765766.3765768)
 - [Frontend repository](https://github.com/dimitrymindlin/mapek-frontend)
